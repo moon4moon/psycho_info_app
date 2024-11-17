@@ -1,0 +1,46 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style TargetType="RadioButton" x:Key="Menu_Button">
+
+        <Style.Triggers>
+            <Trigger Property="IsChecked" Value="True">
+                <Setter Property="Background" Value="#2A6F97"/>
+            </Trigger>
+        </Style.Triggers>
+
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="RadioButton">
+                    <Grid VerticalAlignment="Stretch"
+                          HorizontalAlignment="Stretch"
+                          Background="{TemplateBinding Background}"
+                          Height="70">
+
+                        <TextBlock Text="{TemplateBinding Property=Content}"
+                                   VerticalAlignment="Center"
+                                   Foreground="White"
+                                   FontSize="20"
+                                   TextAlignment="Center"/>
+
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="BorderThickness"
+                Value="0"/>
+
+    </Style>
+
+    <Style TargetType="TextBlock" x:Key="Text">
+        <Setter Property="Foreground"
+                Value="White"/>
+        <Setter Property="FontSize"
+                Value="20"/>
+        <Setter Property="VerticalAlignment"
+                Value="Center"/>
+        <Setter Property="Margin"
+                Value="50,0,0,0"/>
+    </Style>
+</ResourceDictionary>

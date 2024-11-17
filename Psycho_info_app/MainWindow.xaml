@@ -4,9 +4,72 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Psycho_info_app"
+        xmlns:ViewModel="clr-namespace:Psycho_info_app.ViewModel"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+        Title="PsychoApp"
+        Height="900"
+        Width="1440"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        >
+
+    <Window.DataContext>
+        <ViewModel:MainViewModel/>
+    </Window.DataContext>
+    
+    <Border Background="#01497C">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="280"/>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0"
+                        Background="#012A4A">
+                
+                <Border Height="280"
+                        Background="Transparent">
+                    
+                    <TextBlock Text="AppTitle"
+                               Foreground="White"
+                               FontSize="30"
+                               FontWeight="Bold"
+                               TextAlignment="Center"
+                               VerticalAlignment="Center"/>
+                </Border>
+
+                <RadioButton Content="Strona główna"
+                    Name="HomePage"
+                             Style="{StaticResource Menu_Button}"
+                             IsChecked="True"/>
+
+                <RadioButton Content="Choroby"
+                             Name="Dieases"
+                             Style="{StaticResource Menu_Button}"/>
+                
+                <RadioButton Content="Terapie"
+                             Name="Therapies"
+                             Style="{StaticResource Menu_Button}"/>
+                
+                <RadioButton Content="Specialiści" 
+                             Name="Specialists"
+                             Style="{StaticResource Menu_Button}"/>
+                
+                <RadioButton Content="Jak żyć zdrowo" 
+                             Name="HealthLife"
+                             Style="{StaticResource Menu_Button}"/>
+                
+                <RadioButton Content="Testy" 
+                             Name="Tests"
+                             Style="{StaticResource Menu_Button}"/>
+                
+                <RadioButton Content="O nas" 
+                             Name="AboutUs"
+                             Style="{StaticResource Menu_Button}"/>
+            </StackPanel>
+
+            <ContentControl Grid.Column="1"
+                            Content="{Binding CurrentView}"/>
+        </Grid>
+    </Border>
 </Window>
