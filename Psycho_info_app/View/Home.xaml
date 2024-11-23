@@ -5,71 +5,75 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:Psycho_info_app.View"
              mc:Ignorable="d" 
-             d:DesignHeight="800" d:DesignWidth="900">
-    <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="140 "/>
-            <RowDefinition Height="430"/>
-            <RowDefinition/>
-            <RowDefinition Height="64"/>
-        </Grid.RowDefinitions>
+             d:DesignHeight="900" d:DesignWidth="1160">
+    <ScrollViewer>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="140 "/>
+                <RowDefinition Height="430"/>
+                <RowDefinition Height="390"/>
+                <RowDefinition Height="64"/>
+            </Grid.RowDefinitions>
 
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-        </Grid.ColumnDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
 
-        <Border Background="#7C9821" 
-                Grid.ColumnSpan="2">
-            
-            <TextBlock Text="TITLE" Name="title"/>
-            
-        </Border>
+            <Border Background="#012A4A" 
+                    Grid.ColumnSpan="2">
 
-        <Border Background="#D6CCB0" 
-                Grid.Row="1" Grid.Column="0"
-                Height="410" Width="560"
-                CornerRadius="40">
+                <TextBlock Text="TITLE"
+                           Name="title"
+                           Foreground="White"/>
 
-            <TextBlock Name="note"
-                       Height="100" Width="100"
-                       TextAlignment="Center"
-                       VerticalAlignment="Center">
-                Notka o zdowiu
-            </TextBlock>
-            
-        </Border>
+            </Border>
 
-        <Border Background="#D6CCB0"
-                Grid.Row="1" Grid.Column="1"
-                Height="410" Width="560"
-                CornerRadius="40">
-            
-            <TextBlock Text="TITLE" Name="zacheta"/>
-            
-        </Border>
+            <Border Background="#A9D6E5" 
+                    Grid.Row="1" Grid.Column="0"
+                    Height="410" Width="560"
+                    CornerRadius="40">
 
-        <Border Background="#D6CCB0" 
-                Grid.Row="2" Grid.ColumnSpan="2"
-                Height="360" Width="1140"
-                CornerRadius="40">
-            
-            <TextBlock Text="TITLE" Name="cel"/>
-            
-        </Border>
-        
-        <Border Background="#C9D749" 
-                Grid.Row="3" Grid.Column="0">
-            
-            <TextBlock Text="TITLE" Name="testy"/>
-            
-        </Border>
+                <TextBlock Name="note"
+                           Height="100" Width="100"
+                           TextAlignment="Center"
+                           VerticalAlignment="Center">
+                    Notka o zdowiu
+                </TextBlock>
 
-        <Border Background="#C9D749" 
-                Grid.Row="3" Grid.Column="1">
+            </Border>
 
-            <TextBlock Text="TITLE" Name="phone"/>
+            <Border Background="#A9D6E5"
+                    Grid.Row="1" Grid.Column="1"
+                    Height="410" Width="560"
+                    CornerRadius="40">
 
-        </Border>
-    </Grid>
+                <TextBlock Text="TITLE" Name="zacheta"/>
+
+            </Border>
+
+            <Border Background="#A9D6E5" 
+                    Grid.Row="2" Grid.ColumnSpan="2"
+                    Height="360" Width="1140"
+                    CornerRadius="40">
+
+                <TextBlock Text="TITLE" Name="cel"/>
+
+            </Border>
+
+            <Border Background="#61A5C2" 
+                    Grid.Row="3" Grid.Column="0">
+
+                <TextBlock Text="TITLE" Name="testy"/>
+
+            </Border>
+
+            <Border Background="#61A5C2" 
+                    Grid.Row="3" Grid.Column="1">
+
+                <TextBlock Text="TITLE" Name="phone"/>
+
+            </Border>
+        </Grid>
+    </ScrollViewer>
 </UserControl>

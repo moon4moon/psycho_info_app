@@ -39,33 +39,40 @@
                 </Border>
 
                 <RadioButton Content="Strona główna"
-                    Name="HomePage"
+                             Name="HomePage"
                              Style="{StaticResource Menu_Button}"
-                             IsChecked="True"/>
+                             IsChecked="True"
+                             Command="{Binding HomeVC}"/>
 
                 <RadioButton Content="Choroby"
                              Name="Dieases"
-                             Style="{StaticResource Menu_Button}"/>
+                             Style="{StaticResource Menu_Button}"
+                             Command="{Binding DiseasesListVC}"/>
                 
                 <RadioButton Content="Terapie"
                              Name="Therapies"
-                             Style="{StaticResource Menu_Button}"/>
+                             Style="{StaticResource Menu_Button}"
+                             Command="{Binding TherapyVC}"/>
                 
                 <RadioButton Content="Specialiści" 
                              Name="Specialists"
-                             Style="{StaticResource Menu_Button}"/>
+                             Style="{StaticResource Menu_Button}"
+                             Command="{Binding SpecialistsVC}"/>
                 
                 <RadioButton Content="Jak żyć zdrowo" 
                              Name="HealthLife"
-                             Style="{StaticResource Menu_Button}"/>
+                             Style="{StaticResource Menu_Button}"
+                             Command="{Binding HealthLifeVC}"/>
                 
                 <RadioButton Content="Testy" 
                              Name="Tests"
-                             Style="{StaticResource Menu_Button}"/>
+                             Style="{StaticResource Menu_Button}"
+                             Command="{Binding TestsVC}"/>
                 
                 <RadioButton Content="O nas" 
                              Name="AboutUs"
-                             Style="{StaticResource Menu_Button}"/>
+                             Style="{StaticResource Menu_Button}"
+                             Command="{Binding AboutUsVC}"/>
             </StackPanel>
 
             <ContentControl Grid.Column="1"

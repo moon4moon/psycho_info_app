@@ -15,6 +15,30 @@
                 <view:Home/>
             </DataTemplate>
 
+            <DataTemplate DataType="{x:Type ViewModel:DiseasesListVM}">
+                <view:DiseasesList/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type ViewModel:TherapyVM}">
+                <view:Therapy/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type ViewModel:SpecialistsVM}">
+                <view:Specialists/>
+            </DataTemplate>
+            
+            <DataTemplate DataType="{x:Type ViewModel:HealthLifeVM}">
+                <view:HealthLife/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type ViewModel:TestsVM}">
+                <view:Tests/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type ViewModel:AboutUsVM}">
+                <view:AboutUs/>
+            </DataTemplate>
+
         </ResourceDictionary>
     </Application.Resources>
 </Application>
