@@ -9,8 +9,7 @@
     <ScrollViewer>
         <StackPanel Background="Yellow">
             <Border Background="#012A4A" 
-                    Height="140"
-                    Margin="0 0 0 10">
+                    Height="140">
 
                 <TextBlock Text="TITLE"
                            Name="title"

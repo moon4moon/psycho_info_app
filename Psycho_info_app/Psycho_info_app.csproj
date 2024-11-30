@@ -72,6 +72,10 @@
     </ApplicationDefinition>
     <Compile Include="Core\ObservableObject.cs" />
     <Compile Include="Core\RelayCommand.cs" />
+    <Compile Include="Model\InfoSend.cs" />
+    <Compile Include="TESTOWE.xaml.cs">
+      <DependentUpon>TESTOWE.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ViewModel\AboutUsVM.cs" />
     <Compile Include="ViewModel\DiseaseInfoVM.cs" />
     <Compile Include="ViewModel\DiseasesListVM.cs" />
@@ -117,6 +121,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="TESTOWE.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Themes\MenuButtons.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -173,6 +181,7 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="bin\Debug\Psycho_info_app.exe.config" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -182,6 +191,29 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="bin\Debug\Materials\test.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="bin\Debug\Materials\cos.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\CommonServiceLocator.dll" />
+    <Content Include="bin\Debug\GalaSoft.MvvmLight.dll" />
+    <Content Include="bin\Debug\GalaSoft.MvvmLight.Extras.dll" />
+    <Content Include="bin\Debug\GalaSoft.MvvmLight.Extras.pdb" />
+    <Resource Include="bin\Debug\GalaSoft.MvvmLight.Extras.xml" />
+    <Content Include="bin\Debug\GalaSoft.MvvmLight.pdb" />
+    <Content Include="bin\Debug\GalaSoft.MvvmLight.Platform.dll" />
+    <Content Include="bin\Debug\GalaSoft.MvvmLight.Platform.pdb" />
+    <Resource Include="bin\Debug\GalaSoft.MvvmLight.Platform.xml" />
+    <Resource Include="bin\Debug\GalaSoft.MvvmLight.xml" />
+    <Content Include="bin\Debug\Psycho_info_app.exe" />
+    <Content Include="bin\Debug\Psycho_info_app.pdb" />
+    <Content Include="bin\Debug\System.Windows.Interactivity.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

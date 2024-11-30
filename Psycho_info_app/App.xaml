@@ -39,6 +39,10 @@
                 <view:AboutUs/>
             </DataTemplate>
 
+            <DataTemplate DataType="{x:Type ViewModel:DiseaseInfoVM}">
+                <view:DiseaseInfo/>
+            </DataTemplate>
+
         </ResourceDictionary>
     </Application.Resources>
 </Application>

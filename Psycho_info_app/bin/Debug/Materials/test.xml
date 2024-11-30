@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diseases>
+	<list>
+		<name>Pierwsza</name>
+		<note>Text</note>
+		<why>Tralala</why>
+	</list>
+
+	<list>
+		<name>Druga</name>
+		<note>spie</note>
+		<why>mucha</why>
+	</list>
+
+	<list>
+		<name>Trzecia</name>
+		<note>ruch</note>
+		<why>korzuch</why>
+	</list>
+</diseases>

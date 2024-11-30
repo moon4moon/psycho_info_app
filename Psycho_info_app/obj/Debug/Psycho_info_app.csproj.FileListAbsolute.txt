@@ -30,11 +30,6 @@ D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\View\Home.baml
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\View\Specialists.baml
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\View\Tests.baml
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\View\Therapy.baml
-D:\VS projects\Psycho_info_app\Psycho_info_app\bin\Debug\CommonServiceLocator.dll
-D:\VS projects\Psycho_info_app\Psycho_info_app\bin\Debug\GalaSoft.MvvmLight.dll
-D:\VS projects\Psycho_info_app\Psycho_info_app\bin\Debug\GalaSoft.MvvmLight.Extras.dll
-D:\VS projects\Psycho_info_app\Psycho_info_app\bin\Debug\GalaSoft.MvvmLight.Platform.dll
-D:\VS projects\Psycho_info_app\Psycho_info_app\bin\Debug\System.Windows.Interactivity.dll
 D:\VS projects\Psycho_info_app\Psycho_info_app\bin\Debug\GalaSoft.MvvmLight.pdb
 D:\VS projects\Psycho_info_app\Psycho_info_app\bin\Debug\GalaSoft.MvvmLight.xml
 D:\VS projects\Psycho_info_app\Psycho_info_app\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
@@ -45,3 +40,6 @@ D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\Psycho_info_app.csproj.
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\Themes\MenuButtons.baml
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\App.baml
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\TESTOWE.g.cs
+D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\TESTOWE.baml
+D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\Psycho_info_app_Content.g.cs
