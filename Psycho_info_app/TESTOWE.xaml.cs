@@ -19,13 +19,15 @@ namespace Psycho_info_app
     public partial class TESTOWE : Window
     {
 
-        public TESTOWE()
+        public TESTOWE(string reasons)
         {
             InitializeComponent();
 
             InfoSend infoSend = new InfoSend();
 
             Opis.Text = infoSend.Info;
+
+            ReasonsTextBlock.Text = reasons;
         }
     }
 }

@@ -48,7 +48,9 @@ namespace Psycho_info_app.View
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            TESTOWE objTestowe = new TESTOWE();
+            string reason = "Whatever";
+
+             TESTOWE objTestowe = new TESTOWE(reason);
             InfoSend infoSend = new InfoSend();
 
             Button button = sender as Button;
