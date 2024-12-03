@@ -14,6 +14,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Xml;
 using Microsoft.Win32;
 using Psycho_info_app.Model;
 using Psycho_info_app.ViewModel;
@@ -26,34 +27,33 @@ namespace Psycho_info_app.View
         {
             InitializeComponent();
 
-            string path = Directory.GetCurrentDirectory() + "\\Materials\\cos.txt";
+            XmlDocument xml = new XmlDocument();
 
-            using (StreamReader sr = new StreamReader(path))
+            string path = Directory.GetCurrentDirectory() + "\\Materials\\test.xml";
+
+            xml.Load(path);
+
+            XmlNodeList diseasesList = xml.DocumentElement.SelectNodes("/Diseases/List");
+
+            foreach (XmlNode list in diseasesList)
             {
-                while (!sr.EndOfStream)
-                {
-                    string cosiek = sr.ReadLine();
+                Button button = new Button();
 
-                    Button button = new Button();
+                button.Content = list.SelectSingleNode("Name").InnerText.ToString();
+                button.Name = list.SelectSingleNode("Number").InnerText.ToString();
+                button.Click += Button_Click;
 
-                    button.Content = cosiek;
-                    button.Name = cosiek.ToString();
-                    button.Click += Button_Click;
-
-                    Buttons.Children.Add(button);
-
-                }
+                Buttons.Children.Add(button);
             }
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            TESTOWE objTestowe = new TESTOWE();
-            InfoSend infoSend = new InfoSend();
-
             Button button = sender as Button;
 
-            infoSend.infoSend(button.Name);
+            string info = button.Name;
+
+            TESTOWE objTestowe = new TESTOWE(info);
 
             objTestowe.Show();
         }

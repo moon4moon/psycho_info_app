@@ -13,76 +13,66 @@
                     Margin="0 0 0 10">
 
                 <TextBlock Text="DiseaseName"
-                           Name="DiseaseName"
+                           Name="Name"
                            Foreground="White"/>
 
             </Border>
 
             <StackPanel>
                 <Border Background="Yellow"
-                        Height="auto"
-                        Margin="0 0 0 10">
+                            Height="auto"
+                            Margin="0 0 0 10">
+                    <StackPanel Name="Informations">
 
-                    <TextBlock Text="OPIS"
-                               Name="Opis"
-                               Foreground="Black"/>
-
+                    </StackPanel>
                 </Border>
+
                 <Border Background="Yellow"
-                        Height="auto"
-                        Margin="0 0 0 10">
+                            Height="auto"
+                            Margin="0 0 0 10">
+                    <StackPanel Name="Reasons">
 
-                    <TextBlock Text="PRZYCZYNY"
-                               Foreground="Black"/>
-
+                    </StackPanel>
                 </Border>
+
                 <Border Background="Yellow"
-                        Height="auto"
-                        Margin="0 0 0 10">
+                            Height="auto"
+                            Margin="0 0 0 10">
+                    <StackPanel Name="Symptoms">
 
-                    <TextBlock Text="OBJAWY"
-                               Foreground="Black"/>
-
+                    </StackPanel>
                 </Border>
+
                 <Border Background="Yellow"
-                        Height="auto"
-                        Margin="0 0 0 10">
+                            Height="auto"
+                            Margin="0 0 0 10">
+                    <StackPanel Name="Results">
 
-                    <TextBlock Text="SKUTKI"
-                               Foreground="Black"/>
-
+                    </StackPanel>
                 </Border>
+
                 <Border Background="Yellow"
-                        Height="auto"
-                        Margin="0 0 0 10">
+                            Height="auto"
+                            Margin="0 0 0 10">
+                    <StackPanel Name="Counteractions">
 
-                    <TextBlock Text="SPOSOBY PRZECIWDZIAŁANIA"
-                               Foreground="Black"/>
-
+                    </StackPanel>
                 </Border>
+                
                 <Border Background="Yellow"
-                        Height="auto"
-                        Margin="0 0 0 10">
+                            Height="auto"
+                            Margin="0 0 0 10">
+                    <StackPanel Name="Examples">
 
-                    <TextBlock Text="METODY LECZENIA"
-                               Foreground="Black"/>
-
+                    </StackPanel>
                 </Border>
+
                 <Border Background="Yellow"
-                        Height="auto"
-                        Margin="0 0 0 10">
+                            Height="auto"
+                            Margin="0 0 0 10">
+                    <StackPanel Name="Behavior">
 
-                    <TextBlock Text="PRZYKŁADY"
-                               Foreground="Black"/>
-
-                </Border>
-                <Border Background="Yellow"
-                        Height="auto"
-                        Margin="0 0 0 10">
-
-                    <TextBlock Text="ZACHOWANIE WOBEC CHORYCH"
-                               Foreground="Black"/>
-
+                    </StackPanel>
                 </Border>
             </StackPanel>
         </StackPanel>
