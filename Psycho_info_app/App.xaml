@@ -9,6 +9,11 @@
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="./Themes/MenuButtons.xaml"/>
+                <ResourceDictionary Source="./Themes/PageTitle.xaml"/>
+                <ResourceDictionary Source="./Themes/DiseaseButtons.xaml"/>
+                <ResourceDictionary Source="./Themes/DiseaseInfoStyle.xaml"/>
+                <ResourceDictionary Source="./Themes/SpecialistsBlocks.xaml"/>
+                <ResourceDictionary Source="./Themes/MainPageStyle.xaml"/>
             </ResourceDictionary.MergedDictionaries>
 
             <DataTemplate DataType="{x:Type ViewModel:HomeVM}">
@@ -37,10 +42,6 @@
 
             <DataTemplate DataType="{x:Type ViewModel:AboutUsVM}">
                 <view:AboutUs/>
-            </DataTemplate>
-
-            <DataTemplate DataType="{x:Type ViewModel:DiseaseInfoVM}">
-                <view:DiseaseInfo/>
             </DataTemplate>
 
         </ResourceDictionary>

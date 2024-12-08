@@ -15,9 +15,6 @@ using System.Windows.Shapes;
 
 namespace Psycho_info_app
 {
-    /// <summary>
-    /// Logika interakcji dla klasy MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         public MainWindow()

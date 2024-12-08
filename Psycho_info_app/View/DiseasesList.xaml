@@ -10,16 +10,15 @@
 
     <ScrollViewer>
         <StackPanel Background="Transparent">
-            <Border Background="#012A4A" 
-                    Height="140"
-                    Margin="0 0 0 10">
+            <Border Style="{StaticResource Border_Title}">
 
-                <TextBlock Text="TITLE"
+                <TextBlock Text="Lista chorób"
                            Name="title"
-                           Foreground="White"/>
+                           Style="{StaticResource Page_Title}"/>
 
             </Border>
-            <StackPanel Name="Buttons">
+            <StackPanel Name="Buttons"
+                        VerticalAlignment="Center">
             </StackPanel>
         </StackPanel>
     </ScrollViewer>

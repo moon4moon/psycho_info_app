@@ -10,9 +10,9 @@
         <Grid>
             <Grid.RowDefinitions>
                 <RowDefinition Height="140 "/>
-                <RowDefinition Height="430"/>
-                <RowDefinition Height="390"/>
-                <RowDefinition Height="64"/>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
             </Grid.RowDefinitions>
 
             <Grid.ColumnDefinitions>
@@ -20,58 +20,65 @@
                 <ColumnDefinition/>
             </Grid.ColumnDefinitions>
 
-            <Border Background="#012A4A" 
-                    Grid.ColumnSpan="2">
+            <Border Grid.ColumnSpan="2"
+                    Style="{StaticResource Border_Title}">
 
-                <TextBlock Text="TITLE"
+                <TextBlock Text="Psycho App"
                            Name="title"
-                           Foreground="White"/>
+                           Style="{StaticResource Page_Title}"/>
 
             </Border>
 
-            <Border Background="#A9D6E5" 
-                    Grid.Row="1" Grid.Column="0"
-                    Height="410" Width="560"
-                    CornerRadius="40">
+            <Border Grid.Row="1" Grid.Column="0"
+                    Style="{StaticResource Main_Border}"
+                    Height="300" Width="400">
 
                 <TextBlock Name="note"
-                           Height="100" Width="100"
-                           TextAlignment="Center"
-                           VerticalAlignment="Center">
-                    Notka o zdowiu
+                           Style="{StaticResource Main_Text}">
+                    Zdrowie psychiczne to stan równowagi, który pozwala nam radzić sobie z codziennymi wyzwaniami, budować trwałe relacje i cieszyć się życiem. Jego znaczenie jest ogromne, ponieważ wpływa na wszystkie aspekty naszego funkcjonowania – od pracy i nauki po relacje z bliskimi. Zaniedbanie zdrowia psychicznego może prowadzić do stresu, wypalenia czy problemów zdrowotnych. Dlatego tak ważne jest, by dbać o siebie, szukać wsparcia, kiedy tego potrzebujemy i nie ignorować sygnałów ostrzegawczych.
                 </TextBlock>
 
             </Border>
 
-            <Border Background="#A9D6E5"
-                    Grid.Row="1" Grid.Column="1"
-                    Height="410" Width="560"
-                    CornerRadius="40">
+            <Border Grid.Row="1" Grid.Column="1"
+                    Style="{StaticResource Main_Border}"
+                    Height="300" Width="400">
 
-                <TextBlock Text="TITLE" Name="zacheta"/>
+                <TextBlock Name="zacheta"
+                           Style="{StaticResource Main_Text}">
+                    Zdrowie psychiczne jest równie ważne jak fizyczne, a troska o nie powinna być codziennym elementem naszego życia. Znajdź czas na odpoczynek, rozmowę z bliskimi czy chwilę ciszy tylko dla siebie. Pamiętaj, że to, jak się czujesz wewnętrznie, wpływa na Twoje relacje, decyzje i jakość życia. Nie bój się prosić o pomoc – rozmowa z psychologiem to krok w stronę lepszego samopoczucia. Dbając o zdrowie psychiczne, inwestujesz w swoje szczęście i spokój ducha. Zrób to dla siebie!
+                </TextBlock>
 
             </Border>
 
-            <Border Background="#A9D6E5" 
-                    Grid.Row="2" Grid.ColumnSpan="2"
-                    Height="360" Width="1140"
-                    CornerRadius="40">
+            <Border Grid.Row="2" Grid.ColumnSpan="2"
+                    Style="{StaticResource Main_Border}"
+                    Height="200" Width="500">
 
-                <TextBlock Text="TITLE" Name="cel"/>
+                <TextBlock Name="cel"
+                           Style="{StaticResource Main_Text}">
+                    PsychoAPP to aplikacja, która wspiera użytkowników w dbaniu o zdrowie psychiczne. Aplikacja ma dostarczać narzędzi do budowania zdrowych nawyków. Chcemy, aby była przestrzenią, gdzie każdy znajdzie wsparcie, edukację oraz motywację do codziennej troski o swoje emocje i równowagę psychiczną.
+                </TextBlock>
 
             </Border>
 
             <Border Background="#61A5C2" 
                     Grid.Row="3" Grid.Column="0">
 
-                <TextBlock Text="TITLE" Name="testy"/>
+                <TextBlock Name="testy"
+                           Style="{StaticResource Main_Text}">
+                    Testy
+                </TextBlock>
 
             </Border>
 
             <Border Background="#61A5C2" 
                     Grid.Row="3" Grid.Column="1">
 
-                <TextBlock Text="TITLE" Name="phone"/>
+                <TextBlock Name="phone"
+                           Style="{StaticResource Main_Text}">
+                    Nr telefonu
+                </TextBlock>
 
             </Border>
         </Grid>

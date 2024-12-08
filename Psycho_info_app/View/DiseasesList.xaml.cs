@@ -16,7 +16,6 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Xml;
 using Microsoft.Win32;
-using Psycho_info_app.Model;
 using Psycho_info_app.ViewModel;
 
 namespace Psycho_info_app.View
@@ -41,6 +40,7 @@ namespace Psycho_info_app.View
 
                 button.Content = list.SelectSingleNode("Name").InnerText.ToString();
                 button.Name = list.SelectSingleNode("Number").InnerText.ToString();
+                button.Style = (Style)FindResource("Disease_Button");
                 button.Click += Button_Click;
 
                 Buttons.Children.Add(button);
@@ -53,9 +53,9 @@ namespace Psycho_info_app.View
 
             string info = button.Name;
 
-            TESTOWE objTestowe = new TESTOWE(info);
+            DiseaseInfo diseaseInfo = new DiseaseInfo(info);
 
-            objTestowe.Show();
+            diseaseInfo.Show();
         }
 
     }

@@ -72,12 +72,10 @@
     </ApplicationDefinition>
     <Compile Include="Core\ObservableObject.cs" />
     <Compile Include="Core\RelayCommand.cs" />
-    <Compile Include="Model\InfoSend.cs" />
-    <Compile Include="TESTOWE.xaml.cs">
-      <DependentUpon>TESTOWE.xaml</DependentUpon>
+    <Compile Include="DiseaseInfo.xaml.cs">
+      <DependentUpon>DiseaseInfo.xaml</DependentUpon>
     </Compile>
     <Compile Include="ViewModel\AboutUsVM.cs" />
-    <Compile Include="ViewModel\DiseaseInfoVM.cs" />
     <Compile Include="ViewModel\DiseasesListVM.cs" />
     <Compile Include="ViewModel\HealthLifeVM.cs" />
     <Compile Include="ViewModel\HomeVM.cs" />
@@ -87,9 +85,6 @@
     <Compile Include="ViewModel\TherapyVM.cs" />
     <Compile Include="View\AboutUs.xaml.cs">
       <DependentUpon>AboutUs.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="View\DiseaseInfo.xaml.cs">
-      <DependentUpon>DiseaseInfo.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\DiseasesList.xaml.cs">
       <DependentUpon>DiseasesList.xaml</DependentUpon>
@@ -109,6 +104,10 @@
     <Compile Include="View\Therapy.xaml.cs">
       <DependentUpon>Therapy.xaml</DependentUpon>
     </Compile>
+    <Page Include="DiseaseInfo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -121,7 +120,15 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="TESTOWE.xaml">
+    <Page Include="Themes\DiseaseButtons.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Themes\DiseaseInfoStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Themes\MainPageStyle.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -129,11 +136,15 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="View\AboutUs.xaml">
+    <Page Include="Themes\PageTitle.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="View\DiseaseInfo.xaml">
+    <Page Include="Themes\SpecialistsBlocks.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\AboutUs.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -163,7 +174,6 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Model\PageModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -195,9 +205,6 @@
     <Resource Include="bin\Debug\Materials\test.xml" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="bin\Debug\Materials\cos.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="bin\Debug\CommonServiceLocator.dll" />
     <Content Include="bin\Debug\GalaSoft.MvvmLight.dll" />
     <Content Include="bin\Debug\GalaSoft.MvvmLight.Extras.dll" />
@@ -214,6 +221,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\Release\" />
+    <Folder Include="Model\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

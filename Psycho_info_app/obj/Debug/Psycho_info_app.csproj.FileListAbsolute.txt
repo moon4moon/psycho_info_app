@@ -15,7 +15,6 @@ D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\Psycho_info_app.csproj.
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\Psycho_info_app.exe
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\Psycho_info_app.pdb
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\View\AboutUs.g.cs
-D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\View\DiseaseInfo.g.cs
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\View\DiseasesList.g.cs
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\View\HealthLife.g.cs
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\View\Home.g.cs
@@ -23,7 +22,6 @@ D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\View\Specialists.g.cs
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\View\Tests.g.cs
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\View\Therapy.g.cs
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\View\AboutUs.baml
-D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\View\DiseaseInfo.baml
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\View\DiseasesList.baml
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\View\HealthLife.baml
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\View\Home.baml
@@ -40,6 +38,11 @@ D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\Psycho_info_app.csproj.
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\Themes\MenuButtons.baml
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\App.baml
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\GeneratedInternalTypeHelper.g.cs
-D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\TESTOWE.g.cs
-D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\TESTOWE.baml
 D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\Psycho_info_app_Content.g.cs
+D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\DiseaseInfo.g.cs
+D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\DiseaseInfo.baml
+D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\Themes\PageTitle.baml
+D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\Themes\DiseaseButtons.baml
+D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\Themes\DiseaseInfoStyle.baml
+D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\Themes\SpecialistsBlocks.baml
+D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\Themes\MainPageStyle.baml
