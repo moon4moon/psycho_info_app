@@ -19,10 +19,14 @@
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition/>
                     <ColumnDefinition/>
-                    <ColumnDefinition/>
                 </Grid.ColumnDefinitions>
 
                 <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
                     <RowDefinition/>
                     <RowDefinition/>
                     <RowDefinition/>
@@ -34,21 +38,22 @@
                         Style="{StaticResource Specialist_Border}">
                     
                     <StackPanel VerticalAlignment="Center">
-                        
-                        <TextBlock Text="Specializacja"
+
+                        <TextBlock Text="Telefon Zaufania Uzależnienia Behawioralne:"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Imię i nazwisko"
+                        <TextBlock Text="Telefon zaufania dla osób z uzależnieniami behawioralnymi przy Instytucie Psychologii Zdrowia PTP"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Miejscowość"
+                        <TextBlock Text="Tel.: 801889880"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Adres"
+                        <TextBlock Text="Czynny codziennie w godzinach 17:00-22:00"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Godziny przyjęć"
-                                   Style="{StaticResource Specialist_Info}"/>
+                        <TextBlock Style="{StaticResource Specialist_Info}">
+                            <Hyperlink Foreground="Black" NavigateUri="https://psychologia.edu.pl/component/content/article/1-latest-news/1303-telefon-zaufania-801-889-880.html">Więcej informacji</Hyperlink>
+                        </TextBlock>
 
                     </StackPanel>
                 
@@ -59,43 +64,16 @@
 
                     <StackPanel VerticalAlignment="Center">
 
-                        <TextBlock Text="Specializacja"
+                        <TextBlock Text="Telefon wsparcia kryzysowego Asystentów Zdrowienia:"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Imię i nazwisko"
+                        <TextBlock Text="Dla osób dotkniętych kryzysem psychicznym, ich Rodzin i Przyjaciół"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Miejscowość"
+                        <TextBlock Text="Tel.: 698 761 774"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Adres"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Godziny przyjęć"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                    </StackPanel>
-
-                </Border>
-                <Border Grid.Column="2"
-                        Grid.Row="0"
-                        Style="{StaticResource Specialist_Border}">
-
-                    <StackPanel VerticalAlignment="Center">
-
-                        <TextBlock Text="Specializacja"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Imię i nazwisko"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Miejscowość"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Adres"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Godziny przyjęć"
+                        <TextBlock Text="Czynny w poniedziałki w godzinach 10:00 – 19:00"
                                    Style="{StaticResource Specialist_Info}"/>
 
                     </StackPanel>
@@ -107,19 +85,16 @@
 
                     <StackPanel VerticalAlignment="Center">
 
-                        <TextBlock Text="Specializacja"
+                        <TextBlock Text="Telefon wsparcia kryzysowego Asystentów Zdrowienia:"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Imię i nazwisko"
+                        <TextBlock Text="Dla osób dotkniętych kryzysem psychicznym, ich Rodzin i Przyjaciół"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Miejscowość"
+                        <TextBlock Text="Tel.: 698 761 774"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Adres"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Godziny przyjęć"
+                        <TextBlock Text="Czynny w poniedziałki w godzinach 10:00 – 19:00"
                                    Style="{StaticResource Specialist_Info}"/>
 
                     </StackPanel>
@@ -131,43 +106,16 @@
 
                     <StackPanel VerticalAlignment="Center">
 
-                        <TextBlock Text="Specializacja"
+                        <TextBlock Text="Telefon wsparcia kryzysowego Asystentów Zdrowienia:"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Imię i nazwisko"
+                        <TextBlock Text="Dla osób dotkniętych kryzysem psychicznym, ich Rodzin i Przyjaciół"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Miejscowość"
+                        <TextBlock Text="Tel.: 698 761 774"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Adres"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Godziny przyjęć"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                    </StackPanel>
-
-                </Border>
-                <Border Grid.Column="2"
-                        Grid.Row="1"
-                        Style="{StaticResource Specialist_Border}">
-
-                    <StackPanel VerticalAlignment="Center">
-
-                        <TextBlock Text="Specializacja"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Imię i nazwisko"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Miejscowość"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Adres"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Godziny przyjęć"
+                        <TextBlock Text="Czynny w poniedziałki w godzinach 10:00 – 19:00"
                                    Style="{StaticResource Specialist_Info}"/>
 
                     </StackPanel>
@@ -179,19 +127,13 @@
 
                     <StackPanel VerticalAlignment="Center">
 
-                        <TextBlock Text="Specializacja"
+                        <TextBlock Text="Środowiskowe Centrum Zdrowia Psychicznego dla Dorosłych Warszawa Bielany"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Imię i nazwisko"
+                        <TextBlock Text="Środowiskowe Centra Zdrowia Psychicznego udzielają wsparcia psychologicznego mieszkańcom na obszarze działania centrum."
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Miejscowość"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Adres"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Godziny przyjęć"
+                        <TextBlock Text="Tel.: 22 569 07 50"
                                    Style="{StaticResource Specialist_Info}"/>
 
                     </StackPanel>
@@ -203,43 +145,13 @@
 
                     <StackPanel VerticalAlignment="Center">
 
-                        <TextBlock Text="Specializacja"
+                        <TextBlock Text="Środowiskowe Centrum Zdrowia Psychicznego dla Dzieci i Młodzieży Warszawa Bielany"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Imię i nazwisko"
+                        <TextBlock Text="Środowiskowe Centra Zdrowia Psychicznego udzielają wsparcia psychologicznego mieszkańcom na obszarze działania centrum."
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Miejscowość"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Adres"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Godziny przyjęć"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                    </StackPanel>
-
-                </Border>
-                <Border Grid.Column="2"
-                        Grid.Row="2"
-                        Style="{StaticResource Specialist_Border}">
-
-                    <StackPanel VerticalAlignment="Center">
-
-                        <TextBlock Text="Specializacja"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Imię i nazwisko"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Miejscowość"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Adres"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Godziny przyjęć"
+                        <TextBlock Text="Tel.: 536 777 251, 530 777 875"
                                    Style="{StaticResource Specialist_Info}"/>
 
                     </StackPanel>
@@ -251,19 +163,13 @@
 
                     <StackPanel VerticalAlignment="Center">
 
-                        <TextBlock Text="Specializacja"
+                        <TextBlock Text="Środowiskowe Centrum Zdrowia Psychicznego dla Dorosłych w Wieliczce"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Imię i nazwisko"
+                        <TextBlock Text="Środowiskowe Centra Zdrowia Psychicznego udzielają wsparcia psychologicznego mieszkańcom na obszarze działania centrum."
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Miejscowość"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Adres"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Godziny przyjęć"
+                        <TextBlock Text="Tel.: 505 006 665"
                                    Style="{StaticResource Specialist_Info}"/>
 
                     </StackPanel>
@@ -275,43 +181,187 @@
 
                     <StackPanel VerticalAlignment="Center">
 
-                        <TextBlock Text="Specializacja"
+                        <TextBlock Text="Środowiskowe Centrum Zdrowia Psychicznego dla Dorosłych w Nowym Targu"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Imię i nazwisko"
+                        <TextBlock Text="Środowiskowe Centra Zdrowia Psychicznego udzielają wsparcia psychologicznego mieszkańcom na obszarze działania centrum."
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Miejscowość"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Adres"
-                                   Style="{StaticResource Specialist_Info}"/>
-
-                        <TextBlock Text="Godziny przyjęć"
+                        <TextBlock Text="Tel.: 18 263 31 81"
                                    Style="{StaticResource Specialist_Info}"/>
 
                     </StackPanel>
 
                 </Border>
-                <Border Grid.Column="2"
-                        Grid.Row="3"
+                <Border Grid.Column="0"
+                        Grid.Row="4"
                         Style="{StaticResource Specialist_Border}">
 
                     <StackPanel VerticalAlignment="Center">
 
-                        <TextBlock Text="Specializacja"
+                        <TextBlock Text="Ośrodki Interwencji Kryzysowej"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Imię i nazwisko"
+                        <TextBlock Text="Tel.: 228 554 432"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Miejscowość"
+                        <TextBlock Text="Adres e-mail: poczta@oik.org.pl"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Adres"
+                        <TextBlock Style="{StaticResource Specialist_Info}">
+                            <Hyperlink Foreground="Black" NavigateUri="http://www.interwencjakryzysowa.pl/osrodki-interwencji-kryzysowej/">
+                                Więcej informacji
+                            </Hyperlink>
+                        </TextBlock>
+
+                    </StackPanel>
+
+                </Border>
+                <Border Grid.Column="1"
+                        Grid.Row="4"
+                        Style="{StaticResource Specialist_Border}">
+
+                    <StackPanel VerticalAlignment="Center">
+
+                        <TextBlock Text="Ośrodek Interwencji Kryzysowej w Dąbrowie Górniczej"
                                    Style="{StaticResource Specialist_Info}"/>
 
-                        <TextBlock Text="Godziny przyjęć"
+                        <TextBlock Text="ul. 3 Maja 22"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                        <TextBlock Text="tel. 32 262 86 31, 571 332 385"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                        <TextBlock Style="{StaticResource Specialist_Info}">
+                            <Hyperlink Foreground="Black" NavigateUri="https://mops.com.pl/dzialy/osrodek-interwencji-kryzysowej">
+                                Więcej informacji
+                            </Hyperlink>
+                        </TextBlock>
+
+                    </StackPanel>
+
+                </Border>
+                <Border Grid.Column="0"
+                        Grid.Row="5"
+                        Style="{StaticResource Specialist_Border}">
+
+                    <StackPanel VerticalAlignment="Center">
+
+                        <TextBlock Text="Starszy terapeuta"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                        <TextBlock Text="Anna Ceglarek"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                        <TextBlock Text="Tel.: 571 332 385"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                    </StackPanel>
+
+                </Border>
+                <Border Grid.Column="1"
+                        Grid.Row="5"
+                        Style="{StaticResource Specialist_Border}">
+
+                    <StackPanel VerticalAlignment="Center">
+
+                        <TextBlock Text="Psycholog"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                        <TextBlock Text="Ewelina Bagińska"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                        <TextBlock Text="Tel.: 571 332 346"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                    </StackPanel>
+
+                </Border>
+                <Border Grid.Column="0"
+                        Grid.Row="6"
+                        Style="{StaticResource Specialist_Border}">
+
+                    <StackPanel VerticalAlignment="Center">
+
+                        <TextBlock Text="Psycholog"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                        <TextBlock Text="Grażyna Buczyńska"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                        <TextBlock Text="Tel.: 571 332 382"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                    </StackPanel>
+
+                </Border>
+                <Border Grid.Column="1"
+                        Grid.Row="6"
+                        Style="{StaticResource Specialist_Border}">
+
+                    <StackPanel VerticalAlignment="Center">
+
+                        <TextBlock Text="Terapeuta"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                        <TextBlock Text="Mariola Bachmatiuk"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                        <TextBlock Text="Tel.: 571 332 385"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                    </StackPanel>
+
+                </Border>
+                <Border Grid.Column="0"
+                        Grid.Row="7"
+                        Style="{StaticResource Specialist_Border}">
+
+                    <StackPanel VerticalAlignment="Center">
+
+                        <TextBlock Text="Terapeuta"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                        <TextBlock Text="Anna Leszczyńska"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                        <TextBlock Text="Tel.: 571 332 385"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                    </StackPanel>
+
+                </Border>
+                <Border Grid.Column="1"
+                        Grid.Row="7"
+                        Style="{StaticResource Specialist_Border}">
+
+                    <StackPanel VerticalAlignment="Center">
+
+                        <TextBlock Text="Terapeuta"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                        <TextBlock Text="Ewelina Polewka"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                        <TextBlock Text="Tel.: 571 332 385"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                    </StackPanel>
+
+                </Border>
+                <Border Grid.Column="0"
+                        Grid.Row="8"
+                        Style="{StaticResource Specialist_Border}">
+
+                    <StackPanel VerticalAlignment="Center">
+
+                        <TextBlock Text="Terapeuta"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                        <TextBlock Text="Tomasz Sibiela"
+                                   Style="{StaticResource Specialist_Info}"/>
+
+                        <TextBlock Text="Tel.: 571 332 385"
                                    Style="{StaticResource Specialist_Info}"/>
 
                     </StackPanel>

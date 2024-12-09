@@ -5,7 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Psycho_info_app"
         mc:Ignorable="d"
-        Title="DiseaseInfo" Height="450" Width="800">
+        Title="DiseaseInfo"
+        Height="760"
+        Width="1160"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen">
+    
     <ScrollViewer>
         <StackPanel Background="#01497C">
             <Border Background="#012A4A" 
