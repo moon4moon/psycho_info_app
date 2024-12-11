@@ -27,7 +27,7 @@ namespace Psycho_info_app
 
             XmlDocument xml = new XmlDocument();
 
-            string path = Directory.GetCurrentDirectory() + "\\Materials\\test.xml";
+            string path = Directory.GetCurrentDirectory() + "\\Materials\\DiseasesDB.xml";
 
             xml.Load(path);
 

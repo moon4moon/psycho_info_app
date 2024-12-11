@@ -202,9 +202,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="bin\Debug\Materials\test.xml" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="bin\Debug\CommonServiceLocator.dll" />
     <Content Include="bin\Debug\GalaSoft.MvvmLight.dll" />
     <Content Include="bin\Debug\GalaSoft.MvvmLight.Extras.dll" />
@@ -220,6 +217,7 @@
     <Content Include="bin\Debug\System.Windows.Interactivity.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="bin\Debug\Materials\" />
     <Folder Include="bin\Release\" />
     <Folder Include="Model\" />
   </ItemGroup>

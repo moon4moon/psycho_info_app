@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diseases>
+	<List>
+		<Number>One</Number>
+		<Name>Zaburzenia nastroju i emocji</Name>
+		<Information>
+			<Subpoint>To stany emocji odbiegające od ogólnych norm, a składową tych stanów emocjonalnych stanowi nastrój (obniżony lub podwyższony czy wahania nastroju), poziom lęku, ekspresja (zarówno skrywanie emocji jak i zbytnia gadatliwość), oraz energia życiowa (obojętność, zbytnie pobudzenia lub przeciwnie – apatia, niska motywacja lub jej brak).</Subpoint>
+		</Information>
+		<Reasons>
+			<Subpoint>- Czynniki biologiczne odpowiedzialne za problemy z emocjami są często następstwem zaburzenia pracy neuroprzekaźników w mózgu, które to odpowiadają za nastrój, energię do działania i emocje – a są nimi dopamina, serotonina czy noradrenalina.</Subpoint>
+			<Subpoint>- Nieprawidłowe działanie lub budowa struktur mózgu, które odpowiadają za emocjonalność człowieka, a więc jądro migdałowate, wzgórze i podwzgórze oraz kora czołowa.</Subpoint>
+			<Subpoint>- Niedobory witaminowe, głownie witaminy z gruby B, a także zaburzenie równowagi kwasowo – zasadowej w organizmie.</Subpoint>
+			<Subpoint>Podłoże w czynnikach związanych z osobowością, a więc obniżony lub podwyższony poziom lęku, niska samoocena, krytycyzm w stosunku do siebie i otoczenia.</Subpoint>
+			<Subpoint>- Czynniki genetyczne, a więc dziedziczenie pewnych skłonności.</Subpoint>
+			<Subpoint>- Trauma; śmierć kogoś bliskiego, udział w wypadku lub bycie świadkiem wypadku, zawód miłosny, pobicie, gwałt, trudna sytuacja życiowa pod kątem materialnym, itp.</Subpoint>
+			<Subpoint>- Trudne sytuacje w dzieciństwie; przemoc w rodzinie (psychiczna i fizyczna), molestowanie seksualne, brak akceptacji ze strony rodziców, obojętność, brak czułości lub przeciwnie - nadopiekuńczość, jak również uzależnienie któregoś z rodziców od narkotyków czy alkoholu, odrzucenie przez rówieśników.</Subpoint>
+			<Subpoint>- Naużywanie substancji psychoaktywnych.</Subpoint>
+			<Subpoint>- Przebieg ciąży, poród, opieka nad niemowlęciem -mogą mieć one wówczas podłoże hormonalne, psychospołeczne czy metaboliczne.</Subpoint>
+		</Reasons>
+		<Symptoms>
+			<Subpoint>- Apetyt; zmniejszony lub nadmierny.</Subpoint>
+			<Subpoint>- Zmęczenie, apatia, brak energii do życia i działania.</Subpoint>
+			<Subpoint>- Zaniechanie czynności, które wcześniej sprawiały radość.</Subpoint>
+			<Subpoint>- Drażliwość, wybuchy złości.</Subpoint>
+			<Subpoint>- Bezsenność lub zwiększona senność.</Subpoint>
+			<Subpoint>- Smutek, uczucie osamotnienia.</Subpoint>
+			<Subpoint>- Brak koncentracji.</Subpoint>
+			<Subpoint>- Płaczliwość.</Subpoint>
+			<Subpoint>- Niska samoocena.</Subpoint>
+			<Subpoint>- Wahania nastroju.</Subpoint>
+			<Subpoint>- Myśli czy próby samobójcze.</Subpoint>
+		</Symptoms>
+		<Results>
+			<Subpoint>- Depresja - najczęściej występujące zaburzenie emocjonalne, w którym głównym objawem jest długotrwale obniżony nastrój</Subpoint>
+			<Subpoint>- Zaburzenie obsesyjno–kompulsywne – niechciane myśli oraz odczucie wewnętrznego przymusu wykonywania pewnych powtarzalnych czynności</Subpoint>
+			<Subpoint>- Stany lękowe - uczucie napięcia i strachu, bóle brzucha, ataki paniki, kołatanie serca, drżenie rąk lub nóg, itp</Subpoint>
+			<Subpoint>- Anoreksja - jadłowstręt mający podłoże psychiczne</Subpoint>
+			<Subpoint>- Bulimia – objadanie się, po czym zwracanie jedzenia</Subpoint>
+			<Subpoint>- Nocne moczenie się (szczególnie u dzieci) - jest to oddawanie moczu podczas snu, na które osoba z tym problemem nie ma wpływu</Subpoint>
+
+		</Results>
+		<Counteractions>
+			<Subpoint>Jeśli zauważyłeś, że nie radzisz sobie z emocjami, wpływają one negatywnie na twoje codzienne życie, a których z opisanych objawów obniża twój komfort życia przez ponad 2 tygodnie, zgłoś się po pomoc do psychoterapeuty.</Subpoint>
+			<Subpoint>Metody leczenia:</Subpoint>
+			<Subpoint>- Psychoterapia. Terapia zaburzeń emocjonalnych może być indywidualna lub grupowa, a najczęściej wykorzystywaną metodą leczenia w czasie sesji jest metoda poznawczo – behawioralna. Metoda ta ma na celu poznanie, a następnie przepracowanie swoich emocji, znalezienie źródeł i przyczyn zaburzeń oraz nauka nowych schematów myślenia, reakcji i działania.</Subpoint>
+			<Subpoint>- Psychoedukacja – edukacja na temat zaburzeń emocjonalnych, metod radzenia sobie ze swoimi emocjami, przekazywanie wiedzy zarówno choremu jak i jego najbliższym.</Subpoint>
+			<Subpoint>- Farmakoterapia - mogą tu zostać zastosowane równolegle z psychoterapią leki przeciwdepresyjne, przeciwlękowe, uspokajające.</Subpoint>
+		</Counteractions>
+		<Examples>
+			<Subpoint>- Depresja.</Subpoint>
+			<Subpoint>- Dystymia.</Subpoint>
+			<Subpoint>- Zespół stresu pourazowego PTSD.</Subpoint>
+			<Subpoint>- Zaburzenia lękowe.</Subpoint>
+			<Subpoint>- Fobie.</Subpoint>
+			<Subpoint>- Zaburzenia afektywne dwubiegunowe.</Subpoint>
+			<Subpoint>- Zaburzenie obsesyjno–kompulsyjne.</Subpoint>
+			<Subpoint>- Zaburzenia związane z ciążą i porodem.</Subpoint>
+			<Subpoint>- Zaburzenia związane z alkoholizmem.</Subpoint>
+			<Subpoint>- Tiki nerwowe.</Subpoint>
+			<Subpoint>- Jąkanie się.</Subpoint>
+			<Subpoint>- Anoreksja lub bulimia.</Subpoint>
+			<Subpoint>- Zaburzenia związane z hormonami, np. związane z pracą tarczycy, miesiączkowaniem czy przekwitaniem.</Subpoint>
+			<Subpoint>- Mutyzm – czyli blokowanie, niemożność swobodnych wypowiedzi.</Subpoint>
+		</Examples>
+		<Behavior>
+			<Subpoint>Zagłębienie się na temat choroby na jaką cierpi, jej przyczynach, objawach i sposobach leczenia z renomowanych źródeł.</Subpoint>
+			<Subpoint>Przede wszystkim należy okazać zrozumienie, że stan osoby chorej jest wynikiem choroby psychicznej.</Subpoint>
+			<Subpoint>Osoby chcące pomóc osobie, która się z tym zmaga, powinny przede wszystkim podtrzymywać kontakt mimo wycofywania się chorego, warto mu przypominać, iż to, co się z nim dzieje jest czasowe i odwracalne.</Subpoint>
+			<Subpoint>Nie powinno się nadmiernie go oceniać i usilnie zmuszać do działania, warto małymi krokami pomagać oraz przypominać mu o swojej gotowości wsparcia i pomocy.</Subpoint>
+			<Subpoint>Sprawdzać, czy chory przyjmuje leki, regularnie się odżywia i dba o higienę osobistą.</Subpoint>
+			<Subpoint>Życie z osobą zmagającą się z zaburzeniami emocjonalnymi nie jest łatwe, jest w porządku być przygnębionym czuć złość bądź frustrację, jednak ważne jest, by te uczucia nie narastały na sile.</Subpoint>
+			<Subpoint>Terapeuci nie tylko są dla osób zmagających się z chorobami, a szukanie profesjonalnej pomocy dla ciebie może również pomóc osobie zmagającej się z zaburzeniami emocjonalnymi i ułatwić jej zrozumienie.</Subpoint>
+		</Behavior>
+	</List>
+	<List>
+		<Number>Two</Number>
+		<Name>Zaburzenia odżywiania</Name>
+		<Information>
+			<Subpoint>Zaburzenia odżywiania charakteryzują się poważnym zaburzeniem łaknienia o podłożu psychicznym. Jakie są zaburzenia odżywiania? Najczęściej występujące rodzaje zaburzeń odżywiania to: anoreksja, bulimia, ortoreksja, kompulsywne objadanie się, zespół jedzenia nocnego oraz zespół spaczonego łaknienia.</Subpoint>
+                </Information>
+		<Reasons>
+			<Subpoint>- Geny</Subpoint>
+			<Subpoint>- Niezadowolenie z wyglądu swojego ciała</Subpoint>
+			<Subpoint>- Impulsywność</Subpoint>
+			<Subpoint>- Perfekcjonizm</Subpoint>
+		</Reasons>
+		<Symptoms>
+			<Subpoint>Anoreksja (jadłowstręt psychiczny)</Subpoint>
+			<Subpoint>- Chory ogranicza ilość przyjmowanego pokarmu</Subpoint>
+			<Subpoint>- Stosuje intensywny wysiłek fizyczny </Subpoint>
+			<Subpoint>- Może korzystać ze środków przeczyszczających czy moczopędnych</Subpoint>
+			<Subpoint>- Taka osoba boi się bycia grubym</Subpoint>
+			<Subpoint>- Poczucie wartości takiej osoby zależy od szczupłej sylwetki</Subpoint>
+			<Subpoint>- Postrzega swoje ciało znacznie większe niż jest w rzeczywistości</Subpoint>
+			<Subpoint>BMI poniżej 18 może sugerować anoreksje</Subpoint>
+			<Subpoint>Bulimia (żarłoczność psychiczna)</Subpoint>
+			<Subpoint>- Chory w krótkim czasie przyjmuje bardzo duże ilości pożywienia a następnie próbuje się pozbyć przyjętych kalorii</Subpoint>
+			<Subpoint>- Po objadaniu się pojawia się poczucie winy czy wstyd</Subpoint>
+			<Subpoint>- Dyskomfort w żołądku przyczynia się do chęci prowokowania wymiotów</Subpoint>
+			<Subpoint>- Może stosować środki przeczyszczające</Subpoint>
+			<Subpoint>- Głodówki</Subpoint>
+			<Subpoint>- Intensywny wysiłek fizyczny</Subpoint>
+			<Subpoint>- Masa ciała może być w normie lub zwiększona</Subpoint>
+                </Symptoms>
+		<Results>
+			<Subpoint>Anoreksja (jadłowstręt psychiczny)</Subpoint>
+			<Subpoint>- Chorobliwe chudnięcie</Subpoint>
+			<Subpoint>- Włosy są cienkie i kruche</Subpoint>
+			<Subpoint>- Na całym ciele pojawia się meszek</Subpoint>
+			<Subpoint>- Częściej odczuwa zimno</Subpoint>
+			<Subpoint>- Szkliwo zębów jest osłabione, zęby wrażliwsze na ciepło i zimno</Subpoint>
+			<Subpoint>- Mogą pojawić się poważne zaburzenia rytmu serca</Subpoint>
+			<Subpoint>- Zahamowanie owulacji i miesiączkowania. Zmniejsza się ilość wytwarzania hormonów tarczycy</Subpoint>
+			<Subpoint>- Rozwija się osteoporoza </Subpoint>
+			<Subpoint>- Pogorszenie funkcji nerek</Subpoint>
+			<Subpoint>- Perystaltyka żołądka i jelit staje się wolniejsza – po posiłku występują wzdęcia i zaparcia</Subpoint>
+			<Subpoint>Bulimia (żarłoczność psychiczna)</Subpoint>
+			<Subpoint>- Na dłoniach takich osób mogą być widoczne ślady od zębów (używanie dłoni do prowokowania wymiotów</Subpoint>
+			<Subpoint>- Szkliwo zębów jest osłabione, zęby wrażliwsze na ciepło i zimno</Subpoint>
+		</Results>
+		<Counteractions>
+			<Subpoint>Podstawą jest psychoterapia, wsparcie bliskich a czasami leki. Ważną rolę w leczeniu zaburzeń odżywiania odgrywa psychoterapia. Najwięcej dowodów na skuteczność w leczeniu zaburzeń odżywiania ma psychoterapia poznawczo-behawioralna. U chorych na zaburzenia odżywiania pojawiają się destrukcyjne emocje, przekonania i zachowania związane z jedzeniem i wagą, z którymi pomoże uporać się terapeuta.</Subpoint>     
+                </Counteractions>
+		<Examples>
+			<Subpoint>- Spaczone łaknienie (pica) - spożywanie substancji niejadalnych np. Drewna, ziemi, włosów</Subpoint>
+			<Subpoint>- Zespół nocnego jedzenia - pojawia się zwiększenie apetytu w nocy. Występują zaburzenia snu. Chory budzi się i je, a rano nie ma apetytu</Subpoint>
+			<Subpoint>- Ortoreksja - zdrowe odżywianie staje się centralnym punktem życia, chory poświęca znaczną ilość czasu na obsesyjne myślenie o zdobywaniu “bezpiecznych” składników i planowaniu posiłków</Subpoint>
+			<Subpoint>- Zaburzenia z napadami objadania się - pojawiają się epizody przyjmowania bardzo dużej ilości pokarmu w krótkim czasie. Chory nie pozbywa się spożytego pokarmu ani nie stara się spalić nadmiaru kalorii, w związku z czym może pojawić się nadwaga lub otyłość</Subpoint>
+			<Subpoint>- Zespół ruminacji (zaburzenie przeżuwania) - pokarm cofa się z żołądka do jamy ustnej i wypluwany lub ponownie przeżuwany i połykany</Subpoint>
+		</Examples>
+		<Behavior>
+			<Subpoint>Zagłębienie się na temat choroby na jaką cierpi, jej przyczynach, objawach i sposobach leczenia z renomowanych źródeł.</Subpoint>
+
+			<Subpoint>Przede wszystkim należy okazać zrozumienie, że stan osoby chorej jest wynikiem choroby psychicznej.</Subpoint>
+
+			<Subpoint>Nie powinno się nadmiernie go oceniać i usilnie zmuszać do działania, warto małymi krokami pomagać oraz przypominać mu o swojej gotowości wsparcia i pomocy.</Subpoint>
+                </Behavior>
+	</List>
+	<List>
+		<Number>Three</Number>
+		<Name>Zaburzenie osobowości</Name>
+		<Information>
+			<Subpoint>Zaburzenie psychiczne, którego istotnymi cechami są głęboko zakorzenione, trwałe, nieprzystosowawcze wzorce relacji ze środowiskiem, myślenia o nim i postrzegania go, ukonstytuowane tak dalece, że powodują trudności w funkcjonowaniu społecznym i behawioralnym.</Subpoint>
+                </Information>
+		<Reasons>
+			<Subpoint>Przyczyny nie są do końca poznane. Podejrzewa się, że odpowiada za nie zbiór różnych zmiennych. Są nimi np:</Subpoint>
+			<Subpoint>- Czynniki genetyczne</Subpoint>
+			<Subpoint>- Czynniki społeczne</Subpoint>
+			<Subpoint>- Zaniedbania</Subpoint>
+			<Subpoint>- Przemoc seksualna i emocjonalna w dzieciństwie</Subpoint>
+			<Subpoint>- Czynniki biologiczne, czyli m.in. niski poziom acetyloholiny u pacjentów z borderline, oraz kwestie temperamentu</Subpoint>
+		</Reasons>
+		<Symptoms>
+			<Subpoint>Objawy ogólne:</Subpoint>
+			<Subpoint>- Uczuciowość</Subpoint>
+			<Subpoint>- Pobudliwość</Subpoint>
+			<Subpoint>- Niepodporządkowanie się ogólnie przyjętym normom</Subpoint>
+			<Subpoint>- Niezwracanie uwagi na uczucia innych</Subpoint>
+			<Subpoint>- Złe samopoczucie</Subpoint>
+			<Subpoint>- Osobom z zaburzoną osobowością może być trudno współpracować z innymi osobami</Subpoint>
+			<Subpoint>Dla osobowości paranoicznej lub osobowości schizoidalnej:</Subpoint>
+			<Subpoint>- Zachowanie ekscentrycznymi</Subpoint>
+			<Subpoint>- Ciągła podejrzliwość</Subpoint>
+			<Subpoint>- Niecodzienne zachowania</Subpoint>
+			<Subpoint>- Używanie niespotykanej mowy</Subpoint>
+			<Subpoint>Dla osobowości histrionicznej  lub osobowości typu borderline:</Subpoint>
+			<Subpoint>- Wycofanie</Subpoint>
+			<Subpoint>- Radykalne postawy</Subpoint>
+			<Subpoint>Dla osobowości unikającej:</Subpoint>
+			<Subpoint>- Stronienie od nowości</Subpoint>
+			<Subpoint>- Poczucie lęku</Subpoint>
+			<Subpoint>U jednego pacjenta mogą występować objawy kilku zaburzeń osobowości.</Subpoint>
+		</Symptoms>
+		<Results>
+			<Subpoint>- Zaburzenia lękowe</Subpoint>
+			<Subpoint>- Depresja</Subpoint>
+			<Subpoint>- Utrudnione funkcjonowanie społeczne</Subpoint>
+			<Subpoint>- Utrudnione funkcjonowanie zawodowe</Subpoint>
+			<Subpoint>- Dyskomfort</Subpoint>
+			<Subpoint>- Kleptomania</Subpoint>
+		</Results>
+		<Counteractions>
+			<Subpoint>W przypadku zaburzeń osobowości stosuje się zarówno terapię grupową, jak i indywidualną. Zwykle jest ona utrzymana w nurcie behawioralnym, poznawczym.</Subpoint>
+                </Counteractions>
+		<Examples>
+			<Subpoint>- Paranoiczne</Subpoint>
+			<Subpoint>- Schizoidalne</Subpoint>
+			<Subpoint>- Schizotypowe</Subpoint>
+			<Subpoint>- Antyspołeczne</Subpoint>
+			<Subpoint>- Zaburzenia z pogranicza (borderline)</Subpoint>
+			<Subpoint>- Histrioniczne</Subpoint>
+			<Subpoint>- Narcystyczne</Subpoint>
+			<Subpoint>- Unikowe</Subpoint>
+			<Subpoint>- Zależne</Subpoint>
+			<Subpoint>- Obsesyjno – kompulsyjne</Subpoint>
+			<Subpoint>- Dyssocjalne</Subpoint>
+		</Examples>
+		<Behavior>Osoby z zaburzeniami osobowości często doświadczają trudności w relacjach społecznych, regulacji emocji i funkcjonowaniu codziennym. Ważne jest, aby traktować je z szacunkiem, empatią i cierpliwością, unikając oceniania czy krytyki. Należy okazywać zrozumienie, tworzyć bezpieczne i wspierające środowisko oraz dawać możliwość wyrażania emocji bez strachu przed odrzuceniem. Kluczowe jest aktywne słuchanie, dostosowanie komunikacji do indywidualnych potrzeb oraz budowanie zaufania poprzez konsekwencję i pozytywne wsparcie. Takie podejście sprzyja lepszemu funkcjonowaniu i integracji społecznej.</Behavior>
+	</List>
+        <List>
+		<Number>Four</Number>
+		<Name>Zaburzenia związane z używaniem substancji psychoaktywnych i alkoholu</Name>
+		<Information>
+			<Subpoint>To grupa problemów zdrowotnych wynikających z częstego lub długotrwałego używania substancji zmieniających świadomość (jak narkotyki, leki psychotropowe), prowadzą do uzależnienia, tolerancji i negatywnych skutków społecznych, psychicznych i fizycznych.</Subpoint>
+			<Subpoint>Alkoholizm obejmuje przewlekłe, postępujące i potencjonalnie śmiertelne zaburzenia związane z nadmiernym, kompulsywnym spożywaniem napojów alkoholowych. Choroba charakteryzuje się utratą kontroli nad ilością spożywanego alkoholu.</Subpoint>
+                </Information>
+		<Reasons>
+			<Subpoint>- Społeczne (rola grupy ludzi, jej wpływ i dostępność do alkoholi, przekonania jednostki i grupy na temat wpływu alkoholu na samopoczucie)</Subpoint>
+			<Subpoint>- Psychologiczne (ucieczka przed konsekwencjami, współwystępowania innych zaburzeń w tym psychicznych, osobowości i nastroju)</Subpoint>
+			<Subpoint>- Genetyczne (Należy pamiętać, że nie każde dziecko alkoholika zostaje alkoholikiem)</Subpoint>
+		</Reasons>
+		<Symptoms>
+			<Subpoint>Objawy używania substancji psychoaktywnych:</Subpoint>
+			<Subpoint>- Zmiana wyglądu (zaniedbanie w higienie osobistej, wyglądzie, sposobie poruszania się i mówienia)</Subpoint>
+			<Subpoint>- Wahania dobowe nastroju (od radości do przygnębienia)</Subpoint>
+			<Subpoint>- Wychudzenie</Subpoint>
+			<Subpoint>- Męczliwość</Subpoint>
+			<Subpoint>- Drżenie rąk</Subpoint>
+			<Subpoint>- Zaburzenia snu</Subpoint>
+			<Subpoint>- Częste urazy, ślady po pobiciach</Subpoint>
+			<Subpoint>- Bóle głowy i żołądka</Subpoint>
+			<Subpoint>Objawy używania alkoholu:</Subpoint>
+			<Subpoint>- Silna potrzeba spożycia alkoholu</Subpoint>
+			<Subpoint>- Niekontrolowanie spożywanej ilości</Subpoint>
+			<Subpoint>- Porzucenie zainteresowań niezwiązane z alkoholem</Subpoint>
+			<Subpoint>- Pacjent zażywa alkohol mimo świadomości o jego szkodliwości</Subpoint>
+			<Subpoint>- Wychudzenie</Subpoint>
+			<Subpoint>- Wahania nastroju</Subpoint>
+			<Subpoint>- Drżenie rąk</Subpoint>
+		</Symptoms>
+		<Results>
+			<Subpoint>Skutki odstawienia substancji psychoaktywnych:</Subpoint>
+			<Subpoint>Lęk i niepokój, napady paniki - nagłe uczucie strachu, lęku, niepokoju często nieuzasadnione</Subpoint>
+			<Subpoint>Depresja – poczucie smutku, brak motywacji uczucie beznadziejności i niechęci do życia</Subpoint>
+			<Subpoint>Bezsenność - problemy z zasypianiem lub przesypianiem nocy</Subpoint>
+			<Subpoint>Drgawki - nagłe, niekontrolowane skurcze mięśni</Subpoint>
+			<Subpoint>Nudności i wymioty – mdłości, które prowadzą do wymiotów</Subpoint>
+			<Subpoint>Brak apetytu - niechęć do jedzenia</Subpoint>
+			<Subpoint>Skutki odstawienia alkoholu:</Subpoint>
+			<Subpoint>Zaburzenia snu – problem z zasypianiem</Subpoint>
+			<Subpoint>Drżenie rąk - mimowolne, rytmiczne drgania, które są typowym objawem zespołu abstynencyjnego, wynikającym z nagłego braku alkoholu w organizmie osoby uzależnionej</Subpoint>
+			<Subpoint>Nudności i poty - mdłości, nadmierne pocenie się</Subpoint>
+		</Results>
+		<Counteractions>
+			<Subpoint>Sposoby przeciwdziałania dla substancji psychoaktywnych:</Subpoint>
+			<Subpoint>Przeciwdziałanie używaniu substancji psychoaktywnych opiera się na edukacji i profilaktyce, które zwiększają świadomość zagrożeń związanych z ich używaniem, oraz na wspieraniu zdrowia psychicznego poprzez dostęp do terapii i alternatywnych form spędzania czasu.</Subpoint>
+			<Subpoint>Sposoby przeciwdziałaniu dla alkoholu:</Subpoint>
+			<Subpoint>Przeciwdziałanie nadużywaniu alkoholu obejmuje świadomość społeczną na temat skutków zdrowotnych i społecznych alkoholu, oraz działania wspierające zdrowie psychiczne, w tym dostęp do terapii i grup wsparcia. Ważne też jest zaangażowanie rodziny do osób dotkniętych alkoholizmem.</Subpoint>
+                </Counteractions>
+		<Examples>
+		</Examples>
+		<Behavior>
+			<Subpoint>Zachowanie do takich osób, które są uzależnione od narkotyków i alkoholu:</Subpoint>
+			<Subpoint>W kontaktach z osobami uzależnionymi od narkotyków czy alkoholu warto kierować się empatią, cierpliwością i zrozumieniem, pamiętając, że często ich zachowania wynikają z choroby, a nie świadomego wyboru. Starając się ich wspierać, należy unikać osądów i presji – zamiast tego, lepiej okazać gotowość do wysłuchania i pomocy, gdy będą gotowi na zmianę, bo budowanie relacji opartej na zaufaniu i akceptacji może być dla nich pierwszym krokiem ku wyjściu z nałogu.</Subpoint>
+                </Behavior>
+	</List>
+        <List>
+		<Number>Five</Number>
+		<Name>Zaburzenia psychotyczne</Name>
+		<Information>
+			<Subpoint>Psychozy to grupa zaburzeń psychicznych, których wspólną cechą jest zaburzony stan umysłu z zakłóceniami postrzegania rzeczywistości, zaburzeniami myślenia i brakiem krytycyzmu wobec własnych, nieprawidłowych spostrzeżeń i osądów.</Subpoint>
+                </Information>
+		<Reasons>
+			<Subpoint>- Czynniki genetyczne dziedziczne</Subpoint>
+			<Subpoint>- Niedoczynność tarczycy</Subpoint>
+			<Subpoint>- Uszkodzenia układu nerwowego</Subpoint>
+			<Subpoint>- Silny stres</Subpoint>
+			<Subpoint>- Czynniki środowiskowe takie jak zatrucia alkoholem, narkotykami lub dopalaczami</Subpoint>
+		</Reasons>
+		<Symptoms>
+			<Subpoint>- Urojenia</Subpoint>
+			<Subpoint>- Halucynacje</Subpoint>
+			<Subpoint>- Omamy</Subpoint>
+			<Subpoint>- Zobojętnienie</Subpoint>
+			<Subpoint>- Brak energii lub nadmierne pobudzenie</Subpoint>
+			<Subpoint>- Ambiwalencja</Subpoint>
+			<Subpoint>- Ambitendencja</Subpoint>
+			<Subpoint>- Paramimia</Subpoint>
+			<Subpoint>- Zaburzenia myślenia</Subpoint>
+			<Subpoint>- Aspołeczność</Subpoint>
+		</Symptoms>
+		<Results>
+			<Subpoint>- Urojenia</Subpoint>
+			<Subpoint>- Halucynacje</Subpoint>
+			<Subpoint>- Chaotyczność mowy i brak spójności</Subpoint>
+		</Results>
+		<Counteractions>
+			<Subpoint>Leczenie zaburzeń psychotycznych opiera się przede wszystkim na farmakoterapii jak i psychoterapii jednocześnie. Pacjentowi podaje się leki antypsychotyczne, które redukują objawy psychozy, stabilizują stan psychiczny i zapobiega nawrotom choroby. Dodatkowo stosuje się leki uspokajające które pomagają zasnąć.</Subpoint>
+                </Counteractions>
+		<Examples>
+			<Subpoint>- Uporczywe zaburzenia urojeniowe</Subpoint>
+			<Subpoint>- Schizofrenia</Subpoint>
+			<Subpoint>- Zaburzenie schizoafektywne</Subpoint>
+			<Subpoint>- Zaburzenia schizotypowe</Subpoint>
+			<Subpoint>- Halucynoza alkoholowa</Subpoint>
+			<Subpoint>- Zaburzenia psychotyczne związane z przyjmowaniem substancj</Subpoint>
+		</Examples>
+		<Behavior>Osoby z zaburzeniami psychotycznymi mogą doświadczać trudności z rozróżnieniem rzeczywistości, co wpływa na ich myślenie, emocje i zachowanie. Ważne jest, aby traktować je z szacunkiem, empatią i cierpliwością, unikając oceniania czy bagatelizowania ich doświadczeń. Należy stworzyć bezpieczne środowisko, w którym osoba czuje się zrozumiana i wspierana. Kluczowe jest aktywne słuchanie, unikanie konfrontacji z przekonaniami psychotycznymi oraz zapewnienie wsparcia poprzez cierpliwą i spokojną komunikację. Współpraca z lekarzem i specjalistą jest niezbędna w zapewnieniu odpowiedniej pomocy.</Behavior>
+	</List>
+        <List>
+		<Number>Six</Number>
+		<Name>Zaburzenia dysocjacyjne i somatyczne</Name>
+		<Information>
+			<Subpoint>Zaburzenia dysocjacyjne zwane także konwersyjnymi, charakteryzują się częściową lub całkowitą utratą prawidłowej integracji różnych funkcji psychicznych, takich jak tożsamość, percepcja, emocje, myślenie a także kontrola behawioralna.</Subpoint>
+                </Information>
+		<Reasons>
+			<Subpoint>- Traumatyczne doznania w wieku dziecięcym lub okresu nastoletniego</Subpoint>
+			<Subpoint>- Stres</Subpoint>
+			<Subpoint>- Brak wsparcia społecznego</Subpoint>
+			<Subpoint>- Indywidualna podatność na doświadczenia, typ osobowości</Subpoint>
+		</Reasons>
+		<Symptoms>
+			<Subpoint>W kwestii zaburzeń dysocjacyjnych wyróżnia się objawy takie jak:</Subpoint>
+			<Subpoint>- Objawy neurologiczne (niedowłady, paraliże, drgawki, zaburzenia chodu, zaburzenia zmysłowe)</Subpoint>
+			<Subpoint>- Amnezja (Niezdolność do odtworzenia ważnych wspomnień, dezorientacja, bezcelowe podróże)</Subpoint>
+			<Subpoint>- Trans (zmiana lub utrata stanu świadomości)</Subpoint>
+			<Subpoint>- Opętanie (zmiana stanu świadomości, całkowita lub częściowa amnezja epizodu, występowanie kilku odrębnych stanów osobowości)</Subpoint>
+			<Subpoint>Objawy w zaburzenia pod postacią somatyczną:</Subpoint>
+			<Subpoint>- Zaburzenia autonomiczne pod postacią somatyczną (nadmierne skupianie się na dolegliwościach co powoduje narastanie objawów, zaburzenia funkcji układu autonomicznego, które nie znajdują potwierdzenia w wynikach badań lekarskich.)</Subpoint>
+			<Subpoint>- Uporczywe bóle psychogenne (silne nieznajdujące przyczyny bóle często związane z objawami depresyjnymi i lękowymi)</Subpoint>
+		</Symptoms>
+		<Results>
+			<Subpoint>- Rozdzielenie wspomnień</Subpoint>
+			<Subpoint>- Utrata uczuć</Subpoint>
+			<Subpoint>- Utrata tożsamości</Subpoint>
+			<Subpoint>- Utrata percepcji rzeczywistości</Subpoint>
+		</Results>
+		<Counteractions>
+			<Subpoint>Leczenie dysocjacyjnych zaburzeń powinno rozpocząć się od dokładnej diagnozy, aby wykluczyć fizyczne przyczyny objawów i inne zaburzenia psychiczne, jak schizofrenia czy depresja. Główna metoda terapii to psychoterapia, dostosowana do indywidualnych objawów i przebiegu zaburzenia. W niektórych przypadkach stosuje się także leczenie farmakologiczne, obejmujące benzodiazepiny, leki przeciwdepresyjne z grupy SSRI oraz neuroleptyki o działaniu przeciw lękowym i uspokajającym, zawsze pod nadzorem psychiatry.</Subpoint>
+                </Counteractions>
+		<Examples>
+			<Subpoint>- </Subpoint>
+			<Subpoint>- </Subpoint>
+		</Examples>
+		<Behavior>Osoby z zaburzeniami dysocjacyjnymi i somatycznymi mogą doświadczać trudności w radzeniu sobie z emocjami, stresem oraz postrzeganiem własnego ciała. Ważne jest, aby traktować je z szacunkiem, empatią i cierpliwością, unikając oceniania czy lekceważenia ich problemów. Należy stworzyć bezpieczne środowisko, okazywać zrozumienie i aktywnie słuchać ich potrzeb. Istotne jest unikanie konfrontacji z ich objawami oraz wspieranie ich w poszukiwaniu profesjonalnej pomocy terapeutycznej. Cierpliwość, spokojna komunikacja i budowanie zaufania pomagają w stworzeniu przestrzeni do leczenia i integracji emocjonalnej.</Behavior>
+	</List>
+        <List>
+		<Number>Seven</Number>
+		<Name>Zaburzenia rozwojowe i zachowania</Name>
+		<Information>
+			<Subpoint>Zaburzenia rozwojowe i zachowania to grupa zaburzeń, które wpływają na rozwój fizyczny, psychiczny oraz na sposób zachowania dziecka i jego zdolność do funkcjonowania w społeczeństwie. Zaburzenia te często pojawiają się we wczesnym dzieciństwie i mogą obejmować różne trudności, takie jak problemy w nauce, trudności w interakcjach społecznych, opóźnienia w rozwoju mowy, ruchu lub innych umiejętności.</Subpoint>
+                </Information>
+		<Reasons>
+			<Subpoint>- Czynniki genetyczne i dziedziczne</Subpoint>
+			<Subpoint>- Czynniki prenatalne (takie jak zażywanie używek, infekcje wirusowe w czasie ciąży)</Subpoint>
+			<Subpoint>- Powikłania okołoporodowe</Subpoint>
+			<Subpoint>- Choroby u infekcje we wczesnym dzieciństwie</Subpoint>
+			<Subpoint>- Czynniki środowiskowe (przemoc domowa, przewlekły stres, zaniedbanie emocjonalne)</Subpoint>
+			<Subpoint>- Niedobory żywieniowe</Subpoint>
+		</Reasons>
+		<Symptoms>
+			<Subpoint>Autyzm wczesnodziecięcy</Subpoint>
+			<Subpoint>- Problemy z komunikacją i mową</Subpoint>
+			<Subpoint>- Ograniczone zainteresowania dziecka</Subpoint>
+			<Subpoint>- Cykliczne wzorce zachowań</Subpoint>
+			<Subpoint>- Problemy w nawiązywaniu relacji z rówieśnikami</Subpoint>
+			<Subpoint>- Izolacja</Subpoint>
+			<Subpoint>- Spontaniczność</Subpoint>
+			<Subpoint>Autyzm atypowy</Subpoint>
+			<Subpoint>- Osoby z upośledzeniem lub ciężkimi zaburzeniami w rozumieniu mowy</Subpoint>
+			<Subpoint>Zespół Aspergera</Subpoint>
+			<Subpoint>- Zaburzenia w relacjach z rówieśnikami, brak kontaktu oraz niechęć do nich</Subpoint>
+			<Subpoint>- Wyraźne upośledzenie umiejętności społecznych</Subpoint>
+			<Subpoint>- Wrażliwość na dźwięki, bodźce dotykowe</Subpoint>
+			<Subpoint>- Obniżony próg bólowy</Subpoint>
+			<Subpoint>- Wyjątkowe umiejętności w bardzo specyficznych, wąskich obszarach</Subpoint>
+			<Subpoint>- Obsesyjność</Subpoint>
+			<Subpoint>Zespół Hellera</Subpoint>
+			<Subpoint>- Utrata mowy</Subpoint>
+			<Subpoint>- Pogorszenie zdolności komunikacyjnych</Subpoint>
+			<Subpoint>- Zaburzenie w relacjach z rówieśnikami</Subpoint>
+			<Subpoint>- Trudności w ruchu lub utrata wcześniej rozwiniętych koordynacji ruchowych</Subpoint>
+			<Subpoint>- Problemy z kontrolą potrzeb fizjologicznych</Subpoint>
+			<Subpoint>- Problemy emocjonalne i behawioralne</Subpoint>
+			<Subpoint>- Stereotypowe i powtarzalne zachowania</Subpoint>
+			<Subpoint>Zespół Retta</Subpoint>
+			<Subpoint>- Utrata umiejętności ruchowych</Subpoint>
+			<Subpoint>- Charakterystyczne, powtarzające się ruchy rąk (takie jak klaskanie, pocieranie)</Subpoint>
+			<Subpoint>- Zaburzenie w relacjach z rówieśnikami</Subpoint>
+			<Subpoint>- Problemy z oddychaniem</Subpoint>
+			<Subpoint>- Zaburzenia snu</Subpoint>
+			<Subpoint>- Problemy z utrzymaniem postawy i równowagi</Subpoint>
+			<Subpoint>- Napady padaczkowe</Subpoint>
+			<Subpoint>- Problemy trawienne takie jak refluks, zaparcia, problemy z żuciem i połykaniem)</Subpoint>
+			<Subpoint>Zespół ADHD</Subpoint>
+			<Subpoint>- Nadmierna impulsywność</Subpoint>
+			<Subpoint>- Trudność w koncentracji</Subpoint>
+			<Subpoint>- Nadpobudliwość</Subpoint>
+			<Subpoint>Całościowe zaburzenia rozwojowe</Subpoint>
+			<Subpoint>- Zaburzenia mowy</Subpoint>
+			<Subpoint>- Zaburzenia motoryczne (takie jak problemy z rozwojem mięśni lub problemy ze wzrokiem)</Subpoint>
+			<Subpoint>- Zaburzenia emocjonalne (takie jak depresja czy lęki)</Subpoint>
+			<Subpoint>- Zaburzenia poznawcze (takie jak brak koncentracji, zrozumienia poleceń czy słaba spostrzegawczość)</Subpoint>
+		</Symptoms>
+		<Results>
+			<Subpoint>- Trudności edukacyjne</Subpoint>
+			<Subpoint>- Problemy w nawiązywaniu i utrzymywaniu relacji interpersonalnych</Subpoint>
+			<Subpoint>- Zwiększone ryzyko depresji i zaburzeń lękowych</Subpoint>
+			<Subpoint>- Obniżona jakość życia i funkcjonowania społecznego</Subpoint>
+		</Results>
+		<Counteractions>
+			<Subpoint>Plan leczenia jest tworzony indywidualnie dla każdego chorego, uwzględniając nie tylko wiek, ale i stan zdrowia oraz rodzaj zaburzenia, a także skłonności do określonych terapii oraz sytuację rodzinną. W leczeniu całościowych zaburzeń rozwojowych stosowane są różne techniki, takie jak terapia logopedyczna, indywidualna psychoterapia z integracją sensoryczną, elementy terapii behawioralnej i opcji, terapia grupowa oraz psychoedukacja dla rodziców.</Subpoint>
+                </Counteractions>
+		<Examples>
+		</Examples>
+		<Behavior>Osoby z zaburzeniami rozwojowymi i zachowaniowymi mogą doświadczać trudności w komunikacji, nauce czy funkcjonowaniu społecznym, dlatego ważne jest okazywanie im empatii, cierpliwości i zrozumienia. Należy traktować je z szacunkiem, unikać oceniania, stworzyć wspierające środowisko wolne od presji oraz dostosowywać swoje podejście do indywidualnych potrzeb każdej osoby. Kluczowe jest słuchanie, zadawanie prostych pytań, cierpliwość i konsekwencja w działaniach, co pozwala budować pozytywne relacje, wspierać rozwój i promować inkluzyjność społeczną.</Behavior>
+	</List>
+        <List>
+		<Number>Eight</Number>
+		<Name>Zespół lęku uogólnionego</Name>
+		<Information>
+			<Subpoint>Zespół lęku uogólnionego znany również jako zaburzenie lękowe uogólnione (GAD) jest to przewlekłe zaburzenie lękowe, które objawia się stałym poczuciem niepokoju, niezależnie od okoliczności. Osoby cierpiące na GAD odczuwają ciągły niepokój związany z niepowodzeniami i nieszczęściami, które czekają je w przyszłości mimo konkretnych powodów. Martwienie się stanowi dla nich strategię radzenia sobie, wieżą oni, że dzięki niemu lepiej poradzą sobie z problemem, kiedy faktycznie do niego dojdzie. Najtrudniejsza cecha lęku wolno płynącego jest to, że jest on niekontrolowany i stale powraca, co często odbiera im poczucie spokoju.</Subpoint>
+                </Information>
+		<Reasons>
+			<Subpoint>- Czynniki genetyczne</Subpoint>
+			<Subpoint>- Czynniki środowiskowe (takie jak stresujące wydarzenia życiowe)</Subpoint>
+			<Subpoint>- Nieprawidłowe poziomy neuroprzekaźników, takich jak serotonina i noradrenalina</Subpoint>
+		</Reasons>
+		<Symptoms>
+			<Subpoint>- Problemy ze snem (trudności z zasypianiem lub wybudzaniem się)</Subpoint>
+			<Subpoint>- Napięcie mięśni</Subpoint>
+			<Subpoint>- Objawy fizyczne (takie jak bóle głowy, brzucha czy zawroty głowy)</Subpoint>
+			<Subpoint>- Nadmierne i trudne do kontrolowania zamartwianie się na różne tematy</Subpoint>
+			<Subpoint>- Uczucie napięcia, drażliwości lub niepokoju</Subpoint>
+			<Subpoint>- Trudności z koncentracją</Subpoint>
+			<Subpoint>- Szybka męczliwość</Subpoint>
+		</Symptoms>
+		<Results>
+			<Subpoint>- Epizody depresji</Subpoint>
+			<Subpoint>- Napady lęku panicznego</Subpoint>
+			<Subpoint>- Fobia społeczna</Subpoint>
+			<Subpoint>- Uzależnienia od alkoholu, substancji psychoaktywnych lub nadużywanie leków</Subpoint>
+		</Results>
+		<Counteractions>
+			<Subpoint>Leczenie zespołu lęku uogólnionego opiera się na psychoterapii i farmakoterapii. Terapia poznawczo-behawioralna pomaga pacjentowi zrozumieć i przełamać wzorce myślowe wzmacniające lęk. Większość pacjentów dzięki terapii, farmakologicznej i zmianom stylu życia może znacząco zmniejszyć objawy.</Subpoint>
+                </Counteractions>
+		<Examples>
+		</Examples>
+		<Behavior>Osoby z zespołem lęku uogólnionego często doświadczają przewlekłego i nadmiernego lęku, który może wpływać na codzienne funkcjonowanie. Ważne jest, aby traktować je z empatią, cierpliwością i zrozumieniem, unikając oceniania czy lekceważenia ich obaw. Należy stworzyć bezpieczne i wspierające środowisko, aktywnie słuchać ich potrzeb oraz okazywać zrozumienie dla ich emocji. Pomocne jest unikanie negatywnych komentarzy, oferowanie wsparcia oraz zachęcanie do skorzystania z profesjonalnej pomocy terapeutycznej. Spokojna komunikacja, pozytywne podejście i budowanie zaufania są kluczowe w procesie wsparcia.</Behavior>
+	</List>
+        <List>
+		<Number>Nine</Number>
+		<Name>Zaburzenia paniki</Name>
+		<Information>
+			<Subpoint>Ataki paniki są fazami silnego niepokoju, które trwają zwykle tylko kilka minut. Silne uczucie niepokoju, przyspieszone bicie serca, duszności i zawroty głowy to typowe objawy. Jeżeli ataki paniki powtarzają się to, to mówi się o zaburzeniu panicznym.</Subpoint>
+                </Information>
+		<Reasons>
+			<Subpoint>- Katastroficzne myślenie</Subpoint>
+			<Subpoint>- Negatywne skojarzenia i tzw. Automatyczne myśli dotyczące śmierci</Subpoint>
+			<Subpoint>- Nerwica</Subpoint>
+			<Subpoint>- Czynniki emocjonalne i środowiskowe</Subpoint>
+			<Subpoint>- Traumatyczne przeżycia</Subpoint>
+		</Reasons>
+		<Symptoms>
+			<Subpoint>- Intensywna fala strachu np. Strach przed śmiercią</Subpoint>
+			<Subpoint>- Poczucie przerażenia</Subpoint>
+			<Subpoint>- Zintensyfikowane, unieruchamiające, wyniszczające uczucie</Subpoint>
+			<Subpoint>- Subiektywne wrażenie o stanie zagrożenia</Subpoint>
+			<Subpoint>- Spłycone oddychanie</Subpoint>
+			<Subpoint>- Duszność</Subpoint>
+			<Subpoint>- Uczucie dławienia</Subpoint>
+			<Subpoint>- Hiperwentylacja</Subpoint>
+			<Subpoint>- Ból w klatce piersiowej/ucisk w klatce</Subpoint>
+			<Subpoint>- Zawroty głowy</Subpoint>
+		</Symptoms>
+		<Results>
+			<Subpoint>Ataki paniki zazwyczaj nie grożą naszemu zdrowiu fizycznemu, ale nawracające napady są bardzo niekorzystne dla samopoczucia psychicznego. Dla wielu osób stają się źródłem wstydu, smutku.</Subpoint>
+		</Results>
+		<Counteractions>
+			<Subpoint>Najlepszym przeciwdziałaniem panice to dbać o dobry odpoczynek, stosować metody relaksacyjne, ćwiczenia oddechowe, pamiętać o dobrym odżywianiu i aktywności fizycznej.</Subpoint>
+                </Counteractions>
+		<Examples>
+		</Examples>
+		<Behavior>Kiedy rozmawiamy z kimś, kto zmaga się z atakami paniki, najlepszym sposobem będzie zachowaniem spokoju, mowa łagodnym tonem głosu i zapewnieniu tej osobie, że jesteś przy nich – przypomnij im, że to co czują, minie, i pomóż im skupić się na oddychaniu, aby mogli się stopniowo uspokoić.</Behavior>
+	</List>
+        <List>
+		<Number>Ten</Number>
+		<Name>Fobia specyficzna</Name>
+		<Information>
+			<Subpoint>Specyficzne fobie są to jedne z najpowszechniejszych zaburzeń psychicznych, szacuje się, że nawet 20% populacji może doświadczać jednego z problemów należących do tej grupy. Charakteryzują się one odczuwaniem przez chorego lęku przed określonymi sytuacjami lub obiektami.</Subpoint>
+                </Information>
+		<Reasons>
+			<Subpoint>- Czynniki genetyczne</Subpoint>
+			<Subpoint>- Traumatyczne doświadczenia</Subpoint>
+			<Subpoint>- Zaburzenia neurologiczne</Subpoint>
+			<Subpoint>- Przejmowanie reakcji otoczenia czy bliskich na dane rzeczy</Subpoint>
+		</Reasons>
+		<Symptoms>
+			<Subpoint>- Intensywny lęk</Subpoint>
+			<Subpoint>- Przyspieszone bicie serca</Subpoint>
+			<Subpoint>- Pocenie się</Subpoint>
+			<Subpoint>- Drżenie</Subpoint>
+			<Subpoint>- Duszności</Subpoint>
+			<Subpoint>- Zawroty głowy</Subpoint>
+			<Subpoint>- Nudności</Subpoint>
+			<Subpoint>- Omdlenia</Subpoint>
+			<Subpoint>- Atak paniki</Subpoint>
+		</Symptoms>
+		<Results>
+			<Subpoint>- Unikanie sytuacji związanych z obiektem fobii (np. unikanie miejsc wysokościowych przez lęk wysokości)</Subpoint>
+			<Subpoint>- Zmniejszona jakość życia (np. utrata możliwości podróżowania ze względu na obawy przed lataniem)</Subpoint>
+			<Subpoint>- Problemy społeczne (np. izolacja społeczna z powodu unikania miejsc publicznych)</Subpoint>
+			<Subpoint>- Lęki prowadzące do ataków paniki w sytuacjach stresowych (np. w trakcie konfrontacji z obiektem fobii)</Subpoint>
+			<Subpoint>- Obniżona samoocena i poczucie bezradności (np. brak kontroli nad własnymi reakcjami w sytuacjach wywołujących lęk)</Subpoint>
+			<Subpoint>- Ograniczenie codziennych aktywności (np. rezygnacja z pracy, szkoły lub zajęć rekreacyjnych)</Subpoint>
+		</Results>
+		<Counteractions>
+			<Subpoint>- Terapia poznawczo-behawioralna</Subpoint>
+			<Subpoint>- Bezpośrednie i stopniowe stawianie czoła fobii</Subpoint>
+			<Subpoint>- Wsparcie psychologiczne</Subpoint>
+			<Subpoint>- Leki</Subpoint>
+			<Subpoint>- Stosować metody relaksacyjne</Subpoint>
+        </Counteractions>
+		<Examples>
+			<Subpoint>- Agorafobia (lęk przed otwartymi przestrzeniami)</Subpoint>
+			<Subpoint>- Akrofobia (lęk wysokości)</Subpoint>
+			<Subpoint>- Arachnofobia  (lęk przed pająkami)</Subpoint>
+			<Subpoint>- Klaustrofobia (lęk przed zamkniętymi przestrzeniami)</Subpoint>
+			<Subpoint>- Nyktophobia  (lęk przed ciemnością)</Subpoint>
+			<Subpoint>- Aichmofobia  (lęk przed ostrymi przedmiotami)</Subpoint>
+			<Subpoint>- Aviofobia  (lęk przed lataniem)</Subpoint>
+			<Subpoint>- Trypanofobia  (lęk przed igłami lub zastrzykami)</Subpoint>
+			<Subpoint>- Astrafobia  (lęk przed burzą i piorunami)</Subpoint>
+			<Subpoint>- Mysophobia  (lęk przed zarazkami lub brudem)</Subpoint>
+			<Subpoint>- Ofidiofobia  (lęk przed wężami)</Subpoint>
+			<Subpoint>- Zoofobia (lęk przed zwierzętami)</Subpoint>
+		</Examples>
+		<Behavior>Osoby z fobią specyficzną doświadczają intensywnego, nieproporcjonalnego lęku wobec konkretnych obiektów, sytuacji lub miejsc, co może znacząco utrudniać ich funkcjonowanie. Ważne jest, aby traktować je z empatią, cierpliwością i szacunkiem, unikając bagatelizowania ich obaw. Należy unikać nacisków i sytuacji, które mogą wywołać lęk, jednocześnie tworząc bezpieczne i wspierające środowisko. Kluczowe jest aktywne słuchanie, okazanie zrozumienia oraz zachęcanie do skorzystania z pomocy terapeutycznej, która pomoże im radzić sobie z lękiem w sposób kontrolowany i dostosowany do ich potrzeb.</Behavior>
+	</List>
+        <List>
+		<Number>Eleven</Number>
+		<Name>Fobia społeczna</Name>
+		<Information>
+			<Subpoint>Fobia społeczna to rodzaj zaburzenia lękowego, który należy do szerokiej grupy problemów psychicznych zwanych zaburzeniami nerwicowymi, związanymi ze stresem i objawami somatycznymi. Głównym symptomem, niezbędnym do postawienia diagnozy, jest odczuwanie lęku. W zaburzeniach lękowych ten strach może przybierać różne formy i występować w odpowiedzi na rozmaite czynniki. W przypadku fobii społecznej lęk ten pojawia się zwłaszcza w sytuacjach społecznych, gdy osoba jest narażona na kontakt z innymi ludźmi, szczególnie obcymi.</Subpoint>
+                </Information>
+		<Reasons>
+			<Subpoint>- Czynniki genetyczne</Subpoint>
+			<Subpoint>- Traumatyczne wydarzenia z przeszłości</Subpoint>
+			<Subpoint>- Niska samoocena i nadwrażliwość na ocenę innych</Subpoint>
+			<Subpoint>- Nieprawidłowości w pracy mózgu</Subpoint>
+		</Reasons>
+		<Symptoms>
+			<Subpoint>Objawy psychiczne</Subpoint>
+			<Subpoint>- Odczuwanie silnego lęku, niepokoju, strachu</Subpoint>
+			<Subpoint>- Drażliwość, uczucie utraty kontroli, panika</Subpoint>
+			<Subpoint>Objawy fizyczne</Subpoint>
+			<Subpoint>- Kołatanie serca</Subpoint>
+			<Subpoint>- Nieregularny oddech</Subpoint>
+			<Subpoint>- Jąkanie się</Subpoint>
+			<Subpoint>- Nudności</Subpoint>
+			<Subpoint>- Bóle i zawroty głowy</Subpoint>
+			<Subpoint>- Uczucie duszności</Subpoint>
+			<Subpoint>- Szum w uszach</Subpoint>
+		</Symptoms>
+		<Results>
+			<Subpoint>- Izolacja społeczna</Subpoint>
+			<Subpoint>- Problemy zawodowe i edukacyjne</Subpoint>
+			<Subpoint>- Niska samoocena i poczucie własnej wartości</Subpoint>
+			<Subpoint>- Depresja</Subpoint>
+			<Subpoint>- Uzależnienia</Subpoint>
+		</Results>
+		<Counteractions>
+			<Subpoint>- Terapia poznawczo-behawioralna</Subpoint>
+			<Subpoint>- Terapia grupowa</Subpoint>
+			<Subpoint>- Farmakoterapia</Subpoint>
+			<Subpoint>- Techniki relaksacyjne i redukcja stresu</Subpoint>
+			<Subpoint>- Zdrowy tryb życia</Subpoint>
+			<Subpoint>- sychoedukacja</Subpoint>
+                </Counteractions>
+		<Examples>
+		</Examples>
+		<Behavior>Osoby z fobią społeczną doświadczają silnego lęku w sytuacjach społecznych, obawiając się oceniania, krytyki czy odrzucenia. Ważne jest, aby traktować je z empatią, cierpliwością i szacunkiem, unikając oceniania czy wywoływania dodatkowego stresu. Należy stworzyć bezpieczne i wspierające środowisko, okazywać zrozumienie dla ich obaw i unikać zmuszania do sytuacji, które mogą wywołać lęk. Kluczowe jest aktywne słuchanie, pozytywna komunikacja oraz zachęcanie do skorzystania z profesjonalnej pomocy terapeutycznej, która pomoże im stopniowo przezwyciężać swoje lęki.</Behavior>
+	</List>
+        <List>
+		<Number>Twelve</Number>
+		<Name>Zaburzenia obsesyjno-kompulsywne</Name>
+		<Information>
+			<Subpoint>Zaburzenie obsesyjno-kompulsywne (OCD), dawniej znane jako nerwica natręctw, to zaburzenie lękowe dotykające około 2-3% populacji. Charakteryzuje się występowaniem obsesji i kompulsji, które uporczywie powracają, wywołując silny dyskomfort i poważnie utrudniając codzienne życie.</Subpoint>
+                </Information>
+		<Reasons>
+			<Subpoint>- Czynniki genetyczne</Subpoint>
+			<Subpoint>- Nieprawidłowości w funkcjonowaniu mózgu</Subpoint>
+			<Subpoint>- Stres i traumatyczne przeżycia</Subpoint>
+			<Subpoint>- Czynniki rozwojowe</Subpoint>
+			<Subpoint>- Infekcje i reakcje immunologiczne</Subpoint>
+		</Reasons>
+		<Symptoms>
+			<Subpoint>Objawy obsesji:</Subpoint>
+			<Subpoint>- Strach przed skażeniem przez ludzi lub środowisko</Subpoint>
+			<Subpoint>- Nieprzyjemne obrazy seksualne</Subpoint>
+			<Subpoint>- Strach przed wypowiadaniem nieprzyzwoitych słów lub obelg</Subpoint>
+			<Subpoint>- Nadmierna troska o porządek, symetrię lub precyzję</Subpoint>
+			<Subpoint>- Strach przed utratą lub wyrzuceniem czegoś ważnego</Subpoint>
+			<Subpoint>- Obrazy krzywdzenia innych osób</Subpoint>
+			<Subpoint>Objawy zaburzeń kompulsywnych:</Subpoint>
+			<Subpoint>- Nadmierne mycie rąk, branie prysznica lub mycie zębów</Subpoint>
+			<Subpoint>- Wielokrotne sprawdzanie drzwi, aby upewnić się, że są zamknięte albo innych obiektów</Subpoint>
+			<Subpoint>- Liczenie w określonych wzorcach</Subpoint>
+			<Subpoint>- Ciche powtarzanie słów lub fraz</Subpoint>
+			<Subpoint>- Układanie przedmiotów w określony sposób</Subpoint>
+		</Symptoms>
+		<Results>
+			<Subpoint>- Nadmierne wykorzystywanie czasu na zachowanie związane z obsesjami</Subpoint>
+			<Subpoint>- Problemy zdrowotne np. Zapalenie skóry spowodowane nadmiernym myciem rąk</Subpoint>
+			<Subpoint>- Trudności w życiu codziennym, zawodowym lub edukacyjnym</Subpoint>
+			<Subpoint>- Depresja</Subpoint>
+		</Results>
+		<Counteractions>
+			<Subpoint>- Terapia poznawczo-behawioralna</Subpoint>
+			<Subpoint>- Leczenie farmakologiczne</Subpoint>
+			<Subpoint>- Treningi relaksacyjne</Subpoint>
+			<Subpoint>- Wsparcie grupowe</Subpoint>
+                </Counteractions>
+		<Examples>
+			<Subpoint>- Natrętne myśli o brudzie i zanieczyszczeniu</Subpoint>
+			<Subpoint>- Kompulsje związane z porządkiem</Subpoint>
+			<Subpoint>- Obsesje dotyczące bezpieczeństwa</Subpoint>
+			<Subpoint>- Rytuały liczenia</Subpoint>
+			<Subpoint>- Natrętne myśli agresywne</Subpoint>
+			<Subpoint>- Obsesje na punkcie symetrii</Subpoint>
+		</Examples>
+		<Behavior>Osoby z zaburzeniami obsesyjno-kompulsywnymi (OCD) doświadczają nawracających myśli obsesyjnych oraz przymusowych zachowań, które mogą znacząco zakłócać ich codzienne funkcjonowanie. Ważne jest, aby traktować je z empatią, cierpliwością i szacunkiem, unikając oceniania czy wywoływania presji. Należy okazywać zrozumienie dla ich trudności, unikać lekceważenia ich zachowań oraz wspierać je w procesie leczenia. Kluczowe jest aktywne słuchanie, spokojna komunikacja oraz zachęcanie do skorzystania z pomocy terapeutycznej, która pomoże im lepiej radzić sobie z objawami i stresem związanym z zaburzeniem.</Behavior>
+	</List>
+        <List>
+		<Number>Thirteen</Number>
+		<Name>Zespół stresy pourazowego</Name>
+		<Information>
+			<Subpoint>Zespół stresu pourazowego (PTSD) to zaburzenie psychiczne, które może wystąpić po doświadczeniu traumatycznego wydarzenia. Osoby, które przeżyły takie sytuacje, często odczuwają intensywne emocje, niepokojące myśli i powracające wspomnienia. Wiele osób z czasem wraca do normy i czuje się lepiej. Jeśli jednak negatywne reakcje nie ustępują i zaczynają zakłócać codzienne życie, może to wskazywać na wystąpienie PTSD.</Subpoint>
+                </Information>
+		<Reasons>
+			<Subpoint>Przyczyną jest wystawienie na zagrożenie lub faktyczne doświadczenie takie jak:</Subpoint>
+			<Subpoint>- Śmierć</Subpoint>
+			<Subpoint>- Poważne obrażenia</Subpoint>
+			<Subpoint>- Przemoc seksualna</Subpoint>
+			<Subpoint>Typowe traumatyczne wydarzenia mogą obejmować:</Subpoint>
+			<Subpoint>- Bycie świadkiem gwałtownej śmierci</Subpoint>
+			<Subpoint>- Poważne wypadki</Subpoint>
+			<Subpoint>- Napaść fizyczną lub na tle seksualnym</Subpoint>
+			<Subpoint>- Poważne problemy zdrowotne</Subpoint>
+			<Subpoint>- Przeżycie trudnego porodu</Subpoint>
+			<Subpoint>- Zdiagnozowanie zagrażającej życiu choroby</Subpoint>
+			<Subpoint>- Wojny, konflikty ataki terrorystyczne lub klęski żywiołowe</Subpoint>
+			<Subpoint>Ryzyko zachorowania na PTSD jest wyższe w przypadku zawodów takich jak</Subpoint>
+			<Subpoint>- Służby publiczne (policja, strażacy, ratownicy medyczni)</Subpoint>
+			<Subpoint>- Pracownicy socjalni</Subpoint>
+			<Subpoint>- Personel oddziału intensywnej terapii</Subpoint>
+			<Subpoint>- Wojsko lub inne osoby pracujące w strefach działań wojennych</Subpoint>
+		</Reasons>
+		<Symptoms>
+			<Subpoint>- Częste powracanie sytuacji urazowej we wspomnieniach, snach, flashbacki</Subpoint>
+			<Subpoint>- Amnezja dysocjacyjna</Subpoint>
+			<Subpoint>- Izolacja</Subpoint>
+			<Subpoint>- Unikanie rozmowy i rozmyślań</Subpoint>
+			<Subpoint>- Obwinianie siebie lub innych</Subpoint>
+			<Subpoint>- Utrata zainteresowań aktywnościami</Subpoint>
+			<Subpoint>- Niemożność odczuwania przyjemnych emocji</Subpoint>
+			<Subpoint>- Nadmierna czujność</Subpoint>
+			<Subpoint>- Zwiększona reaktywność</Subpoint>
+			<Subpoint>- Trudności z koncentracją</Subpoint>
+			<Subpoint>- Problemy ze snem</Subpoint>
+			<Subpoint>- Drażliwość</Subpoint>
+		</Symptoms>
+		<Results>
+			<Subpoint>- Lęki, depresja</Subpoint>
+			<Subpoint>- Złość i drażliwość</Subpoint>
+			<Subpoint>- Derealizacja i depersonalizacja</Subpoint>
+			<Subpoint>- Bezsenność</Subpoint>
+			<Subpoint>- Chroniczne bóle głowy, mięśni czy stawów</Subpoint>
+			<Subpoint>- Problemy z układem pokarmowym</Subpoint>
+			<Subpoint>- Samookaleczanie lub myśli samobójcze</Subpoint>
+			<Subpoint>- Uzależnienia alkoholowe lub substancjami psychoaktywnymi</Subpoint>
+		</Results>
+		<Counteractions>
+			<Subpoint>Przeciwdziałanie zespołowi stresu pourazowego (PTSD) obejmuje wsparcie emocjonalne poprzez rozmowy z bliskimi oraz udział w grupach wsparcia, terapię, taką jak terapia poznawczo-behawioralna (CBT) i EMDR, zarządzanie stresem poprzez techniki relaksacyjne i aktywność fizyczną, edukację na temat PTSD, dbanie o zdrowy styl życia, unikanie używek oraz skorzystanie z pomocy profesjonalnej terapeuty lub psychiatry, co razem może wspierać proces powrotu do zdrowia.</Subpoint>
+                </Counteractions>
+		<Examples>
+		</Examples>
+		<Behavior>Ważne jest, aby poświęcić czas na rozmowę z osobą, która doświadczyła traumy, aktywnie słuchać jej bez przerywania, zadawać ogólne i nieosądzające pytania, takie jak „czy udało Ci się z kimś porozmawiać o tym?” lub „czy mogę Ci pomóc w znalezieniu dodatkowego wsparcia?”, jednocześnie unikając porównań do własnych doświadczeń, stwierdzeń, że mają szczęście, że żyją, minimalizowania ich uczuć, sugerowania, że mogło być gorzej, oraz składania nieprzydatnych sugestii, które mogłyby nie być pomocne.</Behavior>
+	</List>
+        <List>
+		<Number>Fourteen</Number>
+		<Name>Zaburzenia adaptacyjne</Name>
+		<Information>
+			<Subpoint>Zaburzenia adaptacyjne to grupą problemów psychicznych, które występują w odpowiedzi na trudne lub stresujące zmiany życiowe. Mogą być spowodowane różnorodnymi sytuacjami, takimi jak utrata bliskiej osoby, rozwód, zmiana pracy, przeprowadzka czy poważna choroba. Objawy zaburzeń adaptacyjnych mogą obejmować uczucia smutku, lęku, frustracji, a także problemy z koncentracją i obniżoną motywację. W przeciwieństwie do poważniejszych zaburzeń, takich jak depresja czy zespół stresu pourazowego (PTSD), zaburzenia adaptacyjne są często krótkotrwałe i związane z konkretnym wydarzeniem, chociaż mogą wpływać na codzienne funkcjonowanie i jakość życia.</Subpoint>
+                </Information>
+		<Reasons>
+			<Subpoint>- Utrata bliskiej osoby</Subpoint>
+			<Subpoint>- Rozwód lub separacja</Subpoint>
+			<Subpoint>- Zmiana pracy</Subpoint>
+			<Subpoint>- Poważna choroba</Subpoint>
+			<Subpoint>- Problemy finansowe</Subpoint>
+			<Subpoint>- Wydarzenia traumatyczne</Subpoint>
+			<Subpoint>- Problemy w szkole lub pracy</Subpoint>
+			<Subpoint>- Podatność na stres</Subpoint>
+			<Subpoint>- Istniejące wcześniej zaburzenia psychiczne</Subpoint>
+		</Reasons>
+		<Symptoms>
+			<Subpoint>- Uczucia smutku i przygnębienia</Subpoint>  
+			<Subpoint>- Lęk, uczucie niepokoju, napięcia</Subpoint>  
+			<Subpoint>- Frustracja</Subpoint>  
+			<Subpoint>- Problemy z koncentracją</Subpoint>  
+			<Subpoint>- Utrata apetytu lub nadmierne jedzenie</Subpoint>  
+			<Subpoint>- Bezsenność, koszmary nocne lub nadmierna senność</Subpoint>  
+			<Subpoint>- Izolacja społeczna</Subpoint>  
+			<Subpoint>- Wzmożona wrażliwość emocjonalna</Subpoint>  
+			<Subpoint>- Niskie poczucie własnej wartości</Subpoint>  
+			<Subpoint>- Bóle głowy, bóle brzucha lub inne dolegliwości, które nie mają wyraźnej medycznej przyczyny</Subpoint>  
+		</Symptoms>
+		<Results>
+			<Subpoint>- Trudności w przystosowaniu się do nowych sytuacji życiowych (np. po rozwodzie, zmianie pracy czy przeprowadzce)</Subpoint>
+			<Subpoint>- Zwiększone ryzyko wystąpienia zaburzeń lękowych i depresyjnych (np. przewlekły stres może prowadzić do pogorszenia samopoczucia)</Subpoint>
+			<Subpoint>- Problemy w relacjach międzyludzkich (np. wycofanie się z kontaktów społecznych z powodu stresu)</Subpoint>
+			<Subpoint>- Obniżona jakość życia (np. problemy ze zdrowiem fizycznym i psychicznym spowodowane stresem)</Subpoint>
+			<Subpoint>- Trudności zawodowe lub edukacyjne (np. niemożność skupienia się na obowiązkach w nowym środowisku)</Subpoint>
+			<Subpoint>- Zwiększone ryzyko izolacji społecznej (np. unikanie sytuacji, które wywołują stres)</Subpoint>
+			<Subpoint>- Utrata motywacji i zainteresowań (np. zniechęcenie do podejmowania nowych wyzwań)</Subpoint>
+		</Results>
+		<Counteractions>
+			<Subpoint>Chociaż nie istnieje gwarantowany sposób zapobiegania zaburzeniom adaptacyjnym, rozwijanie odporności na stres, na przykład poprzez dbanie o relacje z bliskimi, pozytywne podejście do trudności, zdrowy styl życia, budowanie stabilnej samooceny, naukę technik radzenia sobie ze stresem oraz relaksacji, regularną troskę o swoje samopoczucie psychiczne i skuteczne metody rozładowywania napięcia, może stanowić solidną profilaktykę.</Subpoint>
+                </Counteractions>
+		<Examples>
+		</Examples>
+		<Behavior>Wspieranie osoby z zaburzeniami adaptacyjnymi polega na uważnym słuchaniu bez oceniania, okazywaniu empatii i zrozumienia, stałej obecności oraz oferowaniu wsparcia emocjonalnego i praktycznego, zachęcaniu do terapii, dbaniu o własne zdrowie psychiczne i emocjonalne, a także na cierpliwości wobec długiego i trudnego procesu leczenia oraz przystosowywania się do zmian.</Behavior>
+	</List>
+        <List>
+		<Number>Fifteen</Number>
+		<Name>Choroba afektywna dwubiegunowa ChAD</Name>
+		<Information>
+			<Subpoint>Choroba afektywna dwubiegunowa, dawniej określana jako depresja maniakalna, to zaburzenie psychiczne objawiające się skrajnymi wahaniami nastroju – od stanów euforii i pobudzenia, zwanych „maniakalnymi”, po epizody głębokiej depresji. Zmiany te mogą znacząco wpływać na koncentrację oraz zdolność wykonywania codziennych obowiązków.</Subpoint>
+                </Information>
+		<Reasons>
+			<Subpoint>- Uwarunkowania genetyczne</Subpoint>  
+			<Subpoint>- Zaburzenia równowagi neuroprzekaźników w mózgu</Subpoint>  
+			<Subpoint>- Choroby somatyczne</Subpoint>  
+			<Subpoint>- Nadużywanie alkoholu lub narkotyków</Subpoint>  
+			<Subpoint>- Stresujące sytuacje życiowe</Subpoint>  
+			<Subpoint>- Pozostawanie w ciągłym napięciu</Subpoint>  
+			<Subpoint>- Brak uregulowanego rytmu dnia i nocy</Subpoint>  
+		</Reasons>
+		<Symptoms>
+			<Subpoint>Depresja</Subpoint>  
+			<Subpoint>- Obniżony nastrój</Subpoint>  
+			<Subpoint>- Spadek energii życiowej</Subpoint>  
+			<Subpoint>- Przygnębienie i smutek</Subpoint>  
+			<Subpoint>- Poczucie winy</Subpoint>  
+			<Subpoint>- Obniżona samoocena</Subpoint>  
+			<Subpoint>Mania</Subpoint>  
+			<Subpoint>- Znaczne podwyższenie nastroju</Subpoint>  
+			<Subpoint>- Nadmierne poczucie radości</Subpoint>  
+			<Subpoint>- Euforia</Subpoint>  
+			<Subpoint>- Nadpobudliwość</Subpoint>  
+			<Subpoint>- Nieograniczona energia</Subpoint>  
+			<Subpoint>Hipomania w ChAD</Subpoint>  
+			<Subpoint>- Zmniejszona potrzeba snu</Subpoint>  
+			<Subpoint>- Dobre samopoczucie psychiczne i fizyczne</Subpoint>  
+			<Subpoint>- Skłonności do lekkomyślnych i ryzykownych działań</Subpoint>
+			<Subpoint>- Epizody mieszane, charakteryzuje się jednoczesnym występowaniem objawów wymienionych powyżej. Nastrój chorego może się zmieniać kilka razy w tygodniu a nawet w ciągu dnia.</Subpoint>
+		</Symptoms>
+		<Results>
+			<Subpoint>- Trudności w utrzymaniu stabilnych relacji interpersonalnych (np. konflikty z rodziną, partnerem czy przyjaciółmi z powodu nastrojowych zmian)</Subpoint>
+			<Subpoint>- Problemy zawodowe lub edukacyjne (np. niestabilność emocjonalna prowadząca do problemów w pracy lub szkole)</Subpoint>
+			<Subpoint>- Zwiększone ryzyko wystąpienia zaburzeń lękowych i depresyjnych (np. w okresach epizodów depresyjnych)</Subpoint>
+			<Subpoint>- Narażenie na zachowania ryzykowne podczas epizodów manii (np. nadmierne wydawanie pieniędzy czy podejmowanie niebezpiecznych działań)</Subpoint>
+			<Subpoint>- Problemy zdrowotne związane z długotrwałym stresem (np. problemy z układem krążenia czy bezsenność)</Subpoint>
+			<Subpoint>- Obniżona jakość życia i funkcjonowania codziennego (np. utrata zainteresowań, izolacja społeczna)</Subpoint>
+			<Subpoint>- Samotność spowodowana trudnością w wyrażaniu emocji i utrzymaniu równowagi emocjonalnej</Subpoint>
+			<Subpoint>- Zwiększone ryzyko prób samobójczych, szczególnie podczas epizodów depresyjnych</Subpoint>
+		</Results>
+		<Counteractions>
+			<Subpoint>Leczenie choroby afektywnej dwubiegunowej jest procesem długotrwałym, ale może być skuteczne, gdy obejmuje kompleksowe podejście: farmakoterapię dopasowaną do objawów, psychoedukację pomagającą pacjentowi i jego bliskim zrozumieć chorobę oraz psychoterapię wspierającą codzienne radzenie sobie i utrzymanie stabilności emocjonalnej w okresach remisji.</Subpoint>
+                </Counteractions>
+		<Examples>
+			<Subpoint>- Zaburzenie afektywne dwubiegunowe typu I jest to klasyczna postać tego schorzenia, charakteryzująca się ciężkimi epizodami manii, które trwają co najmniej siedem dni lub ciężkimi objawami manii, wymagającymi hospitalizacji. Często występują również epizody depresji, zwykle trwające co najmniej dwa tygodnie.</Subpoint>
+			<Subpoint>- Zaburzenie afektywne dwubiegunowe typu II: Ten typ nie charakteryzuje się epizodami manii, ale obejmuje co najmniej jeden epizod hipomanii i jeden okres ciężkiej depresji.</Subpoint>
+			<Subpoint>- Zaburzenie cyklotymiczne (lub cyklotymia): Wahania nastroju obejmują zarówno hipomanię, jak i łagodną lub umiarkowaną depresję, ale większość chorych nie doświadcza pełnych epizodów manii lub depresji.</Subpoint>
+		</Examples>
+		<Behavior>Osoby z chorobą afektywną dwubiegunową (ChAD) doświadczają skrajnych wahań nastroju, od epizodów manii po depresję, co może wpływać na ich funkcjonowanie społeczne i emocjonalne. Ważne jest, aby traktować je z empatią, cierpliwością i szacunkiem, unikając oceniania czy lekceważenia ich problemów. Należy wykazywać zrozumienie, być cierpliwym wobec zmian nastroju oraz oferować wsparcie w sposób stabilny i przewidywalny. Kluczowe jest aktywne słuchanie, spokojna komunikacja oraz zachęcanie do kontynuacji leczenia i współpracy z lekarzem lub terapeutą, aby lepiej radzić sobie z objawami choroby.</Behavior>
+	</List>
+        <List>
+		<Number>Sixteen</Number>
+		<Name>Cyklotymia</Name>
+		<Information>
+			<Subpoint>Cyklotymia jest zaliczana do zaburzeń afektywnych i stanowi podtyp choroby afektywnej dwubiegunowej (ChAD). Tak jak w przypadku zaburzeń afektywnych dwubiegunowych typu I i II, Cyklotymia charakteryzuje się zmiennością nastroju, jednak w przypadku ChAD objawy obniżonego lub podwyższonego nastroju są bardziej intensywne i spełniają kryteria epizodów depresji, mani lub hipomanii.</Subpoint>
+                </Information>
+		<Reasons>
+			<Subpoint>- Czynniki genetyczne</Subpoint>
+			<Subpoint>- Doświadczenie silnego stresu lub traumatycznych wydarzeń</Subpoint>
+		</Reasons>
+		<Symptoms>
+			<Subpoint>W przypadku obniżonego nastroju</Subpoint>
+			<Subpoint>- Smutek, wewnętrzna pustka</Subpoint>  
+			<Subpoint>- Łatwa irytacja oraz uczucie niepokoju</Subpoint>  
+			<Subpoint>- Problemy ze snem</Subpoint>  
+			<Subpoint>- Ciągłe zmęczenie</Subpoint>  
+			<Subpoint>- Myśli samobójcze</Subpoint>  
+			<Subpoint>- Brak życiowych planów ani aspiracji</Subpoint>  
+			<Subpoint>- Wahania masy ciała</Subpoint>  
+			<Subpoint>- Wycofywanie się z życia społecznego</Subpoint>
+			<Subpoint>W przypadku podwyższonego nastroju</Subpoint>
+			<Subpoint>- Nadmierny optymizm</Subpoint>  
+			<Subpoint>- Nerwowość i drażliwość</Subpoint>  
+			<Subpoint>- Zawyżone poczucie własnej wartości</Subpoint>  
+			<Subpoint>- Nadmiar energii</Subpoint>  
+			<Subpoint>- Aktywne życie w społeczeństwie</Subpoint>  
+		</Symptoms>
+		<Results>
+			<Subpoint>- Trudności w utrzymaniu stabilnych relacji interpersonalnych (np. zmienne nastroje wpływające na kontakty z bliskimi)</Subpoint>
+			<Subpoint>- Problemy zawodowe lub edukacyjne (np. niestabilność emocjonalna utrudniająca skupienie się na obowiązkach)</Subpoint>
+			<Subpoint>- Zwiększone ryzyko wystąpienia innych zaburzeń afektywnych (np. depresji lub epizodów manii)</Subpoint>
+			<Subpoint>- Problemy ze zdrowiem fizycznym związane ze stresem (np. bezsenność czy zaburzenia układu krążenia)</Subpoint>
+			<Subpoint>- Obniżona jakość życia z powodu ciągłego wahania nastrojów (np. uczucie zmęczenia emocjonalnego)</Subpoint>
+			<Subpoint>- Trudności w podejmowaniu decyzji (np. wynikające z niestabilności emocjonalnej)</Subpoint>
+			<Subpoint>- Niska samoocena spowodowana przewlekłymi wahaniami nastroju (np. poczucie bezradności)</Subpoint>
+			<Subpoint>- Izolacja społeczna jako efekt unikania kontaktów z powodu lęku przed własnymi reakcjami emocjonalnymi</Subpoint>
+		</Results>
+		<Counteractions>
+			<Subpoint>Leczenie cyklotymii opiera się na farmakoterapii oraz psychoterapii, gdzie leki pomagają w osiągnięciu stabilności psychicznej i wspierają proces terapeutyczny, a ich dobór powinien być dokonany przez psychiatrę, natomiast terapia psychologiczna może obejmować różne podejścia, takie jak popularna terapia poznawczo-behawioralna, która koncentruje się na zmianie nawyków i wzorców myślenia, czy dialektyczna terapia behawioralna (DBT), która kładzie duży nacisk na relację z terapeutą, a także terapia interpersonalna i rytmu społecznego (IPSRT), mająca na celu wprowadzenie regularności w codziennym życiu oraz rozwijanie umiejętności interpersonalnych; wybór odpowiedniego nurtu terapeutycznego powinien być dostosowany do indywidualnych potrzeb pacjenta.</Subpoint>
+                </Counteractions>
+		<Examples>
+		</Examples>
+		<Behavior>Osoby z cyklotymią doświadczają przewlekłych, umiarkowanych wahań nastroju, które są mniej skrajne niż w chorobie afektywnej dwubiegunowej, ale mogą wpływać na ich codzienne funkcjonowanie i samopoczucie. Ważne jest, aby traktować je z empatią, cierpliwością i szacunkiem, unikając oceniania czy lekceważenia ich emocji. Należy okazywać zrozumienie dla ich zmiennego nastroju, tworzyć stabilne i wspierające środowisko oraz zapewniać im przestrzeń do wyrażania emocji bez obawy przed oceną. Kluczowe jest aktywne słuchanie, spokojna komunikacja oraz zachęcanie do skorzystania z pomocy terapeutycznej, aby lepiej radzić sobie z emocjonalnymi wahaniami.</Behavior>
+	</List>
+        <List>
+		<Number>Seventeen</Number>
+		<Name>Dystymia</Name>
+		<Information>
+			<Subpoint>Dystymia to przewlekłe zaburzenie, znane również jako depresyjne zaburzenie osobowości lub depresja nerwicowa, które zalicza się do grupy zaburzeń afektywnych (zaburzeń nastroju). Najczęściej występuje w pierwszych trzech dekadach życia, a u większości pacjentów objawy związane z dystymią pojawiają się jeszcze przed ukończeniem 18. roku życia. Warunkiem jej rozpoznania jest co najmniej dwuletni okres utrzymywania się objawów.</Subpoint>
+                </Information>
+		<Reasons>
+			<Subpoint>- Czynniki genetyczne</Subpoint>  
+			<Subpoint>- Zaburzenia neuroprzekaźników w mózgu</Subpoint>  
+			<Subpoint>- Zaburzenia pracy tarczycy i inne zaburzenia hormonalne</Subpoint>  
+			<Subpoint>- Traumatyczne wydarzenia</Subpoint>
+		</Reasons>
+		<Symptoms>
+			<Subpoint>- Bezsenność</Subpoint>  
+			<Subpoint>- Przewlekłe zmęczenie</Subpoint>  
+			<Subpoint>- Trudności w koncentracji</Subpoint>  
+			<Subpoint>- Płaczliwość</Subpoint>  
+			<Subpoint>- Poczucie bezradności</Subpoint>  
+			<Subpoint>- Utrata dotychczasowych zainteresowań</Subpoint>  
+			<Subpoint>- Rozpamiętywanie przeszłości</Subpoint>  
+			<Subpoint>- Wycofanie z życia społecznego</Subpoint>  
+			<Subpoint>- Duża trudność w wykonywaniu codziennych obowiązków</Subpoint>  
+			<Subpoint>- Zaburzenia odżywiania</Subpoint>  
+			<Subpoint>- Niska samoocena</Subpoint>
+		</Symptoms>
+		<Results>
+			<Subpoint>- Obniżona jakość życia</Subpoint>  
+			<Subpoint>- Nadużywanie alkoholu lub innych używek</Subpoint>  
+			<Subpoint>- Zaburzenia odżywiania</Subpoint>  
+			<Subpoint>- Obniżona produktywność</Subpoint>  
+			<Subpoint>- Myśli samobójcze</Subpoint>  
+			<Subpoint>- Obniżone libido</Subpoint>
+		</Results>
+		<Counteractions>
+			<Subpoint>Dystymia to przewlekłe zaburzenie, dlatego jej leczenie jest długotrwałe i zwykle obejmuje psychoterapię oraz farmakoterapię, które mogą być stosowane zarówno równolegle, jak i osobno. Leki przepisywane są zwykle w przypadkach nasilonych objawów, współwystępowania innych zaburzeń lub wtedy, gdy psychoterapia okazuje się niewystarczająca.</Subpoint>
+                </Counteractions>
+		<Examples>
+			<Subpoint>- Dystymia pierwotna</Subpoint>
+			<Subpoint>- Dystymia wtórna (towarzyszy jej inna przewlekła choroba somatyczna)</Subpoint>
+		</Examples>
+		<Behavior>Osoby z dystymią doświadczają przewlekłego, umiarkowanego obniżenia nastroju, które może wpływać na ich codzienne funkcjonowanie i samopoczucie. Ważne jest, aby traktować je z empatią, cierpliwością i szacunkiem, unikając oceniania czy lekceważenia ich uczuć. Należy okazywać zrozumienie, być obecnym i oferować wsparcie emocjonalne w sposób stabilny i wyrozumiały. Kluczowe jest aktywne słuchanie, spokojna komunikacja oraz zachęcanie do skorzystania z pomocy terapeutycznej, która pomoże im lepiej radzić sobie z obniżonym nastrojem i odzyskać równowagę emocjonalną.</Behavior>
+	</List>
+        <List>
+		<Number>Eighteen</Number>
+		<Name>Schizofrenia</Name>
+		<Information>
+			<Subpoint>Schizofrenia to przewlekła i poważna choroba psychiczna, która wpływa na sposób myślenia, odczuwania i zachowania osoby. Objawia się głównie zaburzeniami w postrzeganiu rzeczywistości, w tym omamami (np. słyszenie głosów), urojeniami (fałszywe przekonania), zaburzeniami myślenia i zmienionymi emocjami.</Subpoint>
+                </Information>
+		<Reasons>
+			<Subpoint>- Przewlekły stres</Subpoint>  
+			<Subpoint>- Traumatyczne przeżycia</Subpoint>  
+			<Subpoint>- Konopie indyjskie</Subpoint>  
+			<Subpoint>- Alkohol i narkotyki</Subpoint>
+		</Reasons>
+		<Symptoms>
+			<Subpoint>- Ambiwalencja (współistnienie sprzecznych uczuć)</Subpoint>  
+			<Subpoint>- Ambisentencja (współistnienie sprzecznych sądów)</Subpoint>  
+			<Subpoint>- Ambitendencja (istnienie sprzecznych dążeń)</Subpoint>  
+			<Subpoint>- Omamy słuchowe</Subpoint>  
+			<Subpoint>- Omamy czuciowe (cenestetyczne)</Subpoint>  
+			<Subpoint>- Poczucie nasłania</Subpoint>  
+			<Subpoint>- Urojeniowe spostrzeżenia</Subpoint>  
+			<Subpoint>- Zaburzenia koncentracji uwagi</Subpoint>  
+			<Subpoint>- Dezorganizacja i chaotyczne zachowanie</Subpoint>
+			<Subpoint>Schizofrenie dzieli się na dwie grupy objawów:</Subpoint>
+			<Subpoint>1. Grupa pierwsza, czyli objawy wytwórcze, tzw. pozytywne, będące patologiczną jakością w życiu psychicznym, do których zalicza się omamy i urojenia.</Subpoint>
+			<Subpoint>2. Grupa druga to objawy ubytkowe, tzw. negatywne, czyli zubożenie afektywne (reakcji emocjonalnej), wycofanie z kontaktów społecznych, czy brak zdolności do przeżywania przyjemności (anhedonia).</Subpoint>
+		</Symptoms>
+		<Results>
+			<Subpoint>- Otyłość</Subpoint>  
+			<Subpoint>- Zaburzenia gospodarki węglowodanowej</Subpoint>  
+			<Subpoint>- Zaburzenia gospodarki lipidowej</Subpoint>  
+			<Subpoint>- Schorzenia układu krążenia</Subpoint>  
+			<Subpoint>- Nadużywanie substancji psychoaktywnych</Subpoint>  
+			<Subpoint>- Schorzenia neurologiczne i endokrynologiczne</Subpoint>  
+		</Results>
+		<Counteractions>
+			<Subpoint>Leczenie schizofrenii obejmuje różnorodne podejścia terapeutyczne, wśród których kluczowe są farmakoterapia, psychoterapia, psychoedukacja oraz wsparcie rodzinne. Podstawą terapii jest leczenie przeciwpsychotyczne, które łagodzi objawy psychotyczne i skutecznie zapobiega nawrotom choroby. W leczeniu farmakologicznym stosuje się leki przeciwpsychotyczne, a także preparaty uspokajające, stabilizujące nastrój i przeciwdepresyjne, dostosowane do indywidualnych potrzeb chorego.</Subpoint>
+			<Subpoint>Poza farmakoterapią stosuje się także metody biologiczne i pozabiologiczne. Do metod biologicznych należy terapia elektrowstrząsowa, szczególnie skuteczna w przypadkach schizofrenii katatonicznej, oraz przezczaszkowa stymulacja magnetyczna. Równie istotne są techniki pozabiologiczne, obejmujące psychoterapię, psychoedukację i pracę z rodziną chorego. Takie holistyczne podejście, łączące farmakoterapię z różnymi formami terapii oraz edukacją rodziny, okazuje się najskuteczniejsze, umożliwiając wielowymiarową poprawę stanu osoby chorej na schizofrenię.</Subpoint>
+                </Counteractions>
+		<Examples>
+			<Subpoint>Schizofrenia paranoidalna</Subpoint>
+			<Subpoint>To najczęściej występująca postać tej choroby, charakteryzująca się przede wszystkim luźnymi, niepowiązanymi logicznie urojeniami, często o charakterze prześladowczym lub odnoszącym się do własnej osoby (tzw. urojenia ksobne). Mogą również występować urojenia dotyczące kontroli myśli, w których osoba chora ma poczucie, że jej myśli są odsłonięte lub ktoś nimi kieruje. Typowe są także omamy, głównie słuchowe, chory słyszy głosy, często wyzywające, komentujące lub nakazujące coś zrobić, co sprawia mu ogromny dyskomfort. Rzadziej pojawiają się proste omamy dźwiękowe, jak stukoty, a także omamy cielesne (somatyczne), np. doznania związane z ciałem, oraz omamy węchowe, choć omamy wzrokowe należą do rzadkości.</Subpoint>
+			<Subpoint>Schizofrenia katatoniczna</Subpoint>
+			<Subpoint>To natomiast przejawia się przede wszystkim w postaci wyraźnych zaburzeń ruchowych, od stanu całkowitego zahamowania ruchowego (skrajnego spowolnienia), po intensywne pobudzenie psychoruchowe. Zazwyczaj występują także zaburzenia popędów, takie jak trudności z jedzeniem. Kontakt z osobą chorą może być znacznie utrudniony, co czyni ten stan jednym z najcięższych i potencjalnie zagrażających życiu w psychiatrii.</Subpoint>
+		</Examples>
+		<Behavior>Osoby ze schizofrenią mogą doświadczać trudności w rozróżnianiu rzeczywistości, myśleniu, emocjach i relacjach społecznych, co może prowadzić do izolacji i lęku. Ważne jest, aby traktować je z empatią, szacunkiem i cierpliwością, unikając oceniania czy konfrontacji z ich przekonaniami. Należy stworzyć bezpieczne i wspierające środowisko, aktywnie słuchać ich potrzeb i okazywać zrozumienie. Kluczowe jest unikanie bagatelizowania ich doświadczeń oraz zachęcanie do kontynuacji leczenia i współpracy z lekarzem czy terapeutą. Spokojna komunikacja i cierpliwość są fundamentem wspierającego podejścia.</Behavior>
+	</List>
+	<List>
+		<Number></Number>
+		<Name></Name>
+		<Information>
+		</Information>
+		<Reasons>
+		</Reasons>
+		<Symptoms>
+		</Symptoms>
+		<Results>
+		</Results>
+		<Counteractions>
+		</Counteractions>
+		<Examples>
+		</Examples>
+		<Behavior>
+		</Behavior>
+	</List>
+</Diseases>
