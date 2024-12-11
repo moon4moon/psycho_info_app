@@ -43,86 +43,135 @@ namespace Psycho_info_app
 
                 XmlNodeList InformationList = xml.DocumentElement.SelectNodes(element + "/Information/Subpoint");
 
-                foreach (XmlNode informations in InformationList)
+                if (InformationList.Count > 0)
                 {
-                    TextBlock textBlock = new TextBlock();
+                    foreach (XmlNode informations in InformationList)
+                    {
+                        TextBlock textBlock = new TextBlock();
 
-                    textBlock.Text = informations.InnerText;
-                    textBlock.Style = (Style)FindResource("Text_Info");
+                        textBlock.Text = informations.InnerText;
+                        textBlock.Style = (Style)FindResource("Text_Info");
 
-                    Informations.Children.Add(textBlock);
+                        Informations.Children.Add(textBlock);
+                    }
+                }
+                else
+                {
+                    Informations_Border.Visibility = Visibility.Collapsed;
                 }
 
                 XmlNodeList ReasonsList = xml.DocumentElement.SelectNodes(element + "/Reasons/Subpoint");
 
-                foreach (XmlNode reasons in ReasonsList)
+                if (ReasonsList.Count > 0)
                 {
-                    TextBlock textBlock = new TextBlock();
+                    foreach (XmlNode reasons in ReasonsList)
+                    {
+                        TextBlock textBlock = new TextBlock();
 
-                    textBlock.Text = reasons.InnerText;
-                    textBlock.Style = (Style)FindResource("Text_Info");
+                        textBlock.Text = reasons.InnerText;
+                        textBlock.Style = (Style)FindResource("Text_Info");
 
-                    Reasons.Children.Add(textBlock);
+                        Reasons.Children.Add(textBlock);
+                    }
+                }
+                else
+                {
+                    Reasons_Border.Visibility = Visibility.Collapsed;
                 }
 
                 XmlNodeList SymptomsList = xml.DocumentElement.SelectNodes(element + "/Symptoms/Subpoint");
 
-                foreach (XmlNode symptoms in SymptomsList)
+                if (SymptomsList.Count > 0)
                 {
-                    TextBlock textBlock = new TextBlock();
+                    foreach (XmlNode symptoms in SymptomsList)
+                    {
+                        TextBlock textBlock = new TextBlock();
 
-                    textBlock.Text = symptoms.InnerText;
-                    textBlock.Style = (Style)FindResource("Text_Info");
+                        textBlock.Text = symptoms.InnerText;
+                        textBlock.Style = (Style)FindResource("Text_Info");
 
-                    Symptoms.Children.Add(textBlock);
+                        Symptoms.Children.Add(textBlock);
+                    }
+                }
+                else
+                {
+                    Symptoms_Border.Visibility = Visibility.Collapsed;
                 }
 
                 XmlNodeList ResultsList = xml.DocumentElement.SelectNodes(element + "/Results/Subpoint");
 
-                foreach (XmlNode results in ResultsList)
+                if (ResultsList.Count > 0)
                 {
-                    TextBlock textBlock = new TextBlock();
+                    foreach (XmlNode results in ResultsList)
+                    {
+                        TextBlock textBlock = new TextBlock();
 
-                    textBlock.Text = results.InnerText;
-                    textBlock.Style = (Style)FindResource("Text_Info");
+                        textBlock.Text = results.InnerText;
+                        textBlock.Style = (Style)FindResource("Text_Info");
 
-                    Results.Children.Add(textBlock);
+                        Results.Children.Add(textBlock);
+                    }
+                }
+                else
+                {
+                    Results_Border.Visibility = Visibility.Collapsed;
                 }
 
                 XmlNodeList CounteractionsList = xml.DocumentElement.SelectNodes(element + "/Counteractions/Subpoint");
 
-                foreach (XmlNode counteractions in CounteractionsList)
+                if (CounteractionsList.Count > 0)
                 {
-                    TextBlock textBlock = new TextBlock();
+                    foreach (XmlNode counteractions in CounteractionsList)
+                    {
+                        TextBlock textBlock = new TextBlock();
 
-                    textBlock.Text = counteractions.InnerText;
-                    textBlock.Style = (Style)FindResource("Text_Info");
+                        textBlock.Text = counteractions.InnerText;
+                        textBlock.Style = (Style)FindResource("Text_Info");
 
-                    Counteractions.Children.Add(textBlock);
+                        Counteractions.Children.Add(textBlock);
+                    }
+                }
+                else
+                {
+                    Counteractions_Border.Visibility = Visibility.Collapsed;
                 }
 
                 XmlNodeList ExamplesList = xml.DocumentElement.SelectNodes(element + "/Examples/Subpoint");
 
-                foreach (XmlNode examples in ExamplesList)
+                if (ExamplesList.Count > 0)
                 {
-                    TextBlock textBlock = new TextBlock();
+                    foreach (XmlNode examples in ExamplesList)
+                    {
+                        TextBlock textBlock = new TextBlock();
 
-                    textBlock.Text = examples.InnerText;
-                    textBlock.Style = (Style)FindResource("Text_Info");
+                        textBlock.Text = examples.InnerText;
+                        textBlock.Style = (Style)FindResource("Text_Info");
 
-                    Examples.Children.Add(textBlock);
+                        Examples.Children.Add(textBlock);
+                    }
+                }
+                else
+                {
+                    Examples_Border.Visibility = Visibility.Collapsed;
                 }
 
                 XmlNodeList BehaviorList = xml.DocumentElement.SelectNodes(element + "/Behavior/Subpoint");
 
-                foreach (XmlNode behavior in BehaviorList)
+                if (BehaviorList.Count > 0)
                 {
-                    TextBlock textBlock = new TextBlock();
+                    foreach (XmlNode behavior in BehaviorList)
+                    {
+                        TextBlock textBlock = new TextBlock();
 
-                    textBlock.Text = behavior.InnerText;
-                    textBlock.Style = (Style)FindResource("Text_Info");
+                        textBlock.Text = behavior.InnerText;
+                        textBlock.Style = (Style)FindResource("Text_Info");
 
-                    Behavior.Children.Add(textBlock);
+                        Behavior.Children.Add(textBlock);
+                    }
+                }
+                else
+                {
+                    Behavior_Border.Visibility = Visibility.Collapsed;
                 }
             }
             else
