@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dawid\\Desktop\\nowa apka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|C:\\Users\\Dawid\\Desktop\\nowa apka\\psycho_info_app\\view\\healthlife.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|solutionrelative:psycho_info_app\\view\\healthlife.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|C:\\Users\\Dawid\\Desktop\\nowa apka\\psycho_info_app\\view\\healthlife.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|solutionrelative:psycho_info_app\\view\\healthlife.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|c:\\users\\dawid\\desktop\\nowa apka\\psycho_info_app\\view\\specialists.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|solutionrelative:psycho_info_app\\view\\specialists.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|C:\\Users\\Dawid\\Desktop\\nowa apka\\psycho_info_app\\view\\diseaseslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|solutionrelative:psycho_info_app\\view\\diseaseslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|C:\\Users\\Dawid\\Desktop\\nowa apka\\psycho_info_app\\view\\therapy.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|solutionrelative:psycho_info_app\\view\\therapy.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|C:\\Users\\Dawid\\Desktop\\nowa apka\\psycho_info_app\\view\\therapy.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|solutionrelative:psycho_info_app\\view\\therapy.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|c:\\users\\dawid\\desktop\\nowa apka\\psycho_info_app\\themes\\specialistsblocks.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|solutionrelative:psycho_info_app\\themes\\specialistsblocks.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|C:\\Users\\Dawid\\Desktop\\nowa apka\\psycho_info_app\\bin\\debug\\materials\\test.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|solutionrelative:psycho_info_app\\bin\\debug\\materials\\test.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|C:\\Users\\Dawid\\Desktop\\nowa apka\\psycho_info_app\\themes\\diseasebuttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|solutionrelative:psycho_info_app\\themes\\diseasebuttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|C:\\Users\\Dawid\\Desktop\\nowa apka\\psycho_info_app\\themes\\menubuttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|solutionrelative:psycho_info_app\\themes\\menubuttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|C:\\Users\\Dawid\\Desktop\\nowa apka\\psycho_info_app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{580B7A18-A4ED-41B0-8C37-8FE0CF304170}|Psycho_info_app\\Psycho_info_app.csproj|solutionrelative:psycho_info_app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Specialists.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\View\\Specialists.xaml",
+              "RelativeDocumentMoniker": "Psycho_info_app\\View\\Specialists.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\View\\Specialists.xaml",
+              "RelativeToolTip": "Psycho_info_app\\View\\Specialists.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-12T17:01:31.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "test.xml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\bin\\Debug\\Materials\\test.xml",
+              "RelativeDocumentMoniker": "Psycho_info_app\\bin\\Debug\\Materials\\test.xml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\bin\\Debug\\Materials\\test.xml",
+              "RelativeToolTip": "Psycho_info_app\\bin\\Debug\\Materials\\test.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-09T22:01:25.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiseasesList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\View\\DiseasesList.xaml.cs",
+              "RelativeDocumentMoniker": "Psycho_info_app\\View\\DiseasesList.xaml.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\View\\DiseasesList.xaml.cs",
+              "RelativeToolTip": "Psycho_info_app\\View\\DiseasesList.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:50:41.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthLife.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\View\\HealthLife.xaml",
+              "RelativeDocumentMoniker": "Psycho_info_app\\View\\HealthLife.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\View\\HealthLife.xaml",
+              "RelativeToolTip": "Psycho_info_app\\View\\HealthLife.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T21:45:45.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthLife.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\View\\HealthLife.xaml.cs",
+              "RelativeDocumentMoniker": "Psycho_info_app\\View\\HealthLife.xaml.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\View\\HealthLife.xaml.cs",
+              "RelativeToolTip": "Psycho_info_app\\View\\HealthLife.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:45:45.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Therapy.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\View\\Therapy.xaml.cs",
+              "RelativeDocumentMoniker": "Psycho_info_app\\View\\Therapy.xaml.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\View\\Therapy.xaml.cs",
+              "RelativeToolTip": "Psycho_info_app\\View\\Therapy.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:45:45.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Therapy.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\View\\Therapy.xaml",
+              "RelativeDocumentMoniker": "Psycho_info_app\\View\\Therapy.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\View\\Therapy.xaml",
+              "RelativeToolTip": "Psycho_info_app\\View\\Therapy.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T21:45:46.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpecialistsBlocks.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\Themes\\SpecialistsBlocks.xaml",
+              "RelativeDocumentMoniker": "Psycho_info_app\\Themes\\SpecialistsBlocks.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\Themes\\SpecialistsBlocks.xaml",
+              "RelativeToolTip": "Psycho_info_app\\Themes\\SpecialistsBlocks.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T21:45:46.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Psycho_info_app\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\MainWindow.xaml",
+              "RelativeToolTip": "Psycho_info_app\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T21:45:46.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuButtons.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\Themes\\MenuButtons.xaml",
+              "RelativeDocumentMoniker": "Psycho_info_app\\Themes\\MenuButtons.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\Themes\\MenuButtons.xaml",
+              "RelativeToolTip": "Psycho_info_app\\Themes\\MenuButtons.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T21:45:46.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiseaseButtons.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\Themes\\DiseaseButtons.xaml",
+              "RelativeDocumentMoniker": "Psycho_info_app\\Themes\\DiseaseButtons.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\nowa apka\\Psycho_info_app\\Themes\\DiseaseButtons.xaml",
+              "RelativeToolTip": "Psycho_info_app\\Themes\\DiseaseButtons.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T21:45:46.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

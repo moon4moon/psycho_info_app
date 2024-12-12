@@ -6,62 +6,103 @@
              xmlns:local="clr-namespace:Psycho_info_app.View"
              mc:Ignorable="d" 
              d:DesignHeight="900" d:DesignWidth="1160">
-    <ScrollViewer>
-        <StackPanel>
-            <Border Background="#012A4A" 
-                    Height="140"
-                    Margin="0 0 0 10">
 
-                <TextBlock Text="TITLE"
-                           Name="title"
-                           Foreground="White"/>
+    <UserControl.Resources>
+        <DropShadowEffect x:Key="DropShadowEffect"
+                          Color="Black"
+                          Direction="320"
+                          ShadowDepth="10"
+                          Opacity="0.5"
+                          BlurRadius="15" />
+    </UserControl.Resources>
 
-            </Border>
+    <Grid Background="#89C2D9">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
 
-            <Grid Width="1000">
-                <Grid.RowDefinitions>
-                    <RowDefinition Height="50"/>
-                    <RowDefinition Height="*"/>
-                    <RowDefinition Height="50"/>
-                    <RowDefinition Height="50"/>
-                    <RowDefinition Height="300"/>
-                </Grid.RowDefinitions>
+        <!-- Title Section -->
+        <Border Style="{StaticResource Border_Title}">
+            <TextBlock Text="Jak żyć zdrowo?"
+                        Name="title"
+                        Style="{StaticResource Page_Title}" />
+                    
+            
+        </Border>
 
-                <Border Background="#01497C"
-                        Grid.Row="0">
-
-                    <TextBlock Text="TITLE"
-                               Name="first"
-                               Foreground="White"/>
-
-                </Border>
-
-                <Border Background="#A9D6E5"
-                        Grid.Row="1">
-
-                    <TextBlock Name="second" TextWrapping="Wrap" Padding="20">
-                        To, co jemy, ma ogromny wpływ nie tylko na nasze ciało, ale i na umysł. Zbilansowana dieta bogata w witaminy, minerały i zdrowe tłuszcze wspiera funkcjonowanie mózgu i może poprawiać nastrój. Badania pokazują, że niektóre składniki odżywcze, takie jak kwasy tłuszczowe omega-3, witaminy z grupy B, magnez czy tryptofan, wspierają produkcję serotoniny – hormonu szczęścia – i łagodzą objawy stresu czy depresji. Regularne spożywanie owoców, warzyw, pełnoziarnistych produktów, orzechów i ryb
+        <!-- Content Section -->
+        <ScrollViewer Grid.Row="1">
+            <StackPanel>
+                <!-- Section: Dieta -->
+                <Border Background="#01497C" Margin="10 10 10 0" CornerRadius="10" Effect="{StaticResource DropShadowEffect}">
+                    <TextBlock Text="Dieta a zdrowie psychiczne – jak jedzenie wpływa na Twój umysł?"
+                               Foreground="White"
+                               FontWeight="Bold"
+                               Padding="10">
+                        <TextBlock.Effect>
+                            <DropShadowEffect Color="Black"
+                                              Direction="320"
+                                              ShadowDepth="5"
+                                              Opacity="0.5"
+                                              BlurRadius="5"/>
+                        </TextBlock.Effect>
                     </TextBlock>
-
+                </Border>
+                <Border Background="#A9D6E5" Margin="10 0 10 10" CornerRadius="10" Effect="{StaticResource DropShadowEffect}">
+                    <TextBlock TextWrapping="Wrap" Padding="20">
+                        To, co jemy, ma ogromny wpływ nie tylko na nasze ciało, ale i na umysł. Zbilansowana dieta bogata w witaminy, minerały i zdrowe tłuszcze wspiera funkcjonowanie mózgu i może poprawiać nastrój.
+                        Badania pokazują, że niektóre składniki odżywcze, takie jak kwasy tłuszczowe omega-3, witaminy z grupy B, magnez czy tryptofan, wspierają produkcję serotoniny – hormonu szczęścia – i łagodzą objawy stresu czy depresji.
+                        Regularne spożywanie owoców, warzyw, pełnoziarnistych produktów, orzechów i ryb pomaga stabilizować nastrój, poprawia koncentrację i zmniejsza ryzyko zaburzeń psychicznych. Unikanie nadmiaru cukru i przetworzonej żywności pomaga redukować wahania nastroju i poziomu energii.
+                        Dbając o zdrową dietę, dbasz również o swoje zdrowie psychiczne – pamiętaj, że dobre jedzenie to paliwo dla Twojego dobrego samopoczucia.
+                    </TextBlock>
                 </Border>
 
-                
-                <Border Background="#01497C"
-                        Grid.Row="3">
-
-                    <TextBlock Text="TITLE"
-                               Name="secon"
-                               Foreground="White"/>
-
+                <!-- Section: Aktywność fizyczna -->
+                <Border Background="#01497C" Margin="10 10 10 0" CornerRadius="10" Effect="{StaticResource DropShadowEffect}">
+                    <TextBlock Text="Rusz się po lepsze samopoczucie"
+                               Foreground="White"
+                               FontWeight="Bold"
+                               Padding="10">
+                        <TextBlock.Effect>
+                            <DropShadowEffect Color="Black"
+                                              Direction="320"
+                                              ShadowDepth="5"
+                                              Opacity="0.5"
+                                              BlurRadius="5"/>
+                        </TextBlock.Effect>
+                    </TextBlock>
+                </Border>
+                <Border Background="#A9D6E5" Margin="10 0 10 10" CornerRadius="10" Effect="{StaticResource DropShadowEffect}">
+                    <TextBlock TextWrapping="Wrap" Padding="20">
+                        Ruch to nie tylko sposób na zdrowe ciało, ale także klucz do lepszego samopoczucia psychicznego. Regularna aktywność fizyczna pomaga redukować stres, poprawia nastrój i zwiększa poziom energii.
+                        Wysiłek fizyczny stymuluje produkcję endorfin – hormonów szczęścia, które działają jak naturalny antydepresant. Nawet 30 minut spaceru, jazdy na rowerze czy ćwiczeń dziennie może poprawić koncentrację, obniżyć poziom lęku i pomóc w radzeniu sobie z wyzwaniami.
+                    </TextBlock>
                 </Border>
 
-                <Border Background="#A9D6E5"
-                        Grid.Row="4">
-
-                    <TextBlock Text="TITLE" Name="secod"/>
-
+                <!-- Section: Sen -->
+                <Border Background="#01497C" Margin="10 10 10 0" CornerRadius="10" Effect="{StaticResource DropShadowEffect}">
+                    <TextBlock Text="Sen - klucz do zdrowia psychicznego i dobrego samopoczucia"
+                               Foreground="White"
+                               FontWeight="Bold"
+                               Padding="10">
+                        <TextBlock.Effect>
+                            <DropShadowEffect Color="Black"
+                                              Direction="320"
+                                              ShadowDepth="5"
+                                              Opacity="0.5"
+                                              BlurRadius="5"/>
+                        </TextBlock.Effect>
+                    </TextBlock>
                 </Border>
-            </Grid>
-        </StackPanel>
-    </ScrollViewer>
+                <Border Background="#A9D6E5" Margin="10 0 10 10" CornerRadius="10" Effect="{StaticResource DropShadowEffect}">
+                    <TextBlock TextWrapping="Wrap" Padding="20">
+                        Sen to fundament zdrowego umysłu. Podczas snu mózg regeneruje się, przetwarza emocje i utrwala wspomnienia, co pomaga w radzeniu sobie ze stresem i poprawia koncentrację. Brak snu może prowadzić do wahań nastroju, obniżenia odporności psychicznej i trudności w podejmowaniu decyzji. Regularny, zdrowy sen – około 7–9 godzin na dobę – wspiera równowagę psychiczną, poprawia nastrój i sprzyja efektywnemu funkcjonowaniu w ciągu dnia.
+                        Dbaj o higienę snu: kładź się spać o stałych porach, unikaj kofeiny wieczorem i twórz warunki sprzyjające odpoczynkowi. Dobry sen to klucz do harmonii ciała i umysłu!
+                    </TextBlock>
+                </Border>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+
 </UserControl>
