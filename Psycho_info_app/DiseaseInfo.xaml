@@ -5,7 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Psycho_info_app"
         mc:Ignorable="d"
-        Title="DiseaseInfo" Height="450" Width="800">
+        Title="DiseaseInfo"
+        Height="760"
+        Width="1160"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen">
+    
     <ScrollViewer>
         <StackPanel Background="#01497C">
             <Border Background="#012A4A" 
@@ -19,7 +24,7 @@
             </Border>
 
             <StackPanel>
-                <Border Style="{StaticResource Text_Border}">
+                <Border Style="{StaticResource Text_Border}" Name="Informations_Border">
 
                     <StackPanel Name="Informations">
                         
@@ -27,7 +32,7 @@
 
                 </Border>
 
-                <Border Style="{StaticResource Text_Border}">
+                <Border Style="{StaticResource Text_Border}" Name="Reasons_Border">
 
                     <StackPanel Name="Reasons">
                         <TextBlock Text="Przyczyny:" Style="{StaticResource Text_Info}" FontWeight="Bold"/>
@@ -36,7 +41,7 @@
 
                 </Border>
 
-                <Border Style="{StaticResource Text_Border}">
+                <Border Style="{StaticResource Text_Border}" Name="Symptoms_Border">
 
                     <StackPanel Name="Symptoms">
                         <TextBlock Text="Objawy:" Style="{StaticResource Text_Info}" FontWeight="Bold"/>
@@ -45,7 +50,7 @@
 
                 </Border>
 
-                <Border Style="{StaticResource Text_Border}">
+                <Border Style="{StaticResource Text_Border}" Name="Results_Border">
 
                     <StackPanel Name="Results">
                         <TextBlock Text="Skutki:" Style="{StaticResource Text_Info}" FontWeight="Bold"/>
@@ -54,7 +59,7 @@
 
                 </Border>
 
-                <Border Style="{StaticResource Text_Border}">
+                <Border Style="{StaticResource Text_Border}" Name="Counteractions_Border">
 
                     <StackPanel Name="Counteractions">
                         <TextBlock Text="Sposoby przeciwdziałania:" Style="{StaticResource Text_Info}" FontWeight="Bold"/>
@@ -63,7 +68,7 @@
 
                 </Border>
 
-                <Border Style="{StaticResource Text_Border}">
+                <Border Style="{StaticResource Text_Border}" Name="Examples_Border">
 
                     <StackPanel Name="Examples">
                         <TextBlock Text="Przykłady:" Style="{StaticResource Text_Info}" FontWeight="Bold"/>
@@ -72,7 +77,7 @@
 
                 </Border>
 
-                <Border Style="{StaticResource Text_Border}">
+                <Border Style="{StaticResource Text_Border}" Name="Behavior_Border">
 
                     <StackPanel Name="Behavior">
                         <TextBlock Text="Zachowanie w stosunku do osób posiadających chorobę:" Style="{StaticResource Text_Info}" FontWeight="Bold"/>

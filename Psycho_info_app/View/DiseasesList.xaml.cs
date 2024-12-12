@@ -28,22 +28,27 @@ namespace Psycho_info_app.View
 
             XmlDocument xml = new XmlDocument();
 
-            string path = Directory.GetCurrentDirectory() + "\\Materials\\test.xml";
+            string path = Directory.GetCurrentDirectory() + "\\Materials\\DiseasesDB.xml";
 
             xml.Load(path);
 
             XmlNodeList diseasesList = xml.DocumentElement.SelectNodes("/Diseases/List");
+            int i = 0;
 
             foreach (XmlNode list in diseasesList)
             {
-                Button button = new Button();
+                if ( diseasesList.Count - 1 != i)
+                {
+                    Button button = new Button();
 
-                button.Content = list.SelectSingleNode("Name").InnerText.ToString();
-                button.Name = list.SelectSingleNode("Number").InnerText.ToString();
-                button.Style = (Style)FindResource("Disease_Button");
-                button.Click += Button_Click;
+                    button.Content = list.SelectSingleNode("Name").InnerText.ToString();
+                    button.Name = list.SelectSingleNode("Number").InnerText.ToString();
+                    button.Style = (Style)FindResource("Disease_Button");
+                    button.Click += Button_Click;
 
-                Buttons.Children.Add(button);
+                    Buttons.Children.Add(button);
+                    i++;
+                }
             }
         }
 
