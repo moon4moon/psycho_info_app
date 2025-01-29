@@ -8,59 +8,94 @@
              d:DesignHeight="900" d:DesignWidth="1160">
     <ScrollViewer>
         <StackPanel>
-            <Border Background="#012A4A" 
-                    Height="140"
-                    Margin="0 0 0 10">
+            <Border Style="{StaticResource Border_Title}">
 
-                <TextBlock Text="TITLE"
+                <TextBlock Text="Jak zdrowo żyć?"
                            Name="title"
-                           Foreground="White"/>
+                           Style="{StaticResource Page_Title}"/>
 
             </Border>
 
             <Grid Width="1000">
                 <Grid.RowDefinitions>
-                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="35"/>
                     <RowDefinition Height="*"/>
-                    <RowDefinition Height="50"/>
-                    <RowDefinition Height="50"/>
-                    <RowDefinition Height="300"/>
+                    <RowDefinition Height="20"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="48"/>
+                    <RowDefinition Height="20"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="20"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="20"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="20"/>
                 </Grid.RowDefinitions>
-
-                <Border Background="#01497C"
-                        Grid.Row="0">
-
-                    <TextBlock Text="TITLE"
-                               Name="first"
-                               Foreground="White"/>
-
+                <!-- Block 1 -->
+                <Border Background="#01497C" Grid.Row="0" CornerRadius="10">
+                    <Border.BorderBrush>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="Black"/>
+                            <GradientStop Color="White" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Border.BorderBrush>
+                    <TextBlock Text="Dieta a zdrowie psychiczne – jak jedzenie wpływa na Twój umysł?"
+                               Name="block1_title"
+                               Foreground="White" TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="DemiBold"/>
                 </Border>
 
-                <Border Background="#A9D6E5"
-                        Grid.Row="1">
-
-                    <TextBlock Name="second" TextWrapping="Wrap" Padding="20">
-                        To, co jemy, ma ogromny wpływ nie tylko na nasze ciało, ale i na umysł. Zbilansowana dieta bogata w witaminy, minerały i zdrowe tłuszcze wspiera funkcjonowanie mózgu i może poprawiać nastrój. Badania pokazują, że niektóre składniki odżywcze, takie jak kwasy tłuszczowe omega-3, witaminy z grupy B, magnez czy tryptofan, wspierają produkcję serotoniny – hormonu szczęścia – i łagodzą objawy stresu czy depresji. Regularne spożywanie owoców, warzyw, pełnoziarnistych produktów, orzechów i ryb
-                    </TextBlock>
-
+                <Border Background="#A9D6E5" Grid.Row="1" CornerRadius="10">
+                    <TextBlock x:Name="Tex1" TextWrapping="Wrap" FontSize="17" Margin="10,5,10,5" FontWeight="Medium" IsEnabled="False"><Run Text="To, co jemy, ma ogromny wpływ nie tylko na nasze ciało, ale i na umysł. Zbilansowana dieta bogata w witaminy, minerały i zdrowe tłuszcze wspiera funkcjonowanie mózgu i może poprawiać nastrój. Badania pokazują, że niektóre składniki odżywcze, takie jak kwasy tłuszczowe omega-3, witaminy z grupy B, magnez czy tryptofan, wspierają produkcję serotoniny – hormonu szczęścia – i łagodzą objawy stresu czy depresji. Regularne spożywanie owoców, warzyw, pełnoziarnistych produktów, orzechów i ryb pomaga stabilizować nastrój, poprawia koncentrację i zmniejsza ryzyko zaburzeń psychicznych. Unikanie nadmiaru cukru i przetworzonej żywności pomaga redukować wahania nastroju i poziomu energii. Dbając o zdrową dietę, dbasz również o swoje zdrowie psychiczne – pamiętaj, że dobre jedzenie to paliwo dla Twojego dobrego samopoczucia."/><LineBreak/><Run/></TextBlock>
                 </Border>
 
-                
-                <Border Background="#01497C"
-                        Grid.Row="3">
 
-                    <TextBlock Text="TITLE"
-                               Name="secon"
-                               Foreground="White"/>
+                <Border Grid.Row="2" Background="Transparent"/>
 
+
+                <Border Background="#01497C" Grid.Row="3" CornerRadius="10">
+                    <TextBlock Text="Rusz się po lepsze samopoczucie"
+                               Name="block2_title"
+                               Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20" FontWeight="DemiBold"/>
                 </Border>
 
-                <Border Background="#A9D6E5"
-                        Grid.Row="4">
-
-                    <TextBlock Text="TITLE" Name="secod"/>
-
+                <Border Background="#A9D6E5" Grid.Row="4" Grid.RowSpan="2" CornerRadius="10">
+                    <TextBlock x:Name="block2_content" TextWrapping="WrapWithOverflow" FontSize="17" FontWeight="Medium" Margin="10,5,10,5"><Run Text="Ruch to nie tylko sposób na zdrowe ciało, ale także klucz do lepszego samopoczucia psychicznego. Regularna aktywność fizyczna pomaga redukować stres, poprawia nastrój i zwiększa poziom energii. Wysiłek fizyczny stymuluje produkcję endorfin – hormonów szczęścia, które działają jak naturalny antydepresant. Nawet 30 minut spaceru, jazdy na rowerze czy ćwiczeń dziennie może poprawić koncentrację, obniżyć poziom lęku i pomóc w radzeniu sobie z wyzwaniami."/><LineBreak/><Run/></TextBlock>
                 </Border>
+
+
+                <Border Grid.Row="6" Background="Transparent"/>
+
+
+                <Border Background="#01497C" Grid.Row="7" CornerRadius="10">
+                    <TextBlock Text="Sen - klucz do zdrowia psychicznego i dobrego samopoczucia"
+                               Name="block3_title"
+                               Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="DemiBold"/>
+                </Border>
+
+                <Border Background="#A9D6E5" Grid.Row="8" CornerRadius="10">
+                    <TextBlock x:Name="block3_content" TextWrapping="Wrap" FontSize="17" FontWeight="Medium" Margin="10,5,10,5"><Run Text="Sen to fundament zdrowego umysłu. Podczas snu mózg regeneruje się, przetwarza emocje i utrwala wspomnienia, co pomaga w radzeniu sobie ze stresem i poprawia koncentrację. Brak snu może prowadzić do wahań nastroju, obniżenia odporności psychicznej i trudności w podejmowaniu decyzji. Regularny, zdrowy sen – około 7–9 godzin na dobę – wspiera równowagę psychiczną, poprawia nastrój i sprzyja efektywnemu funkcjonowaniu w ciągu dnia. Dbaj o higienę snu: kładź się spać o stałych porach, unikaj kofeiny wieczorem i twórz warunki sprzyjające odpoczynkowi. Dobry sen to klucz do harmonii ciała i umysłu!"/><LineBreak/><Run/></TextBlock>
+                </Border>
+
+
+                <Border Grid.Row="9" Background="Transparent"/>
+
+                <Border Background="#01497C" Grid.Row="10" CornerRadius="10">
+                    <TextBlock Text="Małe kroki, wielkie efekty"
+                               Name="block4_title"
+                               Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="DemiBold"/>
+                </Border>
+
+                <Border Background="#A9D6E5" Grid.Row="11" CornerRadius="10">
+                    <TextBlock x:Name="block4_content" TextWrapping="Wrap" FontSize="17" FontWeight="Medium" Margin="10,5,10,5"><Run Text="Wyznaczanie codziennych celów to prosty, ale skuteczny sposób na wsparcie zdrowia psychicznego. Nawet małe zadania, takie jak poranny spacer, przeczytanie rozdziału książki czy uporządkowanie przestrzeni, dają poczucie kontroli i osiągnięcia. Realizacja celów zwiększa pewność siebie, motywację i pomaga radzić sobie z poczuciem przytłoczenia. Kluczem jest stawianie sobie realistycznych, osiągalnych wyzwań i nagradzanie się za ich wykonanie. Dzienny plan daje strukturę dnia, zmniejsza chaos i wspiera równowagę emocjonalną."/><LineBreak/><Run/></TextBlock>
+                </Border>
+
+
+
+                <Border Grid.Row="12" Background="Transparent"/>
             </Grid>
         </StackPanel>
     </ScrollViewer>

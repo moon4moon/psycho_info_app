@@ -9,25 +9,22 @@
     <ScrollViewer>
         <StackPanel>
 
-            <Border Style="{StaticResource Border_Title}">
+            <Border Style="{StaticResource Border_Title}" Margin="0 0 0 30">
 
                 <TextBlock Text="Psycho App"
                            Name="title"
                            Style="{StaticResource Page_Title}"/>
 
             </Border>
-
             <Border Style="{StaticResource Main_Border}"
-                    Width="auto">
+                    Width="600" Margin="0 0 300 0">
 
-                <TextBlock Name="note" Style="{StaticResource Main_Text}">
-                    Zdrowie psychiczne to stan równowagi, który pozwala nam radzić sobie z codziennymi wyzwaniami, budować trwałe relacje i cieszyć się życiem. Jego znaczenie jest ogromne, ponieważ wpływa na wszystkie aspekty naszego funkcjonowania – od pracy i nauki po relacje z bliskimi. Zaniedbanie zdrowia psychicznego może prowadzić do stresu, wypalenia czy problemów zdrowotnych. Dlatego tak ważne jest, by dbać o siebie, szukać wsparcia, kiedy tego potrzebujemy i nie ignorować sygnałów ostrzegawczych.
-                </TextBlock>
+                <TextBlock x:Name="note" Style="{StaticResource Main_Text}"><Run Text="Zdrowie psychiczne to stan równowagi, który pozwala nam radzić sobie z codziennymi wyzwaniami, budować trwałe relacje i cieszyć się życiem. Jego znaczenie jest ogromne, ponieważ wpływa na wszystkie aspekty naszego funkcjonowania – od pracy i nauki po relacje z bliskimi. Zaniedbanie zdrowia psychicznego może prowadzić do stresu, wypalenia czy problemów zdrowotnych. Dlatego tak ważne jest, by dbać o siebie, szukać wsparcia, kiedy tego potrzebujemy i nie ignorować sygnałów ostrzegawczych."/></TextBlock>
 
             </Border>
 
             <Border Style="{StaticResource Main_Border}"
-                    Width="auto">
+                    Width="600" Margin="0 20 0 0">
 
                 <TextBlock Name="zacheta" Style="{StaticResource Main_Text}">
                     Zdrowie psychiczne jest równie ważne jak fizyczne, a troska o nie powinna być codziennym elementem naszego życia. Znajdź czas na odpoczynek, rozmowę z bliskimi czy chwilę ciszy tylko dla siebie. Pamiętaj, że to, jak się czujesz wewnętrznie, wpływa na Twoje relacje, decyzje i jakość życia. Nie bój się prosić o pomoc – rozmowa z psychologiem to krok w stronę lepszego samopoczucia. Dbając o zdrowie psychiczne, inwestujesz w swoje szczęście i spokój ducha. Zrób to dla siebie!
@@ -36,33 +33,13 @@
             </Border>
 
             <Border Style="{StaticResource Main_Border}"
-                    Width="auto">
+                    Width="600" Margin="300 20 0 20">
 
                 <TextBlock Name="cel" Style="{StaticResource Main_Text}">
-                    PsychoAPP to aplikacja, która wspiera użytkowników w dbaniu o zdrowie psychiczne. Aplikacja ma dostarczać narzędzi do budowania zdrowych nawyków. Chcemy, aby była przestrzenią, gdzie każdy znajdzie wsparcie, edukację oraz motywację do codziennej troski o swoje emocje i równowagę psychiczną.
+                    PsychoApp to kompleksowe narzędzie wspierające dbanie o zdrowie psychiczne. Znajdziesz tu różnorodne testy psychologiczne które pozwolą ocenić ryzyko zaburzeń psychicznych. Aplikacja zawiera również szczegółowe informacje na temat różnych chorób psychicznych, ich objawów oraz sposobów leczenia. Dodatkowo, użytkownicy mają dostęp do wskazówek dotyczących codziennej troski o zdrowie. To praktyczne narzędzie, które pomoże Ci lepiej zrozumieć siebie i zadbać o swoją głowę. Celem projektu jest zapewnienie użytkownikom narzędzi i informacji, które wspierają ich w codziennym dbaniu o siebie.  Aplikacja ma na celu umożliwienie łatwego identyfikowanie potencjalnych problemów psychicznych oraz edukowanie na temat chorób.  Dzięki testom i materiałom edukacyjnym aplikacja pomaga użytkownikom lepiej rozumieć swoje potrzeby psychiczne, znaleźć odpowiedniego specjalistę i podejmować świadome decyzje dotyczące dbania o swoje samopoczucie.
                 </TextBlock>
 
             </Border>
-
-            <StackPanel>
-
-                <Border Style="{StaticResource Main_Border}">
-
-                    <TextBlock Name="testy" Style="{StaticResource Main_Text}">
-                    Testy
-                    </TextBlock>
-
-                </Border>
-
-                <Border Style="{StaticResource Main_Border}">
-
-                    <TextBlock Name="phone" Style="{StaticResource Main_Text}">
-                    Nr telefonu
-                    </TextBlock>
-
-                </Border>
-                
-            </StackPanel>
 
         </StackPanel>
     </ScrollViewer>

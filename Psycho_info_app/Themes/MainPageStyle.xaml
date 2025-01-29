@@ -15,13 +15,14 @@
         </Setter>
         <Setter Property="Margin" Value="20"/>
         <Setter Property="Padding" Value="20 10 20 10"/>
-        <Setter Property="Height" Value="120"/>
+        <Setter Property="Height" Value="auto"/>
         <Setter Property="Width" Value="300"/>
         <Setter Property="CornerRadius" Value="20"/>
     </Style>
 
     <Style TargetType="TextBlock" x:Key="Main_Text">
-        <Setter Property="FontSize" Value="15"/>
+        <Setter Property="FontSize" Value="17"/>
+        <Setter Property="FontWeight" Value="Medium"/>
         <Setter Property="TextAlignment" Value="Center"/>
         <Setter Property="TextWrapping" Value="Wrap"/>
         <Setter Property="VerticalAlignment" Value="Center"/>

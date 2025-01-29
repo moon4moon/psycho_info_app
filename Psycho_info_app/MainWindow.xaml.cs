@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,6 +20,13 @@ namespace Psycho_info_app
     {
         public MainWindow()
         {
+            string path = Directory.GetCurrentDirectory() + "\\Materials\\mainBackground1.png";
+
+            ImageBrush imageBrush = new ImageBrush();
+            imageBrush.ImageSource = new BitmapImage(new Uri(path));
+
+            this.Background = imageBrush;
+
             InitializeComponent();
         }
     }

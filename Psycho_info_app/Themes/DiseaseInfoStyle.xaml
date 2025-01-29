@@ -20,8 +20,16 @@
     </Style>
 
     <Style TargetType="TextBlock" x:Key="Text_Info">
-        <Setter Property="FontSize" Value="15"/>
+        <Setter Property="FontSize" Value="17"/>
+        <Setter Property="FontWeight" Value="Medium"/>
         <Setter Property="TextWrapping" Value="Wrap"/>
+        <Setter Property="Foreground" Value="Black"/>
+        <Setter Property="Margin" Value="0 2 0 2"/>
+    </Style>
+
+    <Style TargetType="RadioButton" x:Key="Radio_Info">
+        <Setter Property="FontSize" Value="15"/>
+        <Setter Property="FontWeight" Value="Medium"/>
         <Setter Property="Foreground" Value="Black"/>
         <Setter Property="Margin" Value="0 2 0 2"/>
     </Style>

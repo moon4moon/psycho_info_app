@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tests>
+	<List>
+		<Number>One</Number>
+		<Name>Test na depresje</Name>
+		<Question>
+			<QuestionNumber>One</QuestionNumber>
+			<Text>Jak często odczuwasz smutek, przygnębienie lub pustkę?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Zawsze</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Two</QuestionNumber>
+			<Text>Czy zauważyłeś(-aś) spadek zainteresowania lub radości z rzeczy, które kiedyś sprawiały przyjemność?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Zawsze</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Three</QuestionNumber>
+			<Text>Jak często czujesz się zmęczony(-a) lub wyczerpany(-a), nawet po odpoczynku?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Zawsze</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Four</QuestionNumber>
+			<Text>Czy zauważyłeś(-aś) zmiany w swoich wzorcach snu, takie jak trudności w zasypianiu, wczesne budzenie się lub nadmierna senność? </Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Zawsze</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Five</QuestionNumber>
+			<Text>Jak często doświadczasz zmian apetytu lub niezamierzonej utraty/przyrostu masy ciała?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Zawsze</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Six</QuestionNumber>
+			<Text>Jak często odczuwasz nadmierne poczucie winy lub krytykujesz siebie w sposób nieuzasadniony? </Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Zawsze</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Seven</QuestionNumber>
+			<Text>Czy masz trudności z koncentracją, podejmowaniem decyzji lub zapamiętywaniem informacji?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Zawsze</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Eight</QuestionNumber>
+			<Text>Jak często myślisz o śmierci, samobójstwie lub czujesz, że życie nie ma sensu? </Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Zawsze</Answer>
+		</Question>
+		<Summary>
+			<Criteria>
+				<Subpoint>Każde pytanie oceniane jest w skali od 0 do 4 punktów. Łączna suma punktów wskazuje na nasilenie objawów:</Subpoint>
+				<Subpoint>0–7 pkt: Brak objawów depresji lub łagodne objawy. Możesz doświadczać chwilowych wahań nastroju, ale nie wskazują one na depresję.</Subpoint>
+				<Subpoint>8–15 pkt: Łagodna depresja. Warto zwrócić uwagę na swoje samopoczucie i ewentualnie skonsultować się z lekarzem lub terapeutą.</Subpoint>
+				<Subpoint>16–23 pkt: Umiarkowana depresja. Rozważ wizytę u specjalisty, aby omówić możliwości wsparcia lub leczenia.</Subpoint>
+				<Subpoint>24–32 pkt: Ciężka depresja. Wskazana jest pilna konsultacja z psychologiem lub psychiatrą. Wsparcie medyczne i terapeutyczne może być konieczne.</Subpoint>
+			</Criteria>
+			<Comments>
+				<Subpoint>Test ma charakter orientacyjny i nie zastępuje diagnozy specjalisty.</Subpoint>
+				<Subpoint>Jeśli odpowiedzi na pytanie 8 sugerują myśli samobójcze (Odpowiedzi: często i zawsze), należy niezwłocznie skontaktować się z pomocą psychologiczną.</Subpoint>
+			</Comments>
+		</Summary>
+	</List>
+	<List>
+		<Number>Two</Number>
+		<Name>Test na zaburzenia paniki</Name>
+		<Question>
+			<QuestionNumber>One</QuestionNumber>
+			<Text>Jak często doświadczasz nagłych napadów intensywnego lęku lub dyskomfortu, które pojawiają się bez wyraźnej przyczyny?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Two</QuestionNumber>
+			<Text>Czy podczas napadu lęku zauważasz u siebie przyspieszone bicie serca lub kołatanie serca?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Three</QuestionNumber>
+			<Text>Czy podczas napadu paniki odczuwasz duszności lub trudności z oddychaniem?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Four</QuestionNumber>
+			<Text>Jak często w trakcie napadu lęku odczuwasz zawroty głowy, dezorientację lub wrażenie, że możesz stracić przytomność?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Five</QuestionNumber>
+			<Text>Czy w trakcie ataków paniki odczuwasz nadmierne pocenie się?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Six</QuestionNumber>
+			<Text>Jak często podczas napadu lęku towarzyszy Ci silny lęk przed śmiercią, utratą kontroli lub obawą że możesz oszaleć?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Seven</QuestionNumber>
+			<Text>Czy w trakcie epizodów lęku odczuwasz drżenie ciała lub mimowolne drgawki?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Eight</QuestionNumber>
+			<Text>Czy zdarza Ci się unikać miejsc, sytuacji lub czynności z obawy, że mogą one spowodować napad paniki?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Summary>
+			<Criteria>
+				<Subpoint>Każde pytanie oceniane jest w skali od 0 do 4 punktów. Łączna suma punktów wskazuje na nasilenie objawów:</Subpoint>
+				<Subpoint>0–7 pkt: Brak objawów. Nie wskazuje na obecność zaburzeń paniki, ale warto zwrócić uwagę na swoje samopoczucie.</Subpoint>
+				<Subpoint>8–15 pkt: Łagodne objawy. Może występować podwyższony poziom lęku, ale nie są to pełnoobjawowe zaburzenia paniki. Zalecana konsultacja z terapeutą, jeśli objawy się nasilają.</Subpoint>
+				<Subpoint>16–23 pkt: Umiarkowane objawy. Objawy mogą wskazywać na obecność zaburzeń paniki. Warto rozważyć pomoc psychologiczną lub psychiatryczną.</Subpoint>
+				<Subpoint>24–32 pkt:Ciężkie objawy. Prawdopodobne zaburzenia paniki. Zalecana jest pilna konsultacja ze specjalistą i rozważenie terapii.</Subpoint>
+			</Criteria>
+			<Comments>
+				<Subpoint>Test ma charakter orientacyjny i nie zastępuje diagnozy specjalisty.</Subpoint>
+				<Subpoint>Jeśli objawy zakłócają codzienne funkcjonowanie, niezwłocznie skonsultuj się z lekarzem lub psychologiem.</Subpoint>
+				<Subpoint>W przypadku myśli samobójczych lub intensywnego strachu konieczne jest natychmiastowe wsparcie specjalistyczne.</Subpoint>
+
+			</Comments>
+		</Summary>
+	</List>
+	<List>
+		<Number>Three</Number>
+		<Name>Test na ADHD</Name>
+		<Question>
+			<QuestionNumber>One</QuestionNumber>
+			<Text>Jak często masz trudności z utrzymywaniem koncentracji podczas wykonywania zadań, nauki lub prowadzenia rozmowy?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Two</QuestionNumber>
+			<Text>Czy często rozpraszają Cię bodźce zewnętrzne, takie jak hałas, rozmowy innych osób czy wydarzenia wokół Ciebie?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Three</QuestionNumber>
+			<Text>Czy często masz problemy związane z organizacją czasem, planowaniem lub przygotowywaniem się do pracy czy szkoły?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Four</QuestionNumber>
+			<Text>Czy zdarza Ci się często zapominać o ważnych sprawach, takich jak spotkania, zadania domowe czy codzienne obowiązki?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Five</QuestionNumber>
+			<Text>Czy zdarza Ci się przerywać innym, odpowiadać na pytania, zanim ktoś skończy mówić, lub wtrącać się w rozmowy?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Six</QuestionNumber>
+			<Text>Jak często odczuwasz potrzebę ciągłego ruchu, np. wiercenia się lub niezdolności do siedzenia w jednym miejscu przez dłuższy czas?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Seven</QuestionNumber>
+			<Text>Czy zdarza Ci się podejmować impulsywne i ryzykowne decyzje bez przemyślenia konsekwencji?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Eight</QuestionNumber>
+			<Text>Czy trudno Ci się zrelaksować i odpocząć, nawet w momentach, które powinny być spokojne?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Nine</QuestionNumber>
+			<Text>Czy często zaczynasz nowe zadania lub projekty, mimo masz trudności z ich dokończeniem?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Ten</QuestionNumber>
+			<Text>Jak często masz trudności z czekaniem na swoją kolej, np. w kolejce lub w trakcie rozmowy?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Summary>
+			<Criteria>
+				<Subpoint>Każde pytanie oceniane jest w skali od 0 do 4 punktów. Łączna suma punktów wskazuje na nasilenie objawów:</Subpoint>
+				<Subpoint>0–10 pkt: Brak objawów ADHD. Objawy nie wskazują na ADHD.</Subpoint>
+				<Subpoint>11–20 pkt: Łagodne objawy ADHD. Możesz zauważać u siebie pewne trudności związane z uwagą lub impulsywnością, ale nie wpływają one znacząco na codzienne funkcjonowanie. Zalecana dalsza obserwacja.</Subpoint>
+				<Subpoint>21–30 pkt: Umiarkowane objawy ADHD. Wynik może wskazywać na obecność ADHD. Warto skonsultować się z psychologiem lub psychiatrą, aby omówić objawy i rozważyć możliwości wsparcia, takie jak terapia behawioralna lub techniki zarządzania czasem.</Subpoint>
+				<Subpoint>31–40 pkt: Ciężkie objawy ADHD. Wynik wskazuje na znaczne prawdopodobieństwo ADHD. Objawy mogą silnie wpływać na codzienne życie. Wskazana jest konsultacja z lekarzem specjalistą w celu postawienia diagnozy i rozważenia możliwości leczenia, w tym terapii farmakologicznej i psychologicznej.</Subpoint>
+			</Criteria>
+			<Comments>
+				<Subpoint>Test ma charakter orientacyjny i nie zastępuje diagnozy specjalisty.</Subpoint>
+				<Subpoint>ADHD u dorosłych i dzieci może przybierać różne formy: z dominującym deficytem uwagi, nadpobudliwością lub kombinacją obu typów.</Subpoint>
+				<Subpoint>Jeśli objawy znacząco utrudniają codzienne funkcjonowanie w pracy, szkole lub relacjach społecznych, ważne jest skonsultowanie się z terapeutą lub psychiatrą.</Subpoint>
+
+			</Comments>
+		</Summary>
+	</List>
+	<List>
+		<Number>Four</Number>
+		<Name>Test na Autyzm</Name>
+		<Question>
+			<QuestionNumber>One</QuestionNumber>
+			<Text>Jak często masz trudności z rozpoznaniem emocji i intencji innych ludzi?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Two</QuestionNumber>
+			<Text>Czy masz trudności z prowadzeniem płynnej rozmowy, na przykład w wymianie uwag lub utrzymaniu tematu?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Three</QuestionNumber>
+			<Text>Jak często wolisz spędzać czas samotnie, unikając kontaktów społecznych?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Four</QuestionNumber>
+			<Text>Czy masz skłonność do wykonywania powtarzalnych czynności, np. powtarzania słów, gestów lub trzymania się określonych rytuałów?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Five</QuestionNumber>
+			<Text>Czy zdarza Ci się często koncentrować na jednym temacie, zaniedbując inne zainteresowania?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Six</QuestionNumber>
+			<Text>Jak często odczuwasz dyskomfort lub niepokój w przypadku nagłych zmian w planach lub codziennej rutynie?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Seven</QuestionNumber>
+			<Text>Czy odczuwasz dyskomfort w odpowiedzi na bodźce sensoryczne, np. głośne dźwięki, jasne światło, zapachy lub tekstury?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Eight</QuestionNumber>
+			<Text>Czy zdarza Ci się zachowywać w sposób, który inni mogą odbierać jako nietypowy lub dziwny w sytuacjach społecznych?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Nine</QuestionNumber>
+			<Text>Jak często unikasz kontaktu wzrokowego podczas rozmowy?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Ten</QuestionNumber>
+			<Text>Czy masz trudności z rozumieniem żartów, metafor lub przenośni?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Summary>
+			<Criteria>
+				<Subpoint>Każde pytanie oceniane jest w skali od 0 do 4 punktów. Łączna suma punktów wskazuje na nasilenie objawów:</Subpoint>
+				<Subpoint>0–10 pkt:  Brak objawów. Nie wskazuje na spektrum autyzmu.</Subpoint>
+				<Subpoint>11–20 pkt: Łagodne objawy. Mogą wskazywać na pewne trudności społeczno-komunikacyjne. Warto obserwować swoje zachowania i, w razie potrzeby, skonsultować się ze specjalistą.</Subpoint>
+				<Subpoint>21–30 pkt: Umiarkowane objawy. Wynik sugeruje, że możesz mieć trudności typowe dla spektrum autyzmu. Zaleca się konsultację z psychologiem lub psychiatrą specjalizującym się w ASD.</Subpoint>
+				<Subpoint>31–40 pkt: Znaczne objawy. Wynik wskazuje na wysokie prawdopodobieństwo występowania spektrum autyzmu. Wskazana jest profesjonalna diagnoza, która może uwzględniać dodatkowe testy i rozmowy.</Subpoint>
+			</Criteria>
+			<Comments>
+				<Subpoint>Test ma charakter orientacyjny i nie zastępuje diagnozy specjalisty.</Subpoint>
+				<Subpoint>Spektrum autyzmu jest bardzo zróżnicowane, a objawy mogą przybierać różne formy w zależności od wieku, płci i indywidualnych cech osoby.</Subpoint>
+				<Subpoint>Wczesne rozpoznanie objawów (szczególnie u dzieci) jest kluczowe, aby zapewnić odpowiednie wsparcie i rozwój.</Subpoint>
+			</Comments>
+		</Summary>
+	</List>
+	<List>
+		<Number>Five</Number>
+		<Name>Test na Schizofrenię</Name>
+		<Question>
+			<QuestionNumber>One</QuestionNumber>
+			<Text>Czy zdarza Ci się słyszeć głosy, widzieć rzeczy lub odczuwać obecność, której inni nie zauważają?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Two</QuestionNumber>
+			<Text>Czy masz silne przekonania, które wydają się innym dziwne lub nieprawdziwe, np. że ktoś Cię śledzi, kontroluje lub próbuje Ci zaszkodzić?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Three</QuestionNumber>
+			<Text>Czy trudno Ci jasno wyrazić swoje myśli lub masz wrażenie, że Twoje myśli są „chaotyczne” lub „zablokowane”?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Four</QuestionNumber>
+			<Text>Czy unikasz kontaktów z ludźmi i wolisz spędzać czas samotnie?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Five</QuestionNumber>
+			<Text>Czy masz trudności z wyrażaniem emocji lub czujesz się emocjonalnie „pusty”?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Six</QuestionNumber>
+			<Text>Czy często odczuwasz brak energii, motywacji do działania lub trudności w wykonywaniu codziennych zadań?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Seven</QuestionNumber>
+			<Text>Czy często czujesz, że inni ludzie chcą Cię skrzywdzić, kontrolować lub spiskują przeciwko Tobie?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Eight</QuestionNumber>
+			<Text>Czy masz trudności z utrzymaniem uwagi lub kończeniem zadań?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Nine</QuestionNumber>
+			<Text>Czy inni zwracali Ci uwagę, że Twoje zachowanie bywa dziwne, nietypowe lub nieadekwatne do sytuacji?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Ten</QuestionNumber>
+			<Text>Czy Twoja mowa staje się czasami nieskładna, trudna do zrozumienia lub odbiega od tematu rozmowy?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadko</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Summary>
+			<Criteria>
+				<Subpoint>Każde pytanie oceniane jest w skali od 0 do 4 punktów. Łączna suma punktów wskazuje na nasilenie objawów:</Subpoint>
+				<Subpoint>0–10 pkt: Brak objawów. Nie wskazuje na schizofrenię.</Subpoint>
+				<Subpoint>11–20 pkt: Łagodne objawy. Mogą wskazywać na pewne trudności psychiczne, ale niekoniecznie związane ze schizofrenią. Warto obserwować objawy i skonsultować się z terapeutą w razie ich nasilenia.</Subpoint>
+				<Subpoint>21–30 pkt: Umiarkowane objawy. Wynik może wskazywać na zaburzenia psychiczne, w tym schizofrenię. Wskazana jest konsultacja z psychiatrą w celu dokładniejszej oceny.</Subpoint>
+				<Subpoint>31–40 pkt: Ciężkie objawy. Wysokie prawdopodobieństwo występowania schizofrenii lub innego poważnego zaburzenia psychicznego. Zalecana jest pilna konsultacja z lekarzem psychiatrą i rozpoczęcie odpowiedniego leczenia.</Subpoint>
+			</Criteria>
+			<Comments>
+				<Subpoint>Test ma charakter orientacyjny i nie zastępuje diagnozy specjalisty.</Subpoint>
+				<Subpoint>Objawy schizofrenii mogą być podobne do innych zaburzeń psychicznych, takich jak zaburzenia lękowe, depresja psychotyczna czy choroba afektywna dwubiegunowa.</Subpoint>
+				<Subpoint>Wczesne rozpoznanie i leczenie mają kluczowe znaczenie w poprawie jakości życia osoby dotkniętej tym zaburzeniem.</Subpoint>
+			</Comments>
+		</Summary>
+	</List>
+	<List>
+		<Number>Six</Number>
+		<Name>Test na uzależnienie Alkoholowe</Name>
+		<Question>
+			<QuestionNumber>One</QuestionNumber>
+			<Text>Jak często pijesz napoje alkoholowe?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Raz w misiącu lub rzadziej</Answer>
+			<Answer>2-4 razy w miesiącu</Answer>
+			<Answer>2-3 razy w tygodniu</Answer>
+			<Answer>4 razy w tygodniu lub częściej</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Two</QuestionNumber>
+			<Text>Ile standardowych porcji alkoholu (np. jedno piwo, kieliszek wina) zazwyczaj wypijasz w dniu, kiedy spożywasz alkohol?</Text>
+			<Answer>1-2 porcje</Answer>
+			<Answer>3-4 porcje</Answer>
+			<Answer>5-6 porcji</Answer>
+			<Answer>7-9 porcji</Answer>
+			<Answer>10 lub więcej porcji</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Three</QuestionNumber>
+			<Text>Jak często wypijasz sześć lub więcej porcji alkoholu podczas jednej okazji?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadziej niż raz w miesiącu</Answer>
+			<Answer>Raz w miesiącu</Answer>
+			<Answer>Raz w tygodniu</Answer>
+			<Answer>Codziennie lub prawie codziennie</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Four</QuestionNumber>
+			<Text>Jak często w ciągu ostatniego roku nie mogłeś(-aś) przerwać picia, gdy już zacząłeś?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadziej niż raz w miesiącu</Answer>
+			<Answer>Raz w miesiącu</Answer>
+			<Answer>Raz w tygodniu</Answer>
+			<Answer>Codziennie lub prawie codziennie</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Five</QuestionNumber>
+			<Text>Jak często w ciągu ostatniego roku z powodu picia alkoholu nie udało Ci się zrobić tego, czego od Ciebie oczekiwano?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadziej niż raz w miesiącu</Answer>
+			<Answer>Raz w miesiącu</Answer>
+			<Answer>Raz w tygodniu</Answer>
+			<Answer>Codziennie lub prawie codziennie</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Six</QuestionNumber>
+			<Text>Jak często w ciągu ostatniego roku potrzebowałeś(-aś) wypić alkohol rano, aby się poczuć lepiej po wcześniejszym piciu?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadziej niż raz w miesiącu</Answer>
+			<Answer>Raz w miesiącu</Answer>
+			<Answer>Raz w tygodniu</Answer>
+			<Answer>Codziennie lub prawie codziennie</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Seven</QuestionNumber>
+			<Text>Jak często w ciągu ostatniego roku odczuwałeś(-aś) poczucie winy lub wyrzuty sumienia z powodu picia alkoholu?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadziej niż raz w miesiącu</Answer>
+			<Answer>Raz w miesiącu</Answer>
+			<Answer>Raz w tygodniu</Answer>
+			<Answer>Codziennie lub prawie codziennie</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Eight</QuestionNumber>
+			<Text>Jak często w ciągu ostatniego roku nie pamiętałeś(-aś), co się działo poprzedniego wieczoru z powodu picia alkoholu?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadziej niż raz w miesiącu</Answer>
+			<Answer>Raz w miesiącu</Answer>
+			<Answer>Raz w tygodniu</Answer>
+			<Answer>Codziennie lub prawie codziennie</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Nine</QuestionNumber>
+			<Text>Czy Ty lub ktoś inny był ranny z powodu Twojego picia alkoholu?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadziej niż raz w miesiącu</Answer>
+			<Answer>Raz w miesiącu</Answer>
+			<Answer>Raz w tygodniu</Answer>
+			<Answer>Codziennie lub prawie codziennie</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Ten</QuestionNumber>
+			<Text>Czy ktoś z rodziny, przyjaciół lub lekarzy wyraził zaniepokojenie Twoim piciem alkoholu lub zasugerował, abyś ograniczył(-a) jego spożycie?</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Rzadziej niż raz w miesiącu</Answer>
+			<Answer>Raz w miesiącu</Answer>
+			<Answer>Raz w tygodniu</Answer>
+			<Answer>Codziennie lub prawie codziennie</Answer>
+		</Question>
+		<Summary>
+			<Criteria>
+				<Subpoint>Każde pytanie oceniane jest w skali od 0 do 4 punktów. Łączna suma punktów wskazuje na nasilenie objawów:</Subpoint>
+				<Subpoint>0–7 pkt: Niskie ryzyko. Spożywanie alkoholu nie stanowi problemu.</Subpoint>
+				<Subpoint>8–15 pkt: Średnie ryzyko. Możliwe ryzykowne spożywanie alkoholu. Warto rozważyć ograniczenie.</Subpoint>
+				<Subpoint>16–19 pkt: Wysokie ryzyko. Nadużywanie alkoholu. Wskazana jest konsultacja z lekarzem lub terapeutą.</Subpoint>
+				<Subpoint>20 pkt i więcej: Bardzo wysokie ryzyko uzależnienia. Wskazane jest natychmiastowe wsparcie specjalisty (psychoterapeuta, psychiatra, grupa wsparcia).</Subpoint>
+			</Criteria>
+			<Comments>
+				<Subpoint>Test ma charakter orientacyjny i nie zastępuje diagnozy specjalisty.</Subpoint>
+				<Subpoint>W przypadku uzyskania wyniku wskazującego na ryzyko uzależnienia, warto skorzystać z pomocy terapeuty ds. uzależnień.</Subpoint>
+				<Subpoint>Regularna refleksja nad swoim stosunkiem do alkoholu jest kluczowa w zapobieganiu rozwoju problemów z jego nadużywaniem.</Subpoint>
+			</Comments>
+		</Summary>
+	</List>
+	<List>
+		<Number>Seven</Number>
+		<Name>Test na zaburzenia odżywiania</Name>
+		<Question>
+			<QuestionNumber>One</QuestionNumber>
+			<Text>Mam obsesję na punkcie jedzenia.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Two</QuestionNumber>
+			<Text>Czuję, że jedzenie kontroluje moje życie.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Three</QuestionNumber>
+			<Text>Boję się przytyć.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Four</QuestionNumber>
+			<Text>Zaczynam jeść, ale nie mogę się zatrzymać.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Five</QuestionNumber>
+			<Text>Mam poczucie winy po zjedzeniu większej ilości jedzenia.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Six</QuestionNumber>
+			<Text>Często myślę o jedzeniu.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Seven</QuestionNumber>
+			<Text>Lubię się ważyć.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Eight</QuestionNumber>
+			<Text>Czuję, że jedzenie sprawia mi przyjemność, ale również mnie niepokoi.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Nine</QuestionNumber>
+			<Text>Wydaje mi się, że mój apetyt jest zbyt duży.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Ten</QuestionNumber>
+			<Text>Zdarza się, że jem, kiedy nie jestem głodny(-a).</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Eleven</QuestionNumber>
+			<Text>Czuję, że moje ciało nie jest odpowiednie.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Twelve</QuestionNumber>
+			<Text>Próbuję schudnąć, stosując różne diety.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Thirteen</QuestionNumber>
+			<Text>Zdarza się, że wypluwam jedzenie, zamiast je połknąć.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Fourteen</QuestionNumber>
+			<Text>Po posiłkach czuję się pełen(-a) wstydu.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Fifteen</QuestionNumber>
+			<Text>Uważam, że jestem za gruby(-a), mimo iż inni twierdzą, że nie jestem.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Sixteen</QuestionNumber>
+			<Text>Zdarza mi się unikać jedzenia w obecności innych ludzi.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Seventeen</QuestionNumber>
+			<Text>Zdarza mi się nie jeść nic przez cały dzień.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Eighteen</QuestionNumber>
+			<Text>Odczuwam silną chęć jedzenia, ale wiem, że nie powinienem(-nam) tego robić.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Nineteen</QuestionNumber>
+			<Text>Zdarza mi się jeść w dużych ilościach, nawet jeśli nie jestem głodny(-a).</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>Twenty</QuestionNumber>
+			<Text>Mam trudności z kontrolowaniem tego, co jem.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>TwentyOne</QuestionNumber>
+			<Text>Zdarza się, że obawiam się przytyć, gdy jem posiłek.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>TwentyTwo</QuestionNumber>
+			<Text>Czuję się winny(-a), gdy jem więcej niż planowałem(-am).</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>TwentyThree</QuestionNumber>
+			<Text>Zdarza mi się spożywać duże ilości jedzenia, a później żałować, że to zrobiłem(-am).</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>TwentyFour</QuestionNumber>
+			<Text>Czuję się zaniepokojony(-a) swoim wyglądem.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>TwentyFive</QuestionNumber>
+			<Text>Zdarza mi się podejmować ekstremalne działania, aby uniknąć przytycia.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Question>
+			<QuestionNumber>TwentySix</QuestionNumber>
+			<Text>Nie lubię swojego ciała.</Text>
+			<Answer>Nigdy</Answer>
+			<Answer>Czasami</Answer>
+			<Answer>Często</Answer>
+			<Answer>Bardzo często</Answer>
+		</Question>
+		<Summary>
+			<Criteria>
+				<Subpoint>Każde pytanie oceniane jest w skali od 0 do 4 punktów. Łączna suma punktów wskazuje na nasilenie objawów:</Subpoint>
+				<Subpoint>0–20 pkt: Niskie ryzyko zaburzeń odżywiania. Twoje postawy i zachowania żywieniowe są w normie, chociaż warto dbać o zdrowe podejście do jedzenia i wagi ciała.</Subpoint>
+				<Subpoint>21–40 pkt: Umiarkowane ryzyko zaburzeń odżywiania. Możesz mieć pewne trudności związane z postrzeganiem swojego ciała lub kontrolowaniem jedzenia. Może to wymagać dalszego monitorowania lub wsparcia terapeutycznego.</Subpoint>
+				<Subpoint>41–60 pkt: Wysokie ryzyko zaburzeń odżywiania. Twoje zachowania i postawy wobec jedzenia mogą wskazywać na obecność zaburzeń odżywiania, takich jak anoreksja, bulimia lub kompulsywne objadanie się. Warto skonsultować się z psychoterapeutą lub specjalistą ds. zaburzeń odżywiania.</Subpoint>
+				<Subpoint>61–78 pkt: Bardzo wysokie ryzyko zaburzeń odżywiania. Twoje zachowania mogą wskazywać na poważne problemy związane z jedzeniem i postrzeganiem swojego ciała. Wskazana jest natychmiastowa pomoc profesjonalna, w tym wsparcie psychoterapeutyczne lub medyczne..</Subpoint>
+			</Criteria>
+			<Comments>
+				<Subpoint>Test ma charakter orientacyjny i nie zastępuje diagnozy specjalisty.</Subpoint>
+				<Subpoint>Jeśli wynik wskazuje na umiarkowane lub wysokie ryzyko zaburzeń odżywiania, warto rozważyć konsultację z lekarzem, psychoterapeutą lub dietetykiem specjalizującym się w leczeniu zaburzeń odżywiania.</Subpoint>
+				<Subpoint>Możesz także rozważyć terapię poznawczo-behawioralną (CBT), która pomaga w leczeniu problemów z jedzeniem i postrzeganiem ciała.</Subpoint>
+			</Comments>
+		</Summary>
+	</List>
+	<List>
+		<Number/>
+		<Name/>
+		<Question>
+			<QuestionNumber/>
+			<Text/>
+			<Answer/>
+			<Answer/>
+			<Answer/>
+			<Answer/>
+			<Answer/>
+		</Question>
+		<Summary>
+			<Criteria>
+				<Subpoint></Subpoint>
+				<Subpoint></Subpoint>
+			</Criteria>
+			<Comments>
+				<Subpoint></Subpoint>
+				<Subpoint></Subpoint>
+			</Comments>
+		</Summary>
+	</List>
+</Tests>

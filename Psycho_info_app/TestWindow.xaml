@@ -1,0 +1,68 @@
+﻿<Window x:Class="Psycho_info_app.TestWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Psycho_info_app"
+        mc:Ignorable="d"
+        Title="DiseaseInfo"
+        Height="760"
+        Width="1160"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen">
+
+    <ScrollViewer>
+        <StackPanel Background="#01497C">
+            <Border Background="#012A4A" 
+                    Height="140"
+                    Margin="0 0 0 10">
+
+                <TextBlock Text="TestName"
+                           Name="TestName"
+                           Style="{StaticResource Page_Title}"/>
+
+            </Border>
+
+            <StackPanel Name="Content">
+                <Border Style="{StaticResource Text_Border}" Name="Questions_Border">
+
+                    <StackPanel Name="Questions">
+
+                    </StackPanel>
+
+                </Border>
+
+                <Border Style="{StaticResource Text_Border}" Name="Buttons_Border">
+
+                    <StackPanel Name="Buttons">
+                        <Button Content="Sprawdź wynik testu" Tag="Sprawdź wynik testu" FontWeight="Bold" FontSize="17" Click="SubmitButton_Click" BorderBrush="Transparent" Background="Transparent" Name="Sender"/>
+                    </StackPanel>
+
+                </Border>
+
+                <Border Background="Transparent" BorderBrush="Transparent" Height="auto" Margin="20 10" Padding="10" CornerRadius="15" Name="Summary_Border" Visibility="Collapsed">
+                    <Grid Name="Summary">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="250"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+
+                        <Border Grid.Column="0" Style="{StaticResource Text_Border}" Name="Points_Border">
+                            
+                            <TextBlock Text="" Width="auto" Height="auto" TextAlignment="Center" VerticalAlignment="Center" FontSize="30" FontWeight="Bold" Name="Points"/>
+                            
+                        </Border>
+
+                        <Border Grid.Column="1" Style="{StaticResource Text_Border}" Name="Criteria_Border">
+                            <StackPanel Name="Criterias">
+                                
+                            </StackPanel>
+                        </Border>
+                    </Grid>
+
+                </Border>
+
+            </StackPanel>
+        </StackPanel>
+    </ScrollViewer>
+</Window>

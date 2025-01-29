@@ -16,10 +16,8 @@
         <ViewModel:MainViewModel/>
     </Window.DataContext>
 
-    <Border >
-        <Border.Background>
-            <SolidColorBrush Color="#89C2D9"/>
-        </Border.Background>
+    <Border>
+        
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="280"/>
