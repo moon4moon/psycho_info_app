@@ -94,3 +94,5 @@ C:\Users\agata\OneDrive\Desktop\psycho_info_app\Psycho_info_app\obj\Debug\Psycho
 C:\Users\agata\OneDrive\Desktop\psycho_info_app\Psycho_info_app\obj\Debug\Psycho_info_app.csproj.CopyComplete
 C:\Users\agata\OneDrive\Desktop\psycho_info_app\Psycho_info_app\obj\Debug\Psycho_info_app.exe
 C:\Users\agata\OneDrive\Desktop\psycho_info_app\Psycho_info_app\obj\Debug\Psycho_info_app.pdb
+D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\TestWindow.g.cs
+D:\VS projects\Psycho_info_app\Psycho_info_app\obj\Debug\TestWindow.baml

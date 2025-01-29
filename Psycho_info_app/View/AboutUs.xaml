@@ -8,55 +8,51 @@
              d:DesignHeight="900" d:DesignWidth="1160">
     <ScrollViewer>
         <StackPanel>
-            <Border Background="#012A4A" 
-                    Height="140"
-                    Margin="0 0 0 10">
+            <Border Style="{StaticResource Border_Title}">
 
-                <TextBlock Text="TITLE"
+                <TextBlock Text="O nas"
                            Name="title"
-                           Foreground="White"/>
-                
+                           Style="{StaticResource Page_Title}"/>
+
             </Border>
 
             <Grid Width="1000">
                 <Grid.RowDefinitions>
-                    <RowDefinition Height="50"/>
-                    <RowDefinition Height="300"/>
-                    <RowDefinition Height="50"/>
-                    <RowDefinition Height="50"/>
-                    <RowDefinition Height="300"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="20"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="*"/>
                 </Grid.RowDefinitions>
-
-                <Border Background="#01497C"
-                        Grid.Row="0">
-
-                    <TextBlock Text="TITLE"
-                               Name="first"
-                               Foreground="White"/>
-
+                <!-- Block 1 -->
+                <Border Background="#01497C" Grid.Row="0" CornerRadius="10">
+                    <Border.BorderBrush>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="Black"/>
+                            <GradientStop Color="White" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Border.BorderBrush>
+                    <TextBlock Text=""
+                               Name="block1_title"
+                               Foreground="White" TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="DemiBold"/>
                 </Border>
 
-                <Border Background="#A9D6E5"
-                        Grid.Row="1">
-
-                    <TextBlock Text="TITLE" Name="second"/>
-
+                <Border Background="#A9D6E5" Grid.Row="1" CornerRadius="10">
+                    <TextBlock x:Name="Tex1" TextWrapping="Wrap" FontSize="17" Padding="10" Margin="10,5,10,5" FontWeight="Medium" IsEnabled="False"><Run Text="Jesteśmy czteroosobowym zespołem studentów, którzy postanowili stworzyć aplikację dedykowaną zdrowiu"/><LineBreak/><Run Text="psychicznemu – Psycho_App. Naszym celem jest zwiększenie świadomości na temat chorób psychicznych oraz wspieranie osób, które zmagają się z różnymi trudnościami w tej sferze."/><LineBreak/><Run Text="W skład naszego zespołu wchodzą:"/><LineBreak/><Run Text="Zuzanna – koordynatorka projektu, odpowiadająca za spójność działań i komunikację w zespole."/><LineBreak/><Run Text="Agata – odpowiedzialna za badania i merytoryczne treści dotyczące zdrowia psychicznego."/><LineBreak/><Run Text="Grzegorz – programista, który przekłada pomysły w działający kod"/><LineBreak/><Run Text="Dawid – zajmuje się projektowaniem interfejsu i użytkowym aspektem aplikacji."/><LineBreak/><Run Text="Pracujemy wspólnie w Dąbrowie Górniczej, a naszym priorytetem jest dostarczenie rozwiązania, które będzie pomocne, intuicyjne i przyjazne dla każdego użytkownika."/><LineBreak/><Run/></TextBlock>
                 </Border>
 
-                <Border Background="#01497C"
-                        Grid.Row="3">
 
-                    <TextBlock Text="TITLE"
-                               Name="secon"
-                               Foreground="White"/>
+                <Border Grid.Row="2" Background="Transparent"/>
 
+
+                <Border Background="#01497C" Grid.Row="3" CornerRadius="10">
+                    <TextBlock Text="Nasza misja "
+                               Name="block2_title"
+                               Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20" FontWeight="DemiBold"/>
                 </Border>
 
-                <Border Background="#A9D6E5"
-                        Grid.Row="4">
-
-                    <TextBlock Text="TITLE" Name="secod"/>
-
+                <Border Background="#A9D6E5" Grid.Row="4" Grid.RowSpan="2" CornerRadius="10">
+                    <TextBlock x:Name="block2_content" TextWrapping="WrapWithOverflow" FontSize="17" FontWeight="Medium" Padding="10" Margin="10,5,10,5"><Run Text="Zależy nam na tym, aby każdy mógł lepiej zrozumieć siebie i swoje potrzeby, dlatego nasza aplikacja dostarcza:"/><LineBreak/><Run Text="- Rzetelne informacje na temat zdrowia psychicznego."/><LineBreak/><Run Text="- Przyjazne narzędzia wspierające codzienną samopomoc."/><LineBreak/><Run Text="- Inspiracje do dalszego rozwoju osobistego i dbania o siebie."/><LineBreak/><Run Text="- Nasze wartości."/><LineBreak/><Run Text="- Etyka i poufność - tworzymy przestrzeń, w której możesz czuć się bezpiecznie."/><LineBreak/><LineBreak/><Run Text="Zapraszamy cię do skorzystania z Psycho_App – razem możemy zmieniać podejście do zdrowia psychicznego. "/><LineBreak/><Run/></TextBlock>
                 </Border>
             </Grid>
         </StackPanel>
